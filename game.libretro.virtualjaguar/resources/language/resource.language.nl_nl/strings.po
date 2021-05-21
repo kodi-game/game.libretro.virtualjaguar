@@ -21,7 +21,7 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Bios"
+msgid "Fast Blitter"
 msgstr ""
 
 msgctxt "#30002"
@@ -29,9 +29,9 @@ msgid "Doom Res Hack"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Pal (Restart)"
+msgid "Bios"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Fast Blitter"
+msgid "Pal (Restart)"
 msgstr ""
