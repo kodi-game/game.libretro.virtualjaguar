@@ -15,10 +15,6 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation.
-
-Supported files: .j64, .jag</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.virtualjaguar</source>
@@ -29,10 +25,6 @@ Supported files: .j64, .jag</description>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Atari - Jaguar (Virtual Jaguar) v2.1.0</summary>
-		<description lang="en_GB">Virtual Jaguar is an emulator for the Atari Jaguar video game console.
-
-Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation.
-
-Supported files: .j64, .jag</description>
+		<description lang="en_GB">Virtual Jaguar is an emulator for the Atari Jaguar video game console.[CR][CR]Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation.</description>
 	</extension>
 </addon>
