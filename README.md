@@ -8,6 +8,9 @@ Virtual Jaguar is an emulator for the Atari Jaguar video game console.
 
 Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation.
 
+### License
+GPLv3
+
 ### Icon
 
 ![Icon](game.libretro.virtualjaguar/resources/icon.png)
@@ -20,4 +23,4 @@ Based on code released by David Raingeard (Cal2) of what used to be Potato Emula
 
 ![Screenshot](game.libretro.virtualjaguar/resources/screenshot-03.jpg)
 
-You can view a list of Libretro cores that have been ported to Kodi at the [Game add-ons - Libretro cores](https://kodi.wiki/view/Game_add-ons#Libretro_cores) wiki article.
+
