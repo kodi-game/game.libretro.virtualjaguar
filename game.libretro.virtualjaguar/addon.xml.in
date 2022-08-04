@@ -28,5 +28,6 @@
 		<summary lang="en_GB">Atari - Jaguar (Virtual Jaguar) v2.1.0</summary>
 		<description lang="da_DK">Virtual Jaguar er en emulator til Atari Jaguar videospilkonsollen.[CR][CR]Baseret på kode udgivet af David Raingeard (Cal2) af det, der plejede at være Potato Emulation.</description>
 		<description lang="en_GB">Virtual Jaguar is an emulator for the Atari Jaguar video game console.[CR][CR]Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation.</description>
+		<description lang="zh_CN">Virtual Jaguar 是 Atari Jaguar 视频游戏机的模拟器。[CR][CR]基于 David Raingeard（Cal2）发布的曾经是 Potato 模拟器的代码。</description>
 	</extension>
 </addon>
