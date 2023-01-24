@@ -15,7 +15,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.virtualjaguar/resources/icon.png)
+![Atari - Jaguar (Virtual Jaguar) icon](game.libretro.virtualjaguar/resources/icon.png)
 
 ### Fanart
 
@@ -23,6 +23,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.virtualjaguar/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.virtualjaguar/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.virtualjaguar/resources/screenshot-03.jpg)
+![Atari - Jaguar (Virtual Jaguar) screenshot](game.libretro.virtualjaguar/resources/screenshot-01.jpg)
+![Atari - Jaguar (Virtual Jaguar) screenshot](game.libretro.virtualjaguar/resources/screenshot-02.jpg)
+![Atari - Jaguar (Virtual Jaguar) screenshot](game.libretro.virtualjaguar/resources/screenshot-03.jpg)
