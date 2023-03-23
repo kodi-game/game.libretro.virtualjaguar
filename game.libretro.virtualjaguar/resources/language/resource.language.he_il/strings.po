@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
 
 msgctxt "Addon Summary"
-msgid "Atari - Jaguar (Virtual Jaguar) v2.1.0"
+msgid "Atari - Jaguar (Virtual Jaguar)"
 msgstr ""
 
 msgctxt "Addon Description"
