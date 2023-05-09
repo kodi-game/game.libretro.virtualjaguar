@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Atari - Jaguar (Virtual Jaguar)</summary>
 		<summary lang="en_GB">Atari - Jaguar (Virtual Jaguar)</summary>
 		<summary lang="es_ES">Atari - Jaguar (Virtual Jaguar)</summary>
 		<description lang="da_DK">Virtual Jaguar er en emulator til Atari Jaguar videospilkonsollen.[CR][CR]Baseret på kode udgivet af David Raingeard (Cal2) af det, der plejede at være Potato Emulation.</description>
