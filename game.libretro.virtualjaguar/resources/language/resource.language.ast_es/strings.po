@@ -34,13 +34,221 @@ msgid "Fast Blitter"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Doom Res Hack"
+msgid "Doom Resolution Hack"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Bios"
-msgstr "BIOS"
+msgid "BIOS"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Pal (Restart)"
+msgid "PAL (Restart)"
 msgstr ""
+
+msgctxt "#30005"
+msgid "Enable Core Options Remapping"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Port 1 > Numpad Buttons to Keyboard Keys"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Port 1 > RetroPad Up"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Port 1 > RetroPad Down"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Port 1 > RetroPad Left"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Port 1 > RetroPad Right"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Port 1 > RetroPad A"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Port 1 > RetroPad B"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Port 1 > RetroPad X"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Port 1 > RetroPad Y"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Port 1 > RetroPad Select"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Port 1 > RetroPad Start"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Port 1 > RetroPad L1"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Port 1 > RetroPad R1"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Port 1 > RetroPad L2"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Port 1 > RetroPad R2"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Port 1 > RetroPad L3"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Port 1 > RetroPad R3"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Port 1 > RetroPad Left Analog Up"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Port 1 > RetroPad Left Analog Down"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Port 1 > RetroPad Left Analog Left"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Port 1 > RetroPad Left Analog Right"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Port 1 > RetroPad Right Analog Up"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Port 1 > RetroPad Right Analog Down"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Port 1 > RetroPad Right Analog Left"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Port 1 > RetroPad Right Analog Right"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Port 2 > Numpad Buttons to Keyboard Keys"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Port 2 > RetroPad Up"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Port 2 > RetroPad Down"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Port 2 > RetroPad Left"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Port 2 > RetroPad Right"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Port 2 > RetroPad A"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Port 2 > RetroPad B"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Port 2 > RetroPad X"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Port 2 > RetroPad Y"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Port 2 > RetroPad Select"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Port 2 > RetroPad Start"
+msgstr ""
+
+msgctxt "#30042"
+msgid "Port 2 > RetroPad L1"
+msgstr ""
+
+msgctxt "#30043"
+msgid "Port 2 > RetroPad R1"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Port 2 > RetroPad L2"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Port 2 > RetroPad R2"
+msgstr ""
+
+msgctxt "#30046"
+msgid "Port 2 > RetroPad L3"
+msgstr ""
+
+msgctxt "#30047"
+msgid "Port 2 > RetroPad R3"
+msgstr ""
+
+msgctxt "#30048"
+msgid "Port 2 > RetroPad Left Analog Up"
+msgstr ""
+
+msgctxt "#30049"
+msgid "Port 2 > RetroPad Left Analog Down"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Port 2 > RetroPad Left Analog Left"
+msgstr ""
+
+msgctxt "#30051"
+msgid "Port 2 > RetroPad Left Analog Right"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Port 2 > RetroPad Right Analog Up"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Port 2 > RetroPad Right Analog Down"
+msgstr ""
+
+msgctxt "#30054"
+msgid "Port 2 > RetroPad Right Analog Left"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Port 2 > RetroPad Right Analog Right"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "Bios"
+#~ msgstr "BIOS"
