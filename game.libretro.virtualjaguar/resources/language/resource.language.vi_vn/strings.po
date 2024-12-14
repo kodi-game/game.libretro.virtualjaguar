@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Virtual Jaguar is an emulator for the Atari Jaguar video game console.[CR][CR]Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Fast Blitter"
 msgstr ""

@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Virtual Jaguar is an emulator for the Atari Jaguar video game console.[CR][CR]Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation."
 msgstr "Virtual Jaguar es un emulador para la videoconsola Atari Jaguar[CR][CR]Basado en el código publicado por David Raingeard (Cal2) de lo que solía ser Potato Emulation."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Ajustes"
-
 msgctxt "#30001"
 msgid "Fast Blitter"
 msgstr "Blitter Rápido"
@@ -248,6 +244,10 @@ msgstr "Puerto 2 > RetroPad Analógico Derecho Izquierda"
 msgctxt "#30055"
 msgid "Port 2 > RetroPad Right Analog Right"
 msgstr "Puerto 2 > RetroPad Analógico Derecho Derecha"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
 
 #~ msgctxt "#30002"
 #~ msgid "Doom Res Hack"
