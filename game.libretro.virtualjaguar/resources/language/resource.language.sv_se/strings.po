@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.virtualjaguar\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2025-04-06 19:02+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-virtualjaguar/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,223 +27,223 @@ msgstr "Virtual Jaguar är en emulator för videospelskonsolen Atari Jaguar.[CR]
 
 msgctxt "#30001"
 msgid "Fast Blitter"
-msgstr ""
+msgstr "Snabb blitter"
 
 msgctxt "#30002"
 msgid "Doom Resolution Hack"
-msgstr ""
+msgstr "Upplösningshack för Doom"
 
 msgctxt "#30003"
 msgid "BIOS"
-msgstr ""
+msgstr "BIOS"
 
 msgctxt "#30004"
 msgid "PAL (Restart)"
-msgstr ""
+msgstr "PAL (omstart)"
 
 msgctxt "#30005"
 msgid "Enable Core Options Remapping"
-msgstr ""
+msgstr "Aktivera ommappning av kärnalternativ"
 
 msgctxt "#30006"
 msgid "Port 1 > Numpad Buttons to Keyboard Keys"
-msgstr ""
+msgstr "Port 1 > Numpad-knappar till tangentbordstangenter"
 
 msgctxt "#30007"
 msgid "Port 1 > RetroPad Up"
-msgstr ""
+msgstr "Port 1 > RetroPad Upp"
 
 msgctxt "#30008"
 msgid "Port 1 > RetroPad Down"
-msgstr ""
+msgstr "Port 1 > RetroPad Ner"
 
 msgctxt "#30009"
 msgid "Port 1 > RetroPad Left"
-msgstr ""
+msgstr "Port 1 > RetroPad Vänster"
 
 msgctxt "#30010"
 msgid "Port 1 > RetroPad Right"
-msgstr ""
+msgstr "Port 1 > RetroPad Höger"
 
 msgctxt "#30011"
 msgid "Port 1 > RetroPad A"
-msgstr ""
+msgstr "Port 1 > RetroPad A"
 
 msgctxt "#30012"
 msgid "Port 1 > RetroPad B"
-msgstr ""
+msgstr "Port 1 > RetroPad B"
 
 msgctxt "#30013"
 msgid "Port 1 > RetroPad X"
-msgstr ""
+msgstr "Port 1 > RetroPad X"
 
 msgctxt "#30014"
 msgid "Port 1 > RetroPad Y"
-msgstr ""
+msgstr "Port 1 > RetroPad Y"
 
 msgctxt "#30015"
 msgid "Port 1 > RetroPad Select"
-msgstr ""
+msgstr "Port 1 > RetroPad Select"
 
 msgctxt "#30016"
 msgid "Port 1 > RetroPad Start"
-msgstr ""
+msgstr "Port 1 > RetroPad Start"
 
 msgctxt "#30017"
 msgid "Port 1 > RetroPad L1"
-msgstr ""
+msgstr "Port 1 > RetroPad L1"
 
 msgctxt "#30018"
 msgid "Port 1 > RetroPad R1"
-msgstr ""
+msgstr "Port 1 > RetroPad R1"
 
 msgctxt "#30019"
 msgid "Port 1 > RetroPad L2"
-msgstr ""
+msgstr "Port 1 > RetroPad L2"
 
 msgctxt "#30020"
 msgid "Port 1 > RetroPad R2"
-msgstr ""
+msgstr "Port 1 > RetroPad R2"
 
 msgctxt "#30021"
 msgid "Port 1 > RetroPad L3"
-msgstr ""
+msgstr "Port 1 > RetroPad L3"
 
 msgctxt "#30022"
 msgid "Port 1 > RetroPad R3"
-msgstr ""
+msgstr "Port 1 > RetroPad R3"
 
 msgctxt "#30023"
 msgid "Port 1 > RetroPad Left Analog Up"
-msgstr ""
+msgstr "Port 1 > RetroPad Vänster Analog Upp"
 
 msgctxt "#30024"
 msgid "Port 1 > RetroPad Left Analog Down"
-msgstr ""
+msgstr "Port 1 > RetroPad Vänster Analog Ner"
 
 msgctxt "#30025"
 msgid "Port 1 > RetroPad Left Analog Left"
-msgstr ""
+msgstr "Port 1 > RetroPad Vänster Analog Vänster"
 
 msgctxt "#30026"
 msgid "Port 1 > RetroPad Left Analog Right"
-msgstr ""
+msgstr "Port 1 > RetroPad Vänster Analog Höger"
 
 msgctxt "#30027"
 msgid "Port 1 > RetroPad Right Analog Up"
-msgstr ""
+msgstr "Port 1 > RetroPad Höger Analog Upp"
 
 msgctxt "#30028"
 msgid "Port 1 > RetroPad Right Analog Down"
-msgstr ""
+msgstr "Port 1 > RetroPad Höger Analog Ner"
 
 msgctxt "#30029"
 msgid "Port 1 > RetroPad Right Analog Left"
-msgstr ""
+msgstr "Port 1 > RetroPad Höger Analog Vänster"
 
 msgctxt "#30030"
 msgid "Port 1 > RetroPad Right Analog Right"
-msgstr ""
+msgstr "Port 1 > RetroPad Höger Analog Höger"
 
 msgctxt "#30031"
 msgid "Port 2 > Numpad Buttons to Keyboard Keys"
-msgstr ""
+msgstr "Port 2 > Numpad-knappar till tangentbordstangenter"
 
 msgctxt "#30032"
 msgid "Port 2 > RetroPad Up"
-msgstr ""
+msgstr "Port 2 > RetroPad Upp"
 
 msgctxt "#30033"
 msgid "Port 2 > RetroPad Down"
-msgstr ""
+msgstr "Port 2 > RetroPad Ner"
 
 msgctxt "#30034"
 msgid "Port 2 > RetroPad Left"
-msgstr ""
+msgstr "Port 2 > RetroPad Vänster"
 
 msgctxt "#30035"
 msgid "Port 2 > RetroPad Right"
-msgstr ""
+msgstr "Port 2 > RetroPad Höger"
 
 msgctxt "#30036"
 msgid "Port 2 > RetroPad A"
-msgstr ""
+msgstr "Port 2 > RetroPad A"
 
 msgctxt "#30037"
 msgid "Port 2 > RetroPad B"
-msgstr ""
+msgstr "Port 2 > RetroPad B"
 
 msgctxt "#30038"
 msgid "Port 2 > RetroPad X"
-msgstr ""
+msgstr "Port 2 > RetroPad X"
 
 msgctxt "#30039"
 msgid "Port 2 > RetroPad Y"
-msgstr ""
+msgstr "Port 2 > RetroPad Y"
 
 msgctxt "#30040"
 msgid "Port 2 > RetroPad Select"
-msgstr ""
+msgstr "Port 2 > RetroPad Select"
 
 msgctxt "#30041"
 msgid "Port 2 > RetroPad Start"
-msgstr ""
+msgstr "Port 2 > RetroPad Start"
 
 msgctxt "#30042"
 msgid "Port 2 > RetroPad L1"
-msgstr ""
+msgstr "Port 2 > RetroPad L1"
 
 msgctxt "#30043"
 msgid "Port 2 > RetroPad R1"
-msgstr ""
+msgstr "Port 2 > RetroPad R1"
 
 msgctxt "#30044"
 msgid "Port 2 > RetroPad L2"
-msgstr ""
+msgstr "Port 2 > RetroPad L2"
 
 msgctxt "#30045"
 msgid "Port 2 > RetroPad R2"
-msgstr ""
+msgstr "Port 2 > RetroPad R2"
 
 msgctxt "#30046"
 msgid "Port 2 > RetroPad L3"
-msgstr ""
+msgstr "Port 2 > RetroPad L3"
 
 msgctxt "#30047"
 msgid "Port 2 > RetroPad R3"
-msgstr ""
+msgstr "Port 2 > RetroPad R3"
 
 msgctxt "#30048"
 msgid "Port 2 > RetroPad Left Analog Up"
-msgstr ""
+msgstr "Port 2 > RetroPad Vänster Analog Upp"
 
 msgctxt "#30049"
 msgid "Port 2 > RetroPad Left Analog Down"
-msgstr ""
+msgstr "Port 2 > RetroPad Vänster Analog Ner"
 
 msgctxt "#30050"
 msgid "Port 2 > RetroPad Left Analog Left"
-msgstr ""
+msgstr "Port 2 > RetroPad Vänster Analog Vänster"
 
 msgctxt "#30051"
 msgid "Port 2 > RetroPad Left Analog Right"
-msgstr ""
+msgstr "Port 2 > RetroPad Vänster Analog Höger"
 
 msgctxt "#30052"
 msgid "Port 2 > RetroPad Right Analog Up"
-msgstr ""
+msgstr "Port 2 > RetroPad Höger Analog Upp"
 
 msgctxt "#30053"
 msgid "Port 2 > RetroPad Right Analog Down"
-msgstr ""
+msgstr "Port 2 > RetroPad Höger Analog Ner"
 
 msgctxt "#30054"
 msgid "Port 2 > RetroPad Right Analog Left"
-msgstr ""
+msgstr "Port 2 > RetroPad Höger Analog Vänster"
 
 msgctxt "#30055"
 msgid "Port 2 > RetroPad Right Analog Right"
-msgstr ""
+msgstr "Port 2 > RetroPad Höger Analog Höger"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
