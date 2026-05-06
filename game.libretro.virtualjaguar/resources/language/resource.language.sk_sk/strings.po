@@ -29,10 +29,6 @@ msgctxt "#30001"
 msgid "Fast Blitter"
 msgstr ""
 
-msgctxt "#30002"
-msgid "Doom Resolution Hack"
-msgstr ""
-
 msgctxt "#30003"
 msgid "BIOS"
 msgstr ""

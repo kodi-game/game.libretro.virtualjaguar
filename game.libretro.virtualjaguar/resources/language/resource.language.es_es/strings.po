@@ -29,10 +29,6 @@ msgctxt "#30001"
 msgid "Fast Blitter"
 msgstr "Blitter Rápido"
 
-msgctxt "#30002"
-msgid "Doom Resolution Hack"
-msgstr "Hack Resolución Doom"
-
 msgctxt "#30003"
 msgid "BIOS"
 msgstr "BIOS"
@@ -244,6 +240,10 @@ msgstr "Puerto 2 > RetroPad Analógico Derecho Izquierda"
 msgctxt "#30055"
 msgid "Port 2 > RetroPad Right Analog Right"
 msgstr "Puerto 2 > RetroPad Analógico Derecho Derecha"
+
+#~ msgctxt "#30002"
+#~ msgid "Doom Resolution Hack"
+#~ msgstr "Hack Resolución Doom"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
