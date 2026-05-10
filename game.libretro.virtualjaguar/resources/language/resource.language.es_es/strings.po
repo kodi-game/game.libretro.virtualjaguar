@@ -241,6 +241,10 @@ msgctxt "#30055"
 msgid "Port 2 > RetroPad Right Analog Right"
 msgstr "Puerto 2 > RetroPad Analógico Derecho Derecha"
 
+msgctxt "#30056"
+msgid "Crash Detect"
+msgstr ""
+
 #~ msgctxt "#30002"
 #~ msgid "Doom Resolution Hack"
 #~ msgstr "Hack Resolución Doom"

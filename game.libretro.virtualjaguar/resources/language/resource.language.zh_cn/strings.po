@@ -241,6 +241,10 @@ msgctxt "#30055"
 msgid "Port 2 > RetroPad Right Analog Right"
 msgstr "端口 2 > 复古手柄 右摇杆 右"
 
+msgctxt "#30056"
+msgid "Crash Detect"
+msgstr ""
+
 #~ msgctxt "#30002"
 #~ msgid "Doom Resolution Hack"
 #~ msgstr "《毁灭战士》分辨率 hack（补丁 / 修正）"
