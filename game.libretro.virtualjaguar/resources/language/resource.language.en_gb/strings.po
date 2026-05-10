@@ -241,3 +241,7 @@ msgstr ""
 msgctxt "#30055"
 msgid "Port 2 > RetroPad Right Analog Right"
 msgstr ""
+
+msgctxt "#30056"
+msgid "Crash Detect"
+msgstr ""
