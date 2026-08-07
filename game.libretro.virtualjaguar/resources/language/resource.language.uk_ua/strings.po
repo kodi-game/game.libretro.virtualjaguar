@@ -25,14 +25,6 @@ msgctxt "Addon Description"
 msgid "Virtual Jaguar is an emulator for the Atari Jaguar video game console.[CR][CR]Based on code released by David Raingeard (Cal2) of what used to be Potato Emulation."
 msgstr ""
 
-msgctxt "#30001"
-msgid "Fast Blitter"
-msgstr ""
-
-msgctxt "#30003"
-msgid "BIOS"
-msgstr ""
-
 msgctxt "#30004"
 msgid "PAL (Restart)"
 msgstr ""
@@ -243,4 +235,64 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "Crash Detect"
+msgstr ""
+
+msgctxt "#30057"
+msgid "Blitter"
+msgstr ""
+
+msgctxt "#30058"
+msgid "DRAM Timing (Experimental)"
+msgstr ""
+
+msgctxt "#30059"
+msgid "M68K Clock Scale (Overclock)"
+msgstr ""
+
+msgctxt "#30060"
+msgid "RISC (GPU/DSP) Clock Scale (Overclock)"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Network Link (JagLink / CatBox)"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Network Link Host (TCP Client)"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Network Link Port"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Network Link Latency Hiding"
+msgstr ""
+
+msgctxt "#30065"
+msgid "CD Trace (Diagnostic)"
+msgstr ""
+
+msgctxt "#30066"
+msgid "BIOS (Cartridges)"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Jaguar GameDrive (Restart)"
+msgstr ""
+
+msgctxt "#30068"
+msgid "CD BIOS Type (Restart)"
+msgstr ""
+
+msgctxt "#30069"
+msgid "CD Boot Mode (Restart)"
+msgstr ""
+
+msgctxt "#30070"
+msgid "CD Read Speed (HLE Boot Mode Only)"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Memory Track (Restart)"
 msgstr ""
