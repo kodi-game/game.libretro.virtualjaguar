@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="128">
-		<setting label="30001" type="select" id="virtualjaguar_usefastblitter" values="disabled|enabled" default="disabled"/>
+		<setting label="30057" type="select" id="virtualjaguar_usefastblitter" values="disabled|enabled" default="disabled"/>
 		<setting label="30056" type="select" id="virtualjaguar_crash_detect" values="enabled|disabled|verbose" default="enabled"/>
-		<setting label="30003" type="select" id="virtualjaguar_bios" values="disabled|enabled" default="disabled"/>
+		<setting label="30058" type="select" id="virtualjaguar_dram_timing" values="disabled|enabled" default="disabled"/>
+		<setting label="30059" type="select" id="virtualjaguar_m68k_clock_scale" values="1x|0.5x|1.5x|2x|3x" default="1x"/>
+		<setting label="30060" type="select" id="virtualjaguar_risc_clock_scale" values="1x|0.5x|1.5x|2x" default="1x"/>
+		<setting label="30061" type="select" id="virtualjaguar_netlink" values="disabled|loopback|tcp_server|tcp_client" default="disabled"/>
+		<setting label="30062" type="select" id="virtualjaguar_netlink_host" values="127.0.0.1|jaghub.local|vj_netlink.txt" default="127.0.0.1"/>
+		<setting label="30063" type="select" id="virtualjaguar_netlink_port" values="42171|42172|42173|42174" default="42171"/>
+		<setting label="30064" type="select" id="virtualjaguar_netlink_wait" values="enabled|disabled" default="enabled"/>
+		<setting label="30065" type="select" id="virtualjaguar_cd_trace" values="disabled|enabled" default="disabled"/>
+		<setting label="30066" type="select" id="virtualjaguar_bios" values="disabled|enabled" default="disabled"/>
+		<setting label="30067" type="select" id="virtualjaguar_jgd" values="auto|disabled|enabled" default="auto"/>
 		<setting label="30004" type="select" id="virtualjaguar_pal" values="disabled|enabled" default="disabled"/>
+		<setting label="30068" type="select" id="virtualjaguar_cd_bios_type" values="retail|dev" default="retail"/>
+		<setting label="30069" type="select" id="virtualjaguar_cd_boot_mode" values="hle|auto|bios" default="hle"/>
+		<setting label="30070" type="select" id="virtualjaguar_cd_read_speed" values="2x|1x|4x|8x|instant" default="2x"/>
+		<setting label="30071" type="select" id="virtualjaguar_memory_track" values="enabled|disabled" default="enabled"/>
 		<setting label="30005" type="select" id="virtualjaguar_alt_inputs" values="disabled|enabled" default="disabled"/>
 		<setting label="30006" type="select" id="virtualjaguar_p1_numpad_to_kb" values="disabled|numbers|keypad" default="disabled"/>
 		<setting label="30007" type="select" id="virtualjaguar_p1_retropad_up" values="up|down|left|right|btn_a|btn_b|btn_c|pause|option|num_0|num_1|num_2|num_3|num_4|num_5|num_6|num_7|num_8|num_9|star|hash|---" default="up"/>
