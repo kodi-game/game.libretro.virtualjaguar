@@ -297,3 +297,27 @@ msgstr ""
 msgctxt "#30071"
 msgid "Memory Track (Restart)"
 msgstr ""
+
+msgctxt "#30072"
+msgid "True Color (Gouraud Precision)"
+msgstr ""
+
+msgctxt "#30073"
+msgid "Internal Resolution (Restart Required)"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Per-Title Enhancement Defaults"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Blit Memoization (Per-Title)"
+msgstr ""
+
+msgctxt "#30076"
+msgid "GPU Pipeline Timing (Experimental)"
+msgstr ""
+
+msgctxt "#30077"
+msgid "Blitter Bus Timing (Experimental)"
+msgstr ""

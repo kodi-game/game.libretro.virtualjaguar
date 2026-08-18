@@ -2,10 +2,16 @@
 <settings>
 	<category label="128">
 		<setting label="30057" type="select" id="virtualjaguar_usefastblitter" values="disabled|enabled" default="disabled"/>
+		<setting label="30072" type="select" id="virtualjaguar_true_color" values="disabled|enabled" default="disabled"/>
+		<setting label="30073" type="select" id="virtualjaguar_internal_resolution" values="1x|2x" default="1x"/>
+		<setting label="30074" type="select" id="virtualjaguar_pertitle_defaults" values="enabled|disabled" default="enabled"/>
+		<setting label="30075" type="select" id="virtualjaguar_blit_memo" values="disabled|enabled|verify" default="disabled"/>
 		<setting label="30056" type="select" id="virtualjaguar_crash_detect" values="enabled|disabled|verbose" default="enabled"/>
-		<setting label="30058" type="select" id="virtualjaguar_dram_timing" values="disabled|enabled" default="disabled"/>
 		<setting label="30059" type="select" id="virtualjaguar_m68k_clock_scale" values="1x|0.5x|1.5x|2x|3x" default="1x"/>
 		<setting label="30060" type="select" id="virtualjaguar_risc_clock_scale" values="1x|0.5x|1.5x|2x" default="1x"/>
+		<setting label="30058" type="select" id="virtualjaguar_dram_timing" values="disabled|enabled" default="disabled"/>
+		<setting label="30076" type="select" id="virtualjaguar_gpu_pipeline_timing" values="disabled|enabled" default="disabled"/>
+		<setting label="30077" type="select" id="virtualjaguar_blitter_timing" values="disabled|enabled" default="disabled"/>
 		<setting label="30061" type="select" id="virtualjaguar_netlink" values="disabled|loopback|tcp_server|tcp_client" default="disabled"/>
 		<setting label="30062" type="select" id="virtualjaguar_netlink_host" values="127.0.0.1|jaghub.local|vj_netlink.txt" default="127.0.0.1"/>
 		<setting label="30063" type="select" id="virtualjaguar_netlink_port" values="42171|42172|42173|42174" default="42171"/>
