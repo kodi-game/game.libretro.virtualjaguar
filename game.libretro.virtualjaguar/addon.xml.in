@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.virtualjaguar"
 		name="Atari - Jaguar (Virtual Jaguar)"
-		version="3.3.0.51"
+		version="3.4.0.52"
 		provider-name="Joseph Mattiello, David Raingeard, Shamus">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -10,7 +10,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>Jaguar</platforms>
-		<extensions>j64|jag|rom|abs|cof|bin|prg|cue|cdi</extensions>
+		<extensions>j64|jag|rom|abs|cof|bin|prg|cue|cdi|chd</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
