@@ -31,7 +31,7 @@
 					<constraints>
 						<options>
 							<option label="30085">1x</option>
-							<option>2x</option>
+							<option label="30284">2x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -498,7 +498,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -529,7 +529,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -560,7 +560,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -591,7 +591,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -622,7 +622,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -653,7 +653,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -684,7 +684,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -715,7 +715,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -746,7 +746,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -777,7 +777,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -808,7 +808,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -839,7 +839,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -870,7 +870,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -901,7 +901,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -932,7 +932,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -963,7 +963,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -994,7 +994,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1025,7 +1025,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1056,7 +1056,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1087,7 +1087,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1118,7 +1118,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1149,7 +1149,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1180,7 +1180,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1211,7 +1211,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1392,7 +1392,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1423,7 +1423,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1454,7 +1454,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1485,7 +1485,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1516,7 +1516,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1547,7 +1547,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1578,7 +1578,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1609,7 +1609,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1640,7 +1640,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1671,7 +1671,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1702,7 +1702,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1733,7 +1733,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1764,7 +1764,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1795,7 +1795,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1826,7 +1826,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1857,7 +1857,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1888,7 +1888,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1919,7 +1919,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1950,7 +1950,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1981,7 +1981,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2012,7 +2012,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2043,7 +2043,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2074,7 +2074,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2105,7 +2105,7 @@
 							<option label="30240">num_9</option>
 							<option label="30241">star</option>
 							<option label="30242">hash</option>
-							<option>---</option>
+							<option label="30285">---</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2169,11 +2169,11 @@
 					<default>1x</default>
 					<constraints>
 						<options>
-							<option>0.5x</option>
+							<option label="30286">0.5x</option>
 							<option label="30279">1x</option>
-							<option>1.5x</option>
-							<option>2x</option>
-							<option>3x</option>
+							<option label="30287">1.5x</option>
+							<option label="30284">2x</option>
+							<option label="30288">3x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2183,10 +2183,10 @@
 					<default>1x</default>
 					<constraints>
 						<options>
-							<option>0.5x</option>
+							<option label="30286">0.5x</option>
 							<option label="30279">1x</option>
-							<option>1.5x</option>
-							<option>2x</option>
+							<option label="30287">1.5x</option>
+							<option label="30284">2x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
