@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.virtualjaguar\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2026-08-21 16:23+0000\n"
+"PO-Revision-Date: 2026-08-23 13:51+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-virtualjaguar/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -1144,6 +1144,26 @@ msgstr "Modelovat skutečné náklady instrukcí GPU: jedinou bránu do externí
 msgctxt "#30283"
 msgid "Charge the 68000 the bus time each blit really takes -- on hardware the blitter is the top-priority bus master and freezes the cacheless 68000 while it runs. Zero-time blits let games paced on blit completion (Doom's menus, Hover Strike) run too fast. Still being calibrated."
 msgstr "Započítávat dobu na sběrnici, kterou každý blit skutečně zabere – na hardwaru je blitter sběrnicí s nejvyšší prioritou a po dobu jeho běhu zmrazí 68000 bez cache. Blity s nulovým časem způsobí, že hry řízené dokončením blitu (nabídky Doomu, Hover Strike) běží příliš rychle. Stále se kalibruje."
+
+msgctxt "#30284"
+msgid "2x"
+msgstr "2x"
+
+msgctxt "#30285"
+msgid "---"
+msgstr "---"
+
+msgctxt "#30286"
+msgid "0.5x"
+msgstr "0.5x"
+
+msgctxt "#30287"
+msgid "1.5x"
+msgstr "1.5x"
+
+msgctxt "#30288"
+msgid "3x"
+msgstr "3x"
 
 #~ msgctxt "#30061"
 #~ msgid "Network Link (JagLink / CatBox)"

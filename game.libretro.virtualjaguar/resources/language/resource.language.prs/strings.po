@@ -252,6 +252,10 @@ msgctxt "#30060"
 msgid "RISC (GPU/DSP) Clock Scale (Overclock)"
 msgstr ""
 
+msgctxt "#30061"
+msgid "Network Link (JagLink / CatBox)"
+msgstr ""
+
 msgctxt "#30062"
 msgid "Network Link Host (TCP Client)"
 msgstr ""
@@ -1140,4 +1144,24 @@ msgstr ""
 
 msgctxt "#30283"
 msgid "Charge the 68000 the bus time each blit really takes -- on hardware the blitter is the top-priority bus master and freezes the cacheless 68000 while it runs. Zero-time blits let games paced on blit completion (Doom's menus, Hover Strike) run too fast. Still being calibrated."
+msgstr ""
+
+msgctxt "#30284"
+msgid "2x"
+msgstr ""
+
+msgctxt "#30285"
+msgid "---"
+msgstr ""
+
+msgctxt "#30286"
+msgid "0.5x"
+msgstr ""
+
+msgctxt "#30287"
+msgid "1.5x"
+msgstr ""
+
+msgctxt "#30288"
+msgid "3x"
 msgstr ""

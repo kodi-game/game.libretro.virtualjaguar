@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.virtualjaguar\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2017-02-04 09:56i\n"
-"PO-Revision-Date: 2026-08-22 03:47+0000\n"
+"PO-Revision-Date: 2026-08-23 05:46+0000\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-virtualjaguar/it_it/>\n"
 "Language: it_it\n"
@@ -319,63 +319,63 @@ msgstr "Orari del bus Blitter (sperimentale)"
 
 msgctxt "#30078"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30079"
 msgid "Blitter implementation and console video standard."
-msgstr ""
+msgstr "Implementazione del blitter e standard video della console."
 
 msgctxt "#30080"
 msgid "Choose which blitter implementation to use. 'Accurate' is SIMD-accelerated (SSE2 on x86, NEON on ARM) and is the most compatible. 'Fast' is the older blitter; it trades accuracy for extra speed on low-end hardware and breaks some games."
-msgstr ""
+msgstr "Scegli quale implementazione del blitter usare. 'Accurato' è accelerato SIMD (SSE2 su x86, NEON su ARM) ed è il più compatibile. 'Veloce' è il blitter più vecchio; sacrifica l'accuratezza per maggiore velocità su hardware di fascia bassa e rompe alcuni giochi."
 
 msgctxt "#30081"
 msgid "Accurate"
-msgstr ""
+msgstr "Accurato"
 
 msgctxt "#30082"
 msgid "Fast"
-msgstr ""
+msgstr "Veloce"
 
 msgctxt "#30083"
 msgid "Render gouraud-shaded pixels at full precision (chroma x 24-bit intensity) to reduce banding in 3D games. The game-visible 16-bit framebuffer is unchanged. Applies to CRY 16bpp video modes only."
-msgstr ""
+msgstr "Esegue il rendering dei pixel con ombreggiatura gouraud a piena precisione (crominanza x intensità a 24 bit) per ridurre il banding nei giochi 3D. Il framebuffer a 16 bit visibile dal gioco resta invariato. Si applica solo alle modalità video CRY 16bpp."
 
 msgctxt "#30084"
 msgid "Render internally at a multiple of the Jaguar's native resolution. Applied when content is loaded; changing it mid-game takes effect on restart. The game-visible framebuffer and all emulation timing are unchanged. Combines with True Color."
-msgstr ""
+msgstr "Esegue il rendering internamente a un multiplo della risoluzione nativa del Jaguar. Applicato al caricamento del contenuto; la modifica a gioco avviato ha effetto al riavvio. Il framebuffer visibile dal gioco e tutta la temporizzazione dell'emulazione restano invariati. Si combina con True Color."
 
 msgctxt "#30085"
 msgid "1x (native)"
-msgstr ""
+msgstr "1x (nativa)"
 
 msgctxt "#30086"
 msgid "Apply known-safe enhancement presets automatically for recognized games (e.g. internal resolution or true color for titles verified to benefit). A preset only applies to options you have left at their default value -- any option you change yourself always wins. Disable for stock behaviour on every title."
-msgstr ""
+msgstr "Applica automaticamente preset di miglioramento noti come sicuri per i giochi riconosciuti (ad es. risoluzione interna o true color per titoli verificati). Un preset si applica solo alle opzioni lasciate al valore predefinito: qualsiasi opzione modificata manualmente prevale sempre. Disattiva per il comportamento originale su ogni titolo."
 
 msgctxt "#30087"
 msgid "Per-Title Enhancement Hooks"
-msgstr ""
+msgstr "Aggiunte di miglioramento per titolo"
 
 msgctxt "#30088"
 msgid "Apply per-game byte patches from the enhancement database to the loaded cartridge image at load time (game-side fixes that no core option can express). Off by default. Each patch verifies the bytes it expects to find and refuses to write anything if they differ, so it can never corrupt a dump it was not written for. Cartridge content only; a change takes effect on restart."
-msgstr ""
+msgstr "Applica patch a byte specifiche per gioco dal database dei miglioramenti all'immagine cartuccia caricata al momento del caricamento (correzioni lato gioco che nessuna opzione del core può esprimere). Disattivato per impostazione predefinita. Ogni patch verifica i byte che si aspetta di trovare e rifiuta di scrivere se differiscono, quindi non può mai corrompere un dump per cui non è stata scritta. Solo per contenuti su cartuccia; la modifica ha effetto al riavvio."
 
 msgctxt "#30089"
 msgid "Skip blits whose inputs are provably unchanged since an identical earlier blit (some titles re-render an identical scene every engine cycle while the player is idle). Output is bit-identical by construction; enabled per title via the enhancement database. Verify mode never skips - it executes every would-be skip and logs any divergence (for validating new titles). Not available for CD content."
-msgstr ""
+msgstr "Salta i blit i cui input sono dimostrabilmente invariati rispetto a un blit identico precedente (alcuni titoli ridisegnano la stessa scena identica a ogni ciclo del motore mentre il giocatore è inattivo). L'output è identico bit per bit per costruzione; attivato per titolo tramite il database dei miglioramenti. La modalità verifica non salta mai: esegue ogni salto potenziale e registra qualsiasi divergenza (per convalidare nuovi titoli). Non disponibile per contenuti CD."
 
 msgctxt "#30090"
 msgid "Disabled"
-msgstr ""
+msgstr "Disattivato"
 
 msgctxt "#30091"
 msgid "Enabled"
-msgstr ""
+msgstr "Attivato"
 
 msgctxt "#30092"
 msgid "Verify (debug, no speedup)"
-msgstr ""
+msgstr "Verifica (debug, nessuna accelerazione)"
 
 msgctxt "#30093"
 msgid "Texture Replacement"
@@ -383,233 +383,235 @@ msgstr "Sostituzione texture"
 
 msgctxt "#30094"
 msgid "Present community texture-pack art in place of the title's own blitter tiles (issue #369). Packs live in <system dir>/vj_texpacks/<cart CRC32>/, named by the same hashes Texture Dump Mode writes. Presentation-only: the emulated machine, savestates and netplay are bit-identical with or without a pack. Shown only when a pack directory exists for the loaded title."
-msgstr ""
+msgstr "Presenta la grafica dei texture pack della community al posto dei tile blitter originali del titolo (issue #369). I pack risiedono in <cartella di sistema>/vj_texpacks/<CRC32 cartuccia>/, denominati con gli stessi hash scritti dalla Modalità dump texture. Solo a scopo di presentazione: la macchina emulata, i salvataggi rapidi e il netplay sono identici bit per bit con o senza pack. Mostrato solo quando esiste una cartella pack per il titolo caricato."
 
 msgctxt "#30095"
 msgid "Emulate a PAL Jaguar instead of NTSC."
-msgstr ""
+msgstr "Emula un Jaguar PAL anziché NTSC."
 
 msgctxt "#30096"
 msgid "BIOS & Boot"
-msgstr ""
+msgstr "BIOS e avvio"
 
 msgctxt "#30097"
 msgid "How cartridges boot: emulated (HLE) BIOS services or the real Jaguar boot ROM."
-msgstr ""
+msgstr "Come si avviano le cartucce: servizi BIOS emulati (HLE) oppure la vera boot ROM del Jaguar."
 
 msgctxt "#30098"
 msgid "Which BIOS a CARTRIDGE boots with. 'HLE' has the core emulate the BIOS setup and services itself, which lets most commercial titles boot faster and skips the boot animation. 'Real' runs the actual Jaguar boot ROM, which some titles require. Both boot ROM images are built into the core, so neither setting needs a file; the one exception is an optional jagboot_m.rom in the system directory, which overrides the embedded Model-M image. GPU-only/jagcrypt carts (BootIntro demos) auto-enable the real boot ROM even when this is set to HLE -- they contain no 68K program for HLE to start. Ignored for CD content: there, 'CD Boot Mode' decides and turns the boot ROM on or off to match."
-msgstr ""
+msgstr "Con quale BIOS si avvia una CARTUCCIA. 'HLE' fa emulare al core la configurazione e i servizi del BIOS stesso, il che consente alla maggior parte dei titoli commerciali di avviarsi più rapidamente e salta l'animazione di avvio. 'Reale' esegue la vera boot ROM del Jaguar, richiesta da alcuni titoli. Entrambe le immagini boot ROM sono integrate nel core, quindi nessuna delle due impostazioni richiede un file; l'unica eccezione è un jagboot_m.rom opzionale nella cartella di sistema, che sovrascrive l'immagine Model-M integrata. Le cartucce solo GPU/jagcrypt (demo BootIntro) attivano automaticamente la boot ROM reale anche quando questa è impostata su HLE, poiché non contengono alcun programma 68K che HLE possa avviare. Ignorato per i contenuti CD: in quel caso decide 'Modalità avvio CD', che attiva o disattiva la boot ROM di conseguenza."
 
 msgctxt "#30099"
 msgid "HLE"
-msgstr ""
+msgstr "HLE"
 
 msgctxt "#30100"
 msgid "Real"
-msgstr ""
+msgstr "Reale"
 
 msgctxt "#30101"
 msgid "Cart BIOS Type (Restart)"
-msgstr ""
+msgstr "Tipo BIOS cartuccia (riavvio)"
 
 msgctxt "#30102"
 msgid "Which console boot ROM a CARTRIDGE uses when 'BIOS (Cartridges)' is Real, or when a GPU-only/jagcrypt cart auto-enables the boot ROM. 'Series K' is the original Jaguar. 'Model M' is the later revision (patch address $4804) that most size-coded BootIntros are built for. Both images are built into the core. 'Custom' loads a 128 KB image from the system directory: jagboot.rom, boot.rom, boot0.rom, or a named '[BIOS] Atari Jaguar...' file, identified by checksum and logged; falls back to Series K if none is found. A jagboot_m.rom in the system directory overrides the embedded Model-M image. Ignored for CD content."
-msgstr ""
+msgstr "Quale boot ROM della console usa una CARTUCCIA quando 'BIOS (Cartucce)' è impostato su Reale, oppure quando una cartuccia solo GPU/jagcrypt attiva automaticamente la boot ROM. 'Series K' è il Jaguar originale. 'Model M' è la revisione successiva (indirizzo patch $4804) per cui è costruita la maggior parte delle BootIntro codificate per dimensione. Entrambe le immagini sono integrate nel core. 'Personalizzata' carica un'immagine da 128 KB dalla cartella di sistema: jagboot.rom, boot.rom, boot0.rom, oppure un file denominato '[BIOS] Atari Jaguar...', identificato tramite checksum e registrato nel log; in assenza di questi, ripiega su Series K. Un jagboot_m.rom nella cartella di sistema sovrascrive l'immagine Model-M integrata. Ignorato per i contenuti CD."
 
 msgctxt "#30103"
 msgid "Series K"
-msgstr ""
+msgstr "Series K"
 
 msgctxt "#30104"
 msgid "Model M"
-msgstr ""
+msgstr "Model M"
 
 msgctxt "#30105"
 msgid "Custom (external file)"
-msgstr ""
+msgstr "Personalizzata (file esterno)"
 
 msgctxt "#30106"
 msgid "Emulate the Jaguar GameDrive (JagGD) flash cartridge: its detection/install interface and 1 MB bank switching of up to 16 MB of cart SDRAM. 'Auto' turns it on only for ROM images larger than the 6 MB cartridge window. 'Enabled' forces it on for smaller images too, for GD-locked homebrew that refuses to boot without the cart (equivalent to BigPEmu's Force JGD). Without it, GD-locked titles hang at boot exactly as on a stock console."
-msgstr ""
+msgstr "Emula la cartuccia flash Jaguar GameDrive (JagGD): la sua interfaccia di rilevamento/installazione e il bank switching a 1 MB fino a 16 MB di SDRAM della cartuccia. 'Auto' la attiva solo per immagini ROM più grandi della finestra cartuccia di 6 MB. 'Attivato' la forza anche per immagini più piccole, per homebrew bloccati su GD che rifiutano di avviarsi senza la cartuccia (equivalente al Force JGD di BigPEmu). Senza di essa, i titoli bloccati su GD si bloccano all'avvio esattamente come su una console originale."
 
 msgctxt "#30107"
 msgid "Auto (images over 6 MB)"
-msgstr ""
+msgstr "Auto (immagini oltre 6 MB)"
 
 msgctxt "#30108"
 msgid "Enabled (force, for GD-locked images)"
-msgstr ""
+msgstr "Attivato (forzato, per immagini bloccate su GD)"
 
 msgctxt "#30109"
 msgid "CD-ROM"
-msgstr ""
+msgstr "CD-ROM"
 
 msgctxt "#30110"
 msgid "Jaguar CD boot path, CD BIOS selection and drive read speed. Only applies to CD content."
-msgstr ""
+msgstr "Percorso di avvio Jaguar CD, selezione del BIOS CD e velocità di lettura dell'unità. Si applica solo ai contenuti CD."
 
 msgctxt "#30111"
 msgid "Which CD BIOS the real-BIOS boot path uses. 'Retail' is the standard consumer BIOS; 'Developer' is the dev-kit BIOS, which applies less strict disc checks and can boot images the retail BIOS refuses. Both are built into the core, so no files are required. CD BIOS ROM files in the system directory are preferred over the embedded images, and this selection picks which file wins when both types are present. Only has an effect when 'CD Boot Mode' is 'Real BIOS' or 'Auto' -- the HLE boot path never runs a CD BIOS."
-msgstr ""
+msgstr "Quale BIOS CD usa il percorso di avvio con BIOS reale. 'Retail' è il BIOS standard consumer; 'Developer' è il BIOS del dev-kit, che applica controlli sul disco meno rigidi e può avviare immagini rifiutate dal BIOS retail. Entrambi sono integrati nel core, quindi non sono richiesti file. I file ROM BIOS CD nella cartella di sistema hanno la precedenza sulle immagini integrate, e questa selezione determina quale file prevale quando sono presenti entrambi i tipi. Ha effetto solo quando 'Modalità avvio CD' è impostata su 'BIOS reale' o 'Auto': il percorso di avvio HLE non esegue mai un BIOS CD."
 
 msgctxt "#30112"
 msgid "Retail"
-msgstr ""
+msgstr "Retail"
 
 msgctxt "#30113"
 msgid "Developer"
-msgstr ""
+msgstr "Developer"
 
 msgctxt "#30114"
 msgid "How Jaguar CD discs boot. This OVERRIDES the 'BIOS (Cartridges)' setting for CD content. 'HLE' emulates the CD BIOS services directly and runs with the console boot ROM off -- fastest and the most broadly compatible. 'Real BIOS' runs an actual CD BIOS and forces the boot ROM on: more faithful, still experimental. It prefers a CD BIOS ROM file from the system directory (searched under several common names, and in Atari - Jaguar / Atari - Jaguar CD / jaguar / jaguarcd sub-folders) and otherwise uses the embedded image chosen by 'CD BIOS Type', so no files are required. 'Auto' is currently identical to 'Real BIOS'. If a real-BIOS mode is chosen but no CD BIOS can be staged at all, the core falls back to HLE rather than failing."
-msgstr ""
+msgstr "Come si avviano i dischi Jaguar CD. Questa opzione SOVRASCRIVE l'impostazione 'BIOS (Cartucce)' per i contenuti CD. 'HLE' emula direttamente i servizi del BIOS CD ed esegue con la boot ROM della console disattivata: la più veloce e la più compatibile in generale. 'BIOS reale' esegue un vero BIOS CD e forza l'attivazione della boot ROM: più fedele, ancora sperimentale. Preferisce un file ROM BIOS CD dalla cartella di sistema (cercato con diversi nomi comuni, e nelle sottocartelle Atari - Jaguar / Atari - Jaguar CD / jaguar / jaguarcd) e altrimenti usa l'immagine integrata scelta da 'Tipo BIOS CD', quindi non sono richiesti file. 'Auto' è attualmente identico a 'BIOS reale'. Se viene scelta una modalità con BIOS reale ma non è possibile predisporre alcun BIOS CD, il core ripiega su HLE anziché fallire."
 
 msgctxt "#30115"
 msgid "HLE (Recommended)"
-msgstr ""
+msgstr "HLE (consigliato)"
 
 msgctxt "#30116"
 msgid "Auto (Real BIOS)"
-msgstr ""
+msgstr "Auto (BIOS reale)"
 
 msgctxt "#30117"
 msgid "Real BIOS (Included, Experimental)"
-msgstr ""
+msgstr "BIOS reale (incluso, sperimentale)"
 
 msgctxt "#30118"
 msgid "Data-transfer rate for Jaguar CD reads in HLE boot mode. '2x' matches the real drive (300 KB/s) and is hardware-accurate. Higher speeds shorten load times but may break timing-sensitive titles (some games rely on the drive rate for code overlays, music cues, and load handshakes); 'Instant' completes each read in one tick and is the most likely to cause hangs. BIOS boot mode always uses the accurate rate. Applied per-read: a transfer already in flight keeps the speed it started with."
-msgstr ""
+msgstr "Velocità di trasferimento dati per le letture Jaguar CD in modalità di avvio HLE. '2x' corrisponde all'unità reale (300 KB/s) ed è fedele all'hardware. Velocità più elevate riducono i tempi di caricamento ma possono compromettere titoli sensibili alla temporizzazione (alcuni giochi si basano sulla velocità dell'unità per overlay di codice, cue musicali e handshake di caricamento); 'Istantaneo' completa ogni lettura in un tick ed è la scelta più probabile per causare blocchi. La modalità di avvio con BIOS usa sempre la velocità accurata. Applicata per singola lettura: un trasferimento già in corso mantiene la velocità con cui è iniziato."
 
 msgctxt "#30119"
 msgid "1x (150 KB/s)"
-msgstr ""
+msgstr "1x (150 KB/s)"
 
 msgctxt "#30120"
 msgid "2x (Accurate)"
-msgstr ""
+msgstr "2x (accurata)"
 
 msgctxt "#30121"
 msgid "4x"
-msgstr ""
+msgstr "4x"
 
 msgctxt "#30122"
 msgid "8x"
-msgstr ""
+msgstr "8x"
 
 msgctxt "#30123"
 msgid "Instant"
-msgstr ""
+msgstr "Istantaneo"
 
 msgctxt "#30124"
 msgid "Emulate the Memory Track save cartridge alongside the CD unit, as on real hardware. CD games detect it and save settings, progress and high scores to its 128 KB NVRAM (stored in the save file). Disable to emulate a console without the cartridge -- games will warn that game information cannot be saved."
-msgstr ""
+msgstr "Emula la cartuccia di salvataggio Memory Track insieme all'unità CD, come sull'hardware reale. I giochi CD la rilevano e salvano impostazioni, progressi e punteggi migliori nella sua NVRAM da 128 KB (memorizzata nel file di salvataggio). Disattiva per emulare una console senza la cartuccia: i giochi avviseranno che le informazioni non possono essere salvate."
 
 msgctxt "#30125"
 msgid "Network Link"
-msgstr ""
+msgstr "Collegamento di rete"
 
 msgctxt "#30126"
 msgid "JagLink / CatBox serial link emulation for networked games."
-msgstr ""
+msgstr "Emulazione del collegamento seriale JagLink / CatBox per giochi in rete."
 
 msgctxt "#30127"
 msgid "How this console's serial port reaches another player. 'Automatic' uses your frontend's netplay session when one is running -- nothing to configure, no addresses to type -- and otherwise stays idle. 'TCP Host'/'TCP Client' link two emulators directly without netplay; the client picks a host below, and hosts on your LAN are found automatically. 'Loopback' echoes back to this console for testing link-detect menus with no partner."
-msgstr ""
+msgstr "Come la porta seriale di questa console raggiunge un altro giocatore. 'Automatico' usa la sessione netplay del frontend quando è in esecuzione, senza nulla da configurare né indirizzi da digitare, e altrimenti resta inattivo. 'Host TCP'/'Client TCP' collegano due emulatori direttamente senza netplay; il client sceglie un host qui sotto, e gli host sulla LAN vengono trovati automaticamente. 'Loopback' rimanda il segnale a questa console per testare i menu di rilevamento collegamento senza un partner."
 
 msgctxt "#30128"
 msgid "Automatic (use netplay when available)"
-msgstr ""
+msgstr "Automatico (usa il netplay quando disponibile)"
 
 msgctxt "#30129"
 msgid "Off"
-msgstr ""
+msgstr "Disattivato"
 
 msgctxt "#30130"
 msgid "Loopback (echo to self)"
-msgstr ""
+msgstr "Loopback (rimanda a se stessa)"
 
 msgctxt "#30131"
 msgid "TCP Host (listen)"
-msgstr ""
+msgstr "Host TCP (ascolto)"
 
 msgctxt "#30132"
 msgid "TCP Client (connect)"
-msgstr ""
+msgstr "Client TCP (connessione)"
 
 msgctxt "#30133"
 msgid "Network Link Device"
-msgstr ""
+msgstr "Dispositivo collegamento di rete"
 
 msgctxt "#30134"
 msgid "What is plugged into the serial port. 'JagLink / CatBox' is the raw cable used by BattleSphere, AirCars and Doom. 'Voice Modem' emulates the Jaguar Voice Modem for Ultra Vortek's phone-line versus mode: type 911 on the numpad at the title screen, then one player dials (any number) and the other answers -- the 'call' is carried over the Network Link transport selected above."
-msgstr ""
+msgstr "Cosa è collegato alla porta seriale. 'JagLink / CatBox' è il cavo grezzo usato da BattleSphere, AirCars e Doom. 'Voice Modem' emula il Jaguar Voice Modem per la modalità versus telefonica di Ultra Vortek: digita 911 sul tastierino numerico nella schermata del titolo, poi un giocatore compone (un numero qualsiasi) e l'altro risponde: la 'chiamata' viene trasportata sul collegamento di rete selezionato sopra."
 
 msgctxt "#30135"
 msgid "JagLink / CatBox (raw cable)"
-msgstr ""
+msgstr "JagLink / CatBox (cavo grezzo)"
 
 msgctxt "#30136"
 msgid "Voice Modem (Ultra Vortek)"
-msgstr ""
+msgstr "Voice Modem (Ultra Vortek)"
 
 msgctxt "#30137"
 msgid "Which host to connect to. Hosts running on your LAN appear here automatically within a couple of seconds. 'From file' reads <system>/vj_netlink.txt: one line, the address only, no port -- for example '192.168.1.42' or 'myhost.local'. The port comes from 'Network Link Port'. The VJ_NETLINK_HOST environment variable overrides this option."
-msgstr ""
+msgstr "A quale host connettersi. Gli host in esecuzione sulla LAN appaiono qui automaticamente entro un paio di secondi. 'Da file' legge <system>/vj_netlink.txt: una riga, solo l'indirizzo, senza porta, ad esempio '192.168.1.42' o 'myhost.local'. La porta proviene da 'Porta collegamento di rete'. La variabile d'ambiente VJ_NETLINK_HOST sovrascrive questa opzione."
 
 msgctxt "#30138"
 msgid "127.0.0.1 (localhost)"
-msgstr ""
+msgstr "127.0.0.1 (localhost)"
 
 msgctxt "#30139"
 msgid "jaghub.local (host machine named 'jaghub' on the LAN)"
-msgstr ""
+msgstr "jaghub.local (macchina host denominata 'jaghub' sulla LAN)"
 
 msgctxt "#30140"
 msgid "From file (vj_netlink.txt in system dir)"
-msgstr ""
+msgstr "Da file (vj_netlink.txt nella cartella di sistema)"
 
 msgctxt "#30141"
 msgid "TCP port for the network link (both sides must match). Overridable with the VJ_NETLINK_PORT environment variable."
-msgstr ""
+msgstr "Porta TCP per il collegamento di rete (deve corrispondere su entrambi i lati). Sovrascrivibile con la variabile d'ambiente VJ_NETLINK_PORT."
 
 msgctxt "#30142"
 msgid "Briefly holds each frame until the link partner's reply arrives, so network latency doesn't round every link exchange up to whole video frames. The wait adapts automatically to the measured connection (a few ms on localhost, more on Wi-Fi) and is capped so audio/video pacing survives. Disable only for troubleshooting or benchmarking."
-msgstr ""
+msgstr "Trattiene brevemente ogni fotogramma finché non arriva la risposta del partner di collegamento, così la latenza di rete non arrotonda ogni scambio a interi fotogrammi video. L'attesa si adatta automaticamente alla connessione misurata (pochi ms su localhost, di più su Wi-Fi) ed è limitata affinché il ritmo audio/video venga preservato. Disattiva solo per la risoluzione dei problemi o il benchmarking."
 
 msgctxt "#30143"
 msgid "Input"
-msgstr ""
+msgstr "Input"
 
 msgctxt "#30144"
 msgid "Controller handling shared by both ports."
-msgstr ""
+msgstr "Gestione dei controller condivisa da entrambe le porte."
 
 msgctxt "#30145"
 msgid ""
 "Enabling this option will let you rebind controllers from the core options, removing the 'Controls' menu limitation that makes Numpad 7, 8, 9, * and # impossible to remap.\n"
 "NOTE: the 'Controls' menu can still conflict with the core options remapping, if you're using a remap file it is recommended to delete/reset it."
 msgstr ""
+"Attivando questa opzione sarà possibile riassegnare i controller dalle opzioni del core, rimuovendo la limitazione del menu 'Controlli' che rende impossibile rimappare Numpad 7, 8, 9, * e #.\n"
+"NOTA: il menu 'Controlli' può ancora entrare in conflitto con la rimappatura delle opzioni del core; se stai usando un file di rimappatura, è consigliabile eliminarlo/reimpostarlo."
 
 msgctxt "#30146"
 msgid "Rotary Sensitivity"
-msgstr ""
+msgstr "Sensibilità rotativa"
 
 msgctxt "#30147"
 msgid "Scales spinner movement before it is converted to quadrature pulses. The emulated encoder can only emit one pulse per controller poll of its row, so raising this past what the game's poll rate can carry adds lag rather than speed."
-msgstr ""
+msgstr "Scala il movimento dello spinner prima che venga convertito in impulsi in quadratura. L'encoder emulato può emettere un solo impulso per ogni polling del controller sulla sua riga, quindi aumentare questo valore oltre quanto il poll rate del gioco può gestire aggiunge ritardo anziché velocità."
 
 msgctxt "#30148"
 msgid "25%"
-msgstr ""
+msgstr "25%"
 
 msgctxt "#30149"
 msgid "50%"
-msgstr ""
+msgstr "50%"
 
 msgctxt "#30150"
 msgid "75%"
-msgstr ""
+msgstr "75%"
 
 msgctxt "#30151"
 msgid "100%"
@@ -617,283 +619,283 @@ msgstr "100%"
 
 msgctxt "#30152"
 msgid "150%"
-msgstr ""
+msgstr "150%"
 
 msgctxt "#30153"
 msgid "200%"
-msgstr ""
+msgstr "200%"
 
 msgctxt "#30154"
 msgid "300%"
-msgstr ""
+msgstr "300%"
 
 msgctxt "#30155"
 msgid "400%"
-msgstr ""
+msgstr "400%"
 
 msgctxt "#30156"
 msgid "Rotary Reports Controller Type"
-msgstr ""
+msgstr "La rotativa segnala il tipo di controller"
 
 msgctxt "#30157"
 msgid "Whether an emulated rotary identifies itself to software as a rotary (diode D23 fitted). Most rotary controllers ever built shipped without the diode and identify as a standard joypad, which is the default here. Tempest 2000 does not read this -- it uses its own CONTROLLER TYPE menu instead."
-msgstr ""
+msgstr "Se un controller rotativo emulato si identifica al software come rotativo (diodo D23 installato). La maggior parte dei controller rotativi mai costruiti è stata spedita senza il diodo e si identifica come joypad standard, che è l'impostazione predefinita qui. Tempest 2000 non legge questa opzione: usa invece il proprio menu CONTROLLER TYPE."
 
 msgctxt "#30158"
 msgid "Standard Joypad (no diode -- as most real units)"
-msgstr ""
+msgstr "Joypad standard (senza diodo, come la maggior parte delle unità reali)"
 
 msgctxt "#30159"
 msgid "Tempest Rotary (diode fitted)"
-msgstr ""
+msgstr "Rotativa Tempest (diodo installato)"
 
 msgctxt "#30160"
 msgid "Rotary Dead Zone"
-msgstr ""
+msgstr "Zona morta rotativa"
 
 msgctxt "#30161"
 msgid "Discards spinner movement at or below this many host units per poll. A noise gate for a jittery source; movement above the threshold passes at full size."
-msgstr ""
+msgstr "Scarta il movimento dello spinner pari o inferiore a questo numero di unità host per polling. Un noise gate per una sorgente instabile; il movimento oltre la soglia passa a piena entità."
 
 msgctxt "#30162"
 msgid "1 unit"
-msgstr ""
+msgstr "1 unità"
 
 msgctxt "#30163"
 msgid "2 units"
-msgstr ""
+msgstr "2 unità"
 
 msgctxt "#30164"
 msgid "3 units"
-msgstr ""
+msgstr "3 unità"
 
 msgctxt "#30165"
 msgid "4 units"
-msgstr ""
+msgstr "4 unità"
 
 msgctxt "#30166"
 msgid "6 units"
-msgstr ""
+msgstr "6 unità"
 
 msgctxt "#30167"
 msgid "8 units"
-msgstr ""
+msgstr "8 unità"
 
 msgctxt "#30168"
 msgid "Rotary Offset"
-msgstr ""
+msgstr "Offset rotativo"
 
 msgctxt "#30169"
 msgid "Subtracts a constant from every spinner sample. Cancels a source that reports a small non-zero movement while at rest, which would otherwise spin the knob forever with the controls untouched. Applied in host orientation, before the wheel's direction convention."
-msgstr ""
+msgstr "Sottrae una costante a ogni campione dello spinner. Annulla una sorgente che segnala un piccolo movimento diverso da zero a riposo, che altrimenti farebbe girare la manopola all'infinito senza toccare i controlli. Applicato nell'orientamento dell'host, prima della convenzione di direzione della rotella."
 
 msgctxt "#30170"
 msgid "-4"
-msgstr ""
+msgstr "-4"
 
 msgctxt "#30171"
 msgid "-3"
-msgstr ""
+msgstr "-3"
 
 msgctxt "#30172"
 msgid "-2"
-msgstr ""
+msgstr "-2"
 
 msgctxt "#30173"
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 msgctxt "#30174"
 msgid "+1"
-msgstr ""
+msgstr "+1"
 
 msgctxt "#30175"
 msgid "+2"
-msgstr ""
+msgstr "+2"
 
 msgctxt "#30176"
 msgid "+3"
-msgstr ""
+msgstr "+3"
 
 msgctxt "#30177"
 msgid "+4"
-msgstr ""
+msgstr "+4"
 
 msgctxt "#30178"
 msgid "Rotary Response Curve"
-msgstr ""
+msgstr "Curva di risposta rotativa"
 
 msgctxt "#30179"
 msgid "Response exponent for the spinner, giving finer control at low speed. The curve is anchored at 64 units per poll: below that an exponent above 1.00 attenuates, at and above it movement passes through unchanged. A higher exponent therefore makes the spinner SLOWER overall -- raise Rotary Sensitivity to get the top speed back."
-msgstr ""
+msgstr "Esponente di risposta per lo spinner, che offre un controllo più preciso a bassa velocità. La curva è ancorata a 64 unità per polling: al di sotto, un esponente superiore a 1.00 attenua, a quel valore e oltre il movimento passa inalterato. Un esponente più alto rende quindi lo spinner complessivamente PIÙ LENTO: aumenta la Sensibilità rotativa per recuperare la velocità massima."
 
 msgctxt "#30180"
 msgid "Linear (1.00)"
-msgstr ""
+msgstr "Lineare (1.00)"
 
 msgctxt "#30181"
 msgid "1.25"
-msgstr ""
+msgstr "1.25"
 
 msgctxt "#30182"
 msgid "1.50"
-msgstr ""
+msgstr "1.50"
 
 msgctxt "#30183"
 msgid "1.75"
-msgstr ""
+msgstr "1.75"
 
 msgctxt "#30184"
 msgid "2.00"
-msgstr ""
+msgstr "2.00"
 
 msgctxt "#30185"
 msgid "2.50"
-msgstr ""
+msgstr "2.50"
 
 msgctxt "#30186"
 msgid "3.00"
-msgstr ""
+msgstr "3.00"
 
 msgctxt "#30187"
 msgid "Analog Controller Dead Zone (X)"
-msgstr ""
+msgstr "Zona morta controller analogico (X)"
 
 msgctxt "#30188"
 msgid "Stick positions within this many ADC counts of centre (127 = full deflection) read as exactly centred. The rest of the travel is rescaled so the response is smooth at the edge and full deflection still reads full scale."
-msgstr ""
+msgstr "Le posizioni della levetta entro questo numero di conteggi ADC dal centro (127 = deflessione massima) vengono lette come esattamente centrate. Il resto della corsa viene riscalato in modo che la risposta sia fluida al margine e la deflessione massima sia ancora letta a piena scala."
 
 msgctxt "#30189"
 msgid "4 counts (~3%)"
-msgstr ""
+msgstr "4 conteggi (~3%)"
 
 msgctxt "#30190"
 msgid "8 counts (~6%)"
-msgstr ""
+msgstr "8 conteggi (~6%)"
 
 msgctxt "#30191"
 msgid "12 counts (~9%)"
-msgstr ""
+msgstr "12 conteggi (~9%)"
 
 msgctxt "#30192"
 msgid "16 counts (~13%)"
-msgstr ""
+msgstr "16 conteggi (~13%)"
 
 msgctxt "#30193"
 msgid "24 counts (~19%)"
-msgstr ""
+msgstr "24 conteggi (~19%)"
 
 msgctxt "#30194"
 msgid "32 counts (~25%)"
-msgstr ""
+msgstr "32 conteggi (~25%)"
 
 msgctxt "#30195"
 msgid "Analog Controller Dead Zone (Y)"
-msgstr ""
+msgstr "Zona morta controller analogico (Y)"
 
 msgctxt "#30196"
 msgid "As Analog Controller Dead Zone (X), for the Y axis (pitch, or accelerator/brake on the driving controller)."
-msgstr ""
+msgstr "Come Zona morta controller analogico (X), per l'asse Y (beccheggio, oppure acceleratore/freno sul controller di guida)."
 
 msgctxt "#30197"
 msgid "Analog Controller Offset (X)"
-msgstr ""
+msgstr "Offset controller analogico (X)"
 
 msgctxt "#30198"
 msgid "Subtracts a constant (in ADC counts) from every X sample, in host orientation before any device convention. Cancels a stick that rests off-centre; a centred stick is moved by it, which is the point."
-msgstr ""
+msgstr "Sottrae una costante (in conteggi ADC) a ogni campione X, nell'orientamento dell'host prima di qualsiasi convenzione del dispositivo. Annulla una levetta che riposa fuori centro; una levetta centrata viene spostata di conseguenza, che è lo scopo."
 
 msgctxt "#30199"
 msgid "-16"
-msgstr ""
+msgstr "-16"
 
 msgctxt "#30200"
 msgid "-8"
-msgstr ""
+msgstr "-8"
 
 msgctxt "#30201"
 msgid "+8"
-msgstr ""
+msgstr "+8"
 
 msgctxt "#30202"
 msgid "+16"
-msgstr ""
+msgstr "+16"
 
 msgctxt "#30203"
 msgid "Analog Controller Offset (Y)"
-msgstr ""
+msgstr "Offset controller analogico (Y)"
 
 msgctxt "#30204"
 msgid "As Analog Controller Offset (X), for the Y axis."
-msgstr ""
+msgstr "Come Offset controller analogico (X), per l'asse Y."
 
 msgctxt "#30205"
 msgid "Analog Controller Response Curve (X)"
-msgstr ""
+msgstr "Curva di risposta controller analogico (X)"
 
 msgctxt "#30206"
 msgid "Response exponent for the X axis, anchored at full deflection: an exponent above 1.00 gives finer control near centre while full deflection still reads full scale. Unlike the mouse/rotary curves this costs no top speed, so there is no paired sensitivity control."
-msgstr ""
+msgstr "Esponente di risposta per l'asse X, ancorato alla deflessione massima: un esponente superiore a 1.00 offre un controllo più preciso vicino al centro mentre la deflessione massima è ancora letta a piena scala. A differenza delle curve del mouse/rotativa, questo non costa velocità massima, quindi non esiste un controllo di sensibilità abbinato."
 
 msgctxt "#30207"
 msgid "Analog Controller Response Curve (Y)"
-msgstr ""
+msgstr "Curva di risposta controller analogico (Y)"
 
 msgctxt "#30208"
 msgid "As Analog Controller Response Curve (X), for the Y axis."
-msgstr ""
+msgstr "Come Curva di risposta controller analogico (X), per l'asse Y."
 
 msgctxt "#30209"
 msgid "Input Port 1"
-msgstr ""
+msgstr "Porta input 1"
 
 msgctxt "#30210"
 msgid "Change input mappings for port 1."
-msgstr ""
+msgstr "Modifica le mappature di input per la porta 1."
 
 msgctxt "#30211"
 msgid "Port 1 > Controller Type"
-msgstr ""
+msgstr "Porta 1 > Tipo di controller"
 
 msgctxt "#30212"
 msgid "Which peripheral is plugged into controller port 1. 'Rotary (Tempest)' is the Tempest spinner: it removes Up and Down and reports wheel rotation on Left/Right instead, and is driven by relative mouse X. Its buttons (A, B, C, Option, Pause and the keypad) stay on the RetroPad, which is what a real rotary has. 'Light Gun' is the port-1 light gun: the Jaguar wires its LP pin to port 1 only, so it is not offered on port 2. Aim with whatever your frontend maps to the light gun (mouse or Wiimote); the trigger reports as the Jaguar's B button, which is what Balloons reads, and Aux A / Aux B / Start / Select reach A / C / Option / Pause. Aiming off-screen stops the aim updating, exactly as a real gun stops seeing the beam. 'Analog Joystick' and 'Driving Controller' are Atari's bank-switching analog device (one protocol, two skins) -- NO RELEASED TITLE reads it, so these exist for homebrew. Driven by the left analog stick (the driving skin also takes the L2/R2 triggers as brake/accelerator); the port stays a RetroPad until the stick actually moves, so a game that probes controller types at boot only sees the analog device if the stick is deflected first. There is no per-title default for any of these and there never will be -- selecting a rotary removes Up and Down and a gun repurposes B, so either would break the controls of anyone using a pad. Tempest 2000 hides its rotary support behind an unlock -- from SELECT GAME TYPE TO PLAY press Option on controller 1, then press Pause on BOTH controllers at once to reveal CONTROLLER TYPE. The unlock is saved to the game's EEPROM, so it is only needed once."
-msgstr ""
+msgstr "Quale periferica è collegata alla porta controller 1. 'Rotativa (Tempest)' è lo spinner di Tempest: rimuove Su e Giù e segnala invece la rotazione della rotella su Sinistra/Destra, pilotata dal movimento relativo X del mouse. I suoi pulsanti (A, B, C, Option, Pause e il tastierino) restano sul RetroPad, come su una vera rotativa. 'Pistola ottica' è la pistola ottica della porta 1: il Jaguar collega il suo pin LP solo alla porta 1, quindi non è disponibile sulla porta 2. Mira con qualsiasi dispositivo il frontend mappi sulla pistola ottica (mouse o Wiimote); il grilletto viene segnalato come pulsante B del Jaguar, che è ciò che Balloons legge, mentre Aux A / Aux B / Start / Select raggiungono A / C / Option / Pause. Puntare fuori schermo interrompe l'aggiornamento della mira, esattamente come una vera pistola smette di vedere il raggio. 'Joystick analogico' e 'Controller di guida' sono il dispositivo analogico a bank-switching di Atari (un protocollo, due varianti): NESSUN TITOLO PUBBLICATO lo legge, quindi esistono per l'homebrew. Pilotati dalla levetta analogica sinistra (la variante guida usa anche i grilletti L2/R2 come freno/acceleratore); la porta resta un RetroPad finché la levetta non si muove effettivamente, quindi un gioco che verifica i tipi di controller all'avvio vede il dispositivo analogico solo se la levetta viene mossa per prima. Non esiste un valore predefinito per titolo per nessuno di questi, e non esisterà mai: selezionare una rotativa rimuove Su e Giù, e una pistola riassegna B, quindi entrambi romperebbero i controlli di chi usa un pad. Tempest 2000 nasconde il supporto rotativo dietro uno sblocco: da SELECT GAME TYPE TO PLAY premi Option sul controller 1, poi premi Pause su ENTRAMBI i controller contemporaneamente per rivelare CONTROLLER TYPE. Lo sblocco viene salvato nell'EEPROM del gioco, quindi serve una sola volta."
 
 msgctxt "#30213"
 msgid "Auto (per-title default)"
-msgstr ""
+msgstr "Auto (predefinito per titolo)"
 
 msgctxt "#30214"
 msgid "Standard Joypad"
-msgstr ""
+msgstr "Joypad standard"
 
 msgctxt "#30215"
 msgid "Rotary (Tempest)"
-msgstr ""
+msgstr "Rotativa (Tempest)"
 
 msgctxt "#30216"
 msgid "Light Gun"
-msgstr ""
+msgstr "Pistola ottica"
 
 msgctxt "#30217"
 msgid "Analog Joystick (bank-switching)"
-msgstr ""
+msgstr "Joystick analogico (bank-switching)"
 
 msgctxt "#30218"
 msgid "Driving Controller (bank-switching)"
-msgstr ""
+msgstr "Controller di guida (bank-switching)"
 
 msgctxt "#30219"
 msgid "Map Jaguar numpad 0-9, * and # to keyboard keys. 'Number Row Keys' will use 1234567890-= keys, 'Keypad Keys' will use 0123456789/* keypad keys."
-msgstr ""
+msgstr "Mappa il tastierino numerico Jaguar 0-9, * e # ai tasti della tastiera. 'Tasti riga numerica' utilizzerà i tasti 1234567890-=, 'Tasti tastierino numerico' utilizzerà i tasti tastierino 0123456789/*."
 
 msgctxt "#30220"
 msgid "Number Row Keys"
-msgstr ""
+msgstr "Tasti riga numerica"
 
 msgctxt "#30221"
 msgid "Keypad Keys"
-msgstr ""
+msgstr "Tasti tastierino numerico"
 
 msgctxt "#30222"
 msgid "Up"
@@ -933,214 +935,234 @@ msgstr "Opzioni"
 
 msgctxt "#30231"
 msgid "Numpad 0"
-msgstr ""
+msgstr "Numpad 0"
 
 msgctxt "#30232"
 msgid "Numpad 1"
-msgstr ""
+msgstr "Numpad 1"
 
 msgctxt "#30233"
 msgid "Numpad 2"
-msgstr ""
+msgstr "Numpad 2"
 
 msgctxt "#30234"
 msgid "Numpad 3"
-msgstr ""
+msgstr "Numpad 3"
 
 msgctxt "#30235"
 msgid "Numpad 4"
-msgstr ""
+msgstr "Numpad 4"
 
 msgctxt "#30236"
 msgid "Numpad 5"
-msgstr ""
+msgstr "Numpad 5"
 
 msgctxt "#30237"
 msgid "Numpad 6"
-msgstr ""
+msgstr "Numpad 6"
 
 msgctxt "#30238"
 msgid "Numpad 7"
-msgstr ""
+msgstr "Numpad 7"
 
 msgctxt "#30239"
 msgid "Numpad 8"
-msgstr ""
+msgstr "Numpad 8"
 
 msgctxt "#30240"
 msgid "Numpad 9"
-msgstr ""
+msgstr "Numpad 9"
 
 msgctxt "#30241"
 msgid "Numpad *"
-msgstr ""
+msgstr "Numpad *"
 
 msgctxt "#30242"
 msgid "Numpad #"
-msgstr ""
+msgstr "Numpad #"
 
 msgctxt "#30243"
 msgid "Input Port 2"
-msgstr ""
+msgstr "Porta input 2"
 
 msgctxt "#30244"
 msgid "Change input mappings for port 2."
-msgstr ""
+msgstr "Modifica le mappature di input per la porta 2."
 
 msgctxt "#30245"
 msgid "Port 2 > Controller Type"
-msgstr ""
+msgstr "Porta 2 > Tipo di controller"
 
 msgctxt "#30246"
 msgid "Which peripheral is plugged into controller port 2. 'Atari ST / PS2 Mouse' is the wiring used by the AtariAge and Brewing Academy ST adapters and by PS/2 mouse adapters. 'Amiga Mouse (ST adapter)' is an Amiga mouse plugged into an ST-wired adapter -- this is what an in-game 'Atari / Amiga' selector normally chooses between. 'Amiga Mouse (Amiga adapter)' is the rarer dedicated adapter. A mouse asserts its state in every row scan, exactly as the real row-blind adapter does, so the port-2 RetroPad is disconnected while one is selected. 'Rotary (Tempest)' is the Tempest spinner: it removes Up and Down and reports wheel rotation on Left/Right instead, and is driven by relative mouse X. Its buttons stay on the RetroPad. Tempest 2000 hides its rotary support behind an unlock -- from SELECT GAME TYPE TO PLAY press Option on controller 1, then press Pause on BOTH controllers at once to reveal CONTROLLER TYPE. The unlock is saved to the game's EEPROM, so it is only needed once. 'Analog Joystick' and 'Driving Controller' are Atari's bank-switching analog device (one protocol, two skins) -- NO RELEASED TITLE reads it, so these exist for homebrew. Driven by the left analog stick (the driving skin also takes the L2/R2 triggers as brake/accelerator); the port stays a RetroPad until the stick actually moves, so a game that probes controller types at boot only sees the analog device if the stick is deflected first."
-msgstr ""
+msgstr "Quale periferica è collegata alla porta controller 2. 'Mouse Atari ST / PS2' è il cablaggio usato dagli adattatori ST AtariAge e Brewing Academy e dagli adattatori mouse PS/2. 'Mouse Amiga (adattatore ST)' è un mouse Amiga collegato a un adattatore cablato ST: è ciò tra cui normalmente sceglie un selettore in-game 'Atari / Amiga'. 'Mouse Amiga (adattatore Amiga)' è l'adattatore dedicato più raro. Un mouse asserisce il proprio stato a ogni scansione di riga, esattamente come fa il vero adattatore cieco alla riga, quindi il RetroPad della porta 2 viene disconnesso quando uno di questi è selezionato. 'Rotativa (Tempest)' è lo spinner di Tempest: rimuove Su e Giù e segnala invece la rotazione della rotella su Sinistra/Destra, pilotata dal movimento relativo X del mouse. I suoi pulsanti restano sul RetroPad. Tempest 2000 nasconde il supporto rotativo dietro uno sblocco: da SELECT GAME TYPE TO PLAY premi Option sul controller 1, poi premi Pause su ENTRAMBI i controller contemporaneamente per rivelare CONTROLLER TYPE. Lo sblocco viene salvato nell'EEPROM del gioco, quindi serve una sola volta. 'Joystick analogico' e 'Controller di guida' sono il dispositivo analogico a bank-switching di Atari (un protocollo, due varianti): NESSUN TITOLO PUBBLICATO lo legge, quindi esistono per l'homebrew. Pilotati dalla levetta analogica sinistra (la variante guida usa anche i grilletti L2/R2 come freno/acceleratore); la porta resta un RetroPad finché la levetta non si muove effettivamente, quindi un gioco che verifica i tipi di controller all'avvio vede il dispositivo analogico solo se la levetta viene mossa per prima."
 
 msgctxt "#30247"
 msgid "Atari ST / PS2 Mouse"
-msgstr ""
+msgstr "Mouse Atari ST / PS2"
 
 msgctxt "#30248"
 msgid "Amiga Mouse (ST adapter)"
-msgstr ""
+msgstr "Mouse Amiga (adattatore ST)"
 
 msgctxt "#30249"
 msgid "Amiga Mouse (Amiga adapter)"
-msgstr ""
+msgstr "Mouse Amiga (adattatore Amiga)"
 
 msgctxt "#30250"
 msgid "Port 2 > Mouse Sensitivity"
-msgstr ""
+msgstr "Porta 2 > Sensibilità mouse"
 
 msgctxt "#30251"
 msgid "Scales mouse movement before it is converted to quadrature pulses. The emulated device can only emit one pulse per controller poll, so raising this past what the game's poll rate can carry adds lag rather than speed."
-msgstr ""
+msgstr "Scala il movimento del mouse prima che venga convertito in impulsi in quadratura. Il dispositivo emulato può emettere un solo impulso per ogni polling del controller, quindi aumentare questo valore oltre quanto il poll rate del gioco può gestire aggiunge ritardo anziché velocità."
 
 msgctxt "#30252"
 msgid "Port 2 > Mouse Dead Zone (X)"
-msgstr ""
+msgstr "Porta 2 > Zona morta mouse (X)"
 
 msgctxt "#30253"
 msgid "Discards horizontal mouse movement at or below this many host units per poll. A noise gate for a jittery source (or an analog stick mapped to the mouse); a real mouse reports nothing at rest and needs none. Movement above the threshold passes at full size -- the dead zone drops samples, it does not shrink them."
-msgstr ""
+msgstr "Scarta il movimento orizzontale del mouse pari o inferiore a questo numero di unità host per polling. Un noise gate per una sorgente instabile (o una levetta analogica mappata sul mouse); un mouse reale non segnala nulla a riposo e non ne ha bisogno. Il movimento oltre la soglia passa a piena entità: la zona morta scarta i campioni, non li riduce."
 
 msgctxt "#30254"
 msgid "Port 2 > Mouse Dead Zone (Y)"
-msgstr ""
+msgstr "Porta 2 > Zona morta mouse (Y)"
 
 msgctxt "#30255"
 msgid "As Mouse Dead Zone (X), for vertical movement."
-msgstr ""
+msgstr "Come Zona morta mouse (X), per il movimento verticale."
 
 msgctxt "#30256"
 msgid "Port 2 > Mouse Offset (X)"
-msgstr ""
+msgstr "Porta 2 > Offset mouse (X)"
 
 msgctxt "#30257"
 msgid "Subtracts a constant from every horizontal sample. Cancels a source that reports a small non-zero movement while at rest -- typically an analog stick mapped to the mouse, which otherwise drifts forever. A real mouse reports exactly zero at rest and is unaffected."
-msgstr ""
+msgstr "Sottrae una costante a ogni campione orizzontale. Annulla una sorgente che segnala un piccolo movimento diverso da zero a riposo, tipicamente una levetta analogica mappata sul mouse, che altrimenti deriverebbe all'infinito. Un mouse reale segnala esattamente zero a riposo e non è interessato."
 
 msgctxt "#30258"
 msgid "Port 2 > Mouse Offset (Y)"
-msgstr ""
+msgstr "Porta 2 > Offset mouse (Y)"
 
 msgctxt "#30259"
 msgid "As Mouse Offset (X), for vertical movement."
-msgstr ""
+msgstr "Come Offset mouse (X), per il movimento verticale."
 
 msgctxt "#30260"
 msgid "Port 2 > Mouse Response Curve (X)"
-msgstr ""
+msgstr "Porta 2 > Curva di risposta mouse (X)"
 
 msgctxt "#30261"
 msgid "Response exponent for horizontal movement, giving finer control at low speed. The curve is anchored at 64 units per poll: below that an exponent above 1.00 attenuates, at and above it movement passes through unchanged. Because ordinary movement is well below 64 units, a higher exponent makes the mouse SLOWER overall -- raise Mouse Sensitivity to get the top speed back. These are two different controls."
-msgstr ""
+msgstr "Esponente di risposta per il movimento orizzontale, che offre un controllo più preciso a bassa velocità. La curva è ancorata a 64 unità per polling: al di sotto, un esponente superiore a 1.00 attenua, a quel valore e oltre il movimento passa inalterato. Poiché il movimento ordinario è ben al di sotto delle 64 unità, un esponente più alto rende il mouse complessivamente PIÙ LENTO: aumenta la Sensibilità mouse per recuperare la velocità massima. Sono due controlli distinti."
 
 msgctxt "#30262"
 msgid "Port 2 > Mouse Response Curve (Y)"
-msgstr ""
+msgstr "Porta 2 > Curva di risposta mouse (Y)"
 
 msgctxt "#30263"
 msgid "As Mouse Response Curve (X), for vertical movement."
-msgstr ""
+msgstr "Come Curva di risposta mouse (X), per il movimento verticale."
 
 msgctxt "#30264"
 msgid "Diagnostics"
-msgstr ""
+msgstr "Diagnostica"
 
 msgctxt "#30265"
 msgid "Logging and watchdog aids for troubleshooting and bug reports."
-msgstr ""
+msgstr "Strumenti di log e watchdog per la risoluzione dei problemi e le segnalazioni di bug."
 
 msgctxt "#30266"
 msgid "Lightweight runtime watchdog that logs GPU/DSP PC escape, GPU/DSP wedge, and video stall events to the RetroArch log. Helpful when filing bug reports about games that hang or go to a black screen mid-play. Verbose mode also dumps a state heartbeat every 10 seconds."
-msgstr ""
+msgstr "Watchdog leggero a runtime che registra nel log di RetroArch gli eventi di fuga del PC GPU/DSP, blocco GPU/DSP e stallo video. Utile quando si segnalano bug su giochi che si bloccano o vanno a schermo nero durante il gioco. La modalità dettagliata registra anche un heartbeat di stato ogni 10 secondi."
 
 msgctxt "#30267"
 msgid "Enabled (verbose / heartbeat)"
-msgstr ""
+msgstr "Attivato (dettagliato / heartbeat)"
 
 msgctxt "#30268"
 msgid "Records DSA command/response traffic and seek/FIFO transitions to a bounded ring buffer, dumped to the RetroArch log when the cd_seek_wedge watchdog fires (or on request by test harnesses). Diagnostic only -- intended for troubleshooting Jaguar CD boot/data-transfer bugs, not for normal play. Can also be forced on headlessly via the VJ_CD_TRACE=1 environment variable."
-msgstr ""
+msgstr "Registra il traffico comando/risposta DSA e le transizioni seek/FIFO in un ring buffer limitato, scaricato nel log di RetroArch quando scatta il watchdog cd_seek_wedge (o su richiesta di framework di test). Solo a scopo diagnostico: pensato per risolvere problemi di avvio/trasferimento dati Jaguar CD, non per il gioco normale. Può anche essere forzato senza interfaccia tramite la variabile d'ambiente VJ_CD_TRACE=1."
 
 msgctxt "#30269"
 msgid "Texture Dump Mode"
-msgstr ""
+msgstr "Modalità dump texture"
 
 msgctxt "#30270"
 msgid "Write every unique blitter source tile the title uses to <system dir>/vj_texdump/<cart CRC32>/ as a PNG preview plus a manifest row, for HD texture pack authoring (issue #369). Tiles are identified by a hash of their raw source bytes only -- the palette is advisory metadata, never identity. Takes effect immediately, no restart needed. Developer-facing: leave disabled for normal play."
-msgstr ""
+msgstr "Scrive ogni tile sorgente blitter univoco usato dal titolo in <cartella di sistema>/vj_texdump/<CRC32 cartuccia>/ come anteprima PNG più una riga di manifest, per la creazione di texture pack HD (issue #369). I tile sono identificati solo da un hash dei loro byte sorgente grezzi: la palette è metadato informativo, mai identità. Ha effetto immediato, senza necessità di riavvio. Rivolto agli sviluppatori: lascia disattivato per il gioco normale."
 
 msgctxt "#30271"
 msgid "Texture Dump: 16bpp Preview"
-msgstr ""
+msgstr "Dump texture: anteprima 16bpp"
 
 msgctxt "#30272"
 msgid "How 16-bit source tiles are rendered in their preview PNGs. The blitter cannot know whether 16-bit values are CRY or RGB16 -- that is display-time interpretation -- so this only changes the preview image, never the tile's hash. 'Both' writes a -cry and a -rgb PNG per tile."
-msgstr ""
+msgstr "Come vengono renderizzati i tile sorgente a 16 bit nelle relative anteprime PNG. Il blitter non può sapere se i valori a 16 bit sono CRY o RGB16 (è un'interpretazione al momento della visualizzazione), quindi questo cambia solo l'immagine di anteprima, mai l'hash del tile. 'Entrambi' scrive un PNG -cry e un PNG -rgb per ogni tile."
 
 msgctxt "#30273"
 msgid "CRY"
-msgstr ""
+msgstr "CRY"
 
 msgctxt "#30274"
 msgid "RGB16"
-msgstr ""
+msgstr "RGB16"
 
 msgctxt "#30275"
 msgid "Both"
-msgstr ""
+msgstr "Entrambi"
 
 msgctxt "#30276"
 msgid "Timing"
-msgstr ""
+msgstr "Temporizzazione"
 
 msgctxt "#30277"
 msgid "Clock speed multipliers, then the experimental hardware-timing models."
-msgstr ""
+msgstr "Moltiplicatori della velocità di clock, seguiti dai modelli sperimentali di temporizzazione hardware."
 
 msgctxt "#30278"
 msgid "Run the 68000 at a multiple of its stock ~13.3 MHz. An enhancement, not an accuracy fix: it can smooth framerate-limited games (Doom, AvP, Checkered Flag) but may break titles that depend on stock CPU timing. Timers and bus costs stay at stock speed. If an overclocked game misbehaves, try enabling the timing models below. Report bugs only at 1x."
-msgstr ""
+msgstr "Esegue il 68000 a un multiplo dei suoi ~13.3 MHz originali. Un miglioramento, non una correzione di accuratezza: può rendere più fluidi i giochi limitati dal framerate (Doom, AvP, Checkered Flag) ma può compromettere titoli che dipendono dalla temporizzazione CPU originale. Timer e costi del bus restano alla velocità originale. Se un gioco overcloccato si comporta male, prova ad attivare i modelli di temporizzazione sottostanti. Segnala i bug solo a 1x."
 
 msgctxt "#30279"
 msgid "1x (stock)"
-msgstr ""
+msgstr "1x (originale)"
 
 msgctxt "#30280"
 msgid "Run the GPU and DSP at a multiple of their stock ~26.6 MHz. An enhancement, not an accuracy fix: extra cycles can lift GPU-bound framerates. Audio pacing and timers stay at stock speed, so nothing pitch-shifts. May break titles that depend on stock RISC timing. If an overclocked game misbehaves, try enabling the timing models below. Report bugs only at 1x."
-msgstr ""
+msgstr "Esegue la GPU e il DSP a un multiplo dei loro ~26.6 MHz originali. Un miglioramento, non una correzione di accuratezza: i cicli extra possono aumentare i framerate limitati dalla GPU. Il ritmo audio e i timer restano alla velocità originale, quindi nulla cambia in tono. Può compromettere titoli che dipendono dalla temporizzazione RISC originale. Se un gioco overcloccato si comporta male, prova ad attivare i modelli di temporizzazione sottostanti. Segnala i bug solo a 1x."
 
 msgctxt "#30281"
 msgid "Charge the GPU and 68000 realistic DRAM access time once they leave their local buses, pacing hardware-timed games (Doom-class) closer to real hardware. Each processor pays only its own costs, so relative CPU/GPU timing is preserved. Still being calibrated."
-msgstr ""
+msgstr "Addebita alla GPU e al 68000 un tempo di accesso DRAM realistico una volta usciti dai rispettivi bus locali, avvicinando il ritmo dei giochi temporizzati sull'hardware (classe Doom) all'hardware reale. Ogni processore paga solo i propri costi, quindi la temporizzazione relativa CPU/GPU viene preservata. Ancora in fase di calibrazione."
 
 msgctxt "#30282"
 msgid "Model the GPU's real instruction costs: the single external-memory gateway, the register score-board, and ALU interlocks. The emulated GPU otherwise finishes renders 2-4x faster than silicon, which makes loops paced on render completion (Doom's menus and demo, Hover Strike) run too fast. Still being calibrated."
-msgstr ""
+msgstr "Modella i costi reali delle istruzioni della GPU: l'unico gateway di memoria esterna, la score-board dei registri e gli interlock ALU. Altrimenti la GPU emulata completa i render 2-4 volte più velocemente del silicio reale, il che fa girare troppo velocemente i cicli ritmati sul completamento del render (menu e demo di Doom, Hover Strike). Ancora in fase di calibrazione."
 
 msgctxt "#30283"
 msgid "Charge the 68000 the bus time each blit really takes -- on hardware the blitter is the top-priority bus master and freezes the cacheless 68000 while it runs. Zero-time blits let games paced on blit completion (Doom's menus, Hover Strike) run too fast. Still being calibrated."
+msgstr "Addebita al 68000 il tempo di bus effettivamente richiesto da ogni blit: sull'hardware il blitter è il bus master a priorità massima e blocca il 68000 privo di cache mentre è in esecuzione. I blit a tempo zero fanno girare troppo velocemente i giochi ritmati sul completamento del blit (menu di Doom, Hover Strike). Ancora in fase di calibrazione."
+
+msgctxt "#30284"
+msgid "2x"
+msgstr ""
+
+msgctxt "#30285"
+msgid "---"
+msgstr ""
+
+msgctxt "#30286"
+msgid "0.5x"
+msgstr ""
+
+msgctxt "#30287"
+msgid "1.5x"
+msgstr ""
+
+msgctxt "#30288"
+msgid "3x"
 msgstr ""
 
 #~ msgctxt "#30061"
