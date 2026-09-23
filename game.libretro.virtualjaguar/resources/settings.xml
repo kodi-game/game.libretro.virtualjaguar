@@ -25,7 +25,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_internal_resolution" type="string" label="30073" help="30084">
+				<setting id="virtualjaguar_internal_resolution" type="string" label="30073" help="30289">
 					<level>0</level>
 					<default>1x</default>
 					<constraints>
@@ -36,7 +36,18 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_pertitle_defaults" type="string" label="30074" help="30086">
+				<setting id="virtualjaguar_widescreen" type="string" label="30290" help="30291">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_pertitle_defaults" type="string" label="30074" help="30292">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -47,7 +58,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_enhancement_hooks" type="string" label="30087" help="30088">
+				<setting id="virtualjaguar_enhancement_hooks" type="string" label="30087" help="30293">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -58,19 +69,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_blit_memo" type="string" label="30075" help="30089">
-					<level>0</level>
-					<default>disabled</default>
-					<constraints>
-						<options>
-							<option label="30090">disabled</option>
-							<option label="30091">enabled</option>
-							<option label="30092">verify</option>
-						</options>
-					</constraints>
-					<control type="list" format="string" />
-				</setting>
-				<setting id="virtualjaguar_texture_replace" type="string" label="30093" help="30094">
+				<setting id="virtualjaguar_texture_replace" type="string" label="30093" help="30294">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -96,7 +95,7 @@
 		</category>
 		<category id="bios_boot" label="30096" help="30097">
 			<group id="1">
-				<setting id="virtualjaguar_bios" type="string" label="30066" help="30098">
+				<setting id="virtualjaguar_bios" type="string" label="30066" help="30295">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -107,7 +106,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_bios_type" type="string" label="30101" help="30102">
+				<setting id="virtualjaguar_bios_type" type="string" label="30101" help="30296">
 					<level>0</level>
 					<default>k</default>
 					<constraints>
@@ -119,7 +118,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_jgd" type="string" label="30067" help="30106">
+				<setting id="virtualjaguar_jgd" type="string" label="30067" help="30297">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -135,7 +134,7 @@
 		</category>
 		<category id="cdrom" label="30109" help="30110">
 			<group id="1">
-				<setting id="virtualjaguar_cd_bios_type" type="string" label="30068" help="30111">
+				<setting id="virtualjaguar_cd_bios_type" type="string" label="30068" help="30298">
 					<level>0</level>
 					<default>retail</default>
 					<constraints>
@@ -146,19 +145,19 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_cd_boot_mode" type="string" label="30069" help="30114">
+				<setting id="virtualjaguar_cd_boot_mode" type="string" label="30069" help="30299">
 					<level>0</level>
 					<default>hle</default>
 					<constraints>
 						<options>
 							<option label="30115">hle</option>
 							<option label="30116">auto</option>
-							<option label="30117">bios</option>
+							<option label="30300">bios</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_cd_read_speed" type="string" label="30070" help="30118">
+				<setting id="virtualjaguar_cd_read_speed" type="string" label="30070" help="30301">
 					<level>0</level>
 					<default>2x</default>
 					<constraints>
@@ -187,7 +186,7 @@
 		</category>
 		<category id="network" label="30125" help="30126">
 			<group id="1">
-				<setting id="virtualjaguar_netlink" type="string" label="30125" help="30127">
+				<setting id="virtualjaguar_netlink" type="string" label="30125" help="30302">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -201,7 +200,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_uart_device" type="string" label="30133" help="30134">
+				<setting id="virtualjaguar_uart_device" type="string" label="30133" help="30303">
 					<level>0</level>
 					<default>jaglink</default>
 					<constraints>
@@ -244,6 +243,91 @@
 						<options>
 							<option label="305">enabled</option>
 							<option label="13106">disabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_netlink_speed" type="string" label="30304" help="30305">
+					<level>0</level>
+					<default>auto</default>
+					<constraints>
+						<options>
+							<option label="30306">disabled</option>
+							<option label="30307">auto</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_voice_chat" type="string" label="30308" help="30309">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_voice_chat_gate" type="string" label="30310" help="30311">
+					<level>0</level>
+					<default>open_mic</default>
+					<constraints>
+						<options>
+							<option label="30312">open_mic</option>
+							<option label="30313">push_to_talk</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_voice_chat_ptt_key" type="string" label="30314" help="30315">
+					<level>0</level>
+					<default>v</default>
+					<constraints>
+						<options>
+							<option label="30316">v</option>
+							<option label="30228">c</option>
+							<option label="30317">space</option>
+							<option label="30318">tab</option>
+							<option label="30319">lctrl</option>
+							<option label="30320">grave</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_voice_chat_volume" type="string" label="30321" help="30322">
+					<level>0</level>
+					<default>50</default>
+					<constraints>
+						<options>
+							<option label="30148">25</option>
+							<option label="30149">50</option>
+							<option label="30150">75</option>
+							<option label="30151">100</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_voice_chat_vad" type="string" label="30323" help="30324">
+					<level>0</level>
+					<default>400</default>
+					<constraints>
+						<options>
+							<option label="30325">200</option>
+							<option label="30326">400</option>
+							<option label="30327">800</option>
+							<option label="30328">1600</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_voice_chat_monitor" type="string" label="30329" help="30330">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -445,17 +529,21 @@
 		</category>
 		<category id="input_p1" label="30209" help="30210">
 			<group id="1">
-				<setting id="virtualjaguar_p1_device" type="string" label="30211" help="30212">
+				<setting id="virtualjaguar_p1_device" type="string" label="30211" help="30331">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
 						<options>
 							<option label="30213">auto</option>
 							<option label="30214">pad</option>
+							<option label="30332">teamtap</option>
+							<option label="30333">pad_pro</option>
 							<option label="30215">rotary</option>
 							<option label="30216">lightgun</option>
 							<option label="30217">analog</option>
 							<option label="30218">driving</option>
+							<option label="30334">paddle</option>
+							<option label="30335">6d</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -1220,19 +1308,23 @@
 		</category>
 		<category id="input_p2" label="30243" help="30244">
 			<group id="1">
-				<setting id="virtualjaguar_p2_device" type="string" label="30245" help="30246">
+				<setting id="virtualjaguar_p2_device" type="string" label="30245" help="30336">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
 						<options>
 							<option label="30213">auto</option>
 							<option label="30214">pad</option>
+							<option label="30332">teamtap</option>
+							<option label="30333">pad_pro</option>
 							<option label="30247">mouse_st</option>
 							<option label="30248">mouse_amiga</option>
 							<option label="30249">mouse_amiga_adapter</option>
 							<option label="30215">rotary</option>
 							<option label="30217">analog</option>
 							<option label="30218">driving</option>
+							<option label="30334">paddle</option>
+							<option label="30335">6d</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2126,7 +2218,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_cd_trace" type="string" label="30065" help="30268">
+				<setting id="virtualjaguar_cd_trace" type="string" label="30065" help="30337">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -2137,13 +2229,72 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_texture_dump" type="string" label="30269" help="30270">
+				<setting id="virtualjaguar_texture_dump" type="string" label="30269" help="30338">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
 						<options>
 							<option label="13106">disabled</option>
 							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_gdb_stub" type="string" label="30339" help="30340">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_gdb_bind" type="string" label="30341" help="30342">
+					<level>0</level>
+					<default>loopback</default>
+					<constraints>
+						<options>
+							<option label="30343">loopback</option>
+							<option label="30344">lan</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_gdb_port" type="string" label="30345" help="30346">
+					<level>0</level>
+					<default>2345</default>
+					<constraints>
+						<options>
+							<option>2345</option>
+							<option>2346</option>
+							<option>2347</option>
+							<option>3333</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_gdb_wait" type="string" label="30347" help="30348">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_gdb_halt_timeout" type="string" label="30349" help="30350">
+					<level>0</level>
+					<default>off</default>
+					<constraints>
+						<options>
+							<option label="351">off</option>
+							<option label="30351">30</option>
+							<option label="30352">60</option>
+							<option label="30353">300</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -2162,9 +2313,71 @@
 				</setting>
 			</group>
 		</category>
-		<category id="timing" label="30276" help="30277">
+		<category id="speed" label="30354" help="30355">
 			<group id="1">
-				<setting id="virtualjaguar_m68k_clock_scale" type="string" label="30059" help="30278">
+				<setting id="virtualjaguar_risc_idle_skip" type="string" label="30356" help="30357">
+					<level>0</level>
+					<default>enabled</default>
+					<constraints>
+						<options>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_blit_memo" type="string" label="30075" help="30358">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="30090">disabled</option>
+							<option label="30091">enabled</option>
+							<option label="30092">verify</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_frameskip" type="string" label="30359" help="30360">
+					<level>0</level>
+					<default>disabled</default>
+					<constraints>
+						<options>
+							<option label="30090">disabled</option>
+							<option label="30361">auto</option>
+							<option label="30362">auto_threshold_15</option>
+							<option label="30363">auto_threshold_30</option>
+							<option label="30364">auto_threshold_45</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_frameskip_max" type="string" label="30365" help="30366">
+					<level>0</level>
+					<default>3</default>
+					<constraints>
+						<options>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_enhancement_profile" type="string" label="30367" help="30368">
+					<level>0</level>
+					<default>auto</default>
+					<constraints>
+						<options>
+							<option label="30361">auto</option>
+							<option label="30369">quality</option>
+							<option label="30370">performance</option>
+						</options>
+					</constraints>
+					<control type="list" format="string" />
+				</setting>
+				<setting id="virtualjaguar_m68k_clock_scale" type="string" label="30059" help="30371">
 					<level>0</level>
 					<default>1x</default>
 					<constraints>
@@ -2178,7 +2391,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_risc_clock_scale" type="string" label="30060" help="30280">
+				<setting id="virtualjaguar_risc_clock_scale" type="string" label="30060" help="30372">
 					<level>0</level>
 					<default>1x</default>
 					<constraints>
@@ -2191,7 +2404,11 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_dram_timing" type="string" label="30058" help="30281">
+			</group>
+		</category>
+		<category id="accuracy" label="30373" help="30374">
+			<group id="1">
+				<setting id="virtualjaguar_dram_timing" type="string" label="30058" help="30375">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -2202,7 +2419,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_gpu_pipeline_timing" type="string" label="30076" help="30282">
+				<setting id="virtualjaguar_gpu_pipeline_timing" type="string" label="30076" help="30376">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
