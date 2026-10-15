@@ -1,0 +1,32 @@
+From 1bd0651e73d0ccb3369f8efa0c0e1b94f25c7312 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 15 Oct 2026 16:46:34 +0200
+Subject: [PATCH 2/2] fix(android): fall back to software CRC on older Clang
+
+---
+ src/core/crc32.c | 5 ++++-
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+diff --git a/src/core/crc32.c b/src/core/crc32.c
+index 872d9ff..fce606c 100644
+--- a/src/core/crc32.c
++++ b/src/core/crc32.c
+@@ -17,11 +17,14 @@
+ 
+ #include <string.h>
+ 
++/* Clang < 16 only exposes the ACLE CRC intrinsics with __ARM_FEATURE_CRC32.
++ * Without it, use the table fallback rather than target("+crc") dispatch. */
+ #if defined(__ARM_FEATURE_CRC32) && defined(__aarch64__)
+ #  include <stdint.h>
+ #  include <arm_acle.h>
+ #  define VJ_CRC32_HW_COMPILE 1
+-#elif defined(__aarch64__) && defined(__linux__)
++#elif defined(__aarch64__) && defined(__linux__) && \
++      (!defined(__clang__) || __clang_major__ >= 16)
+ #  include <stdint.h>
+ #  include <arm_acle.h>
+ #  include <sys/auxv.h>
+-- 
+2.54.0 (Apple Git-157)
+
