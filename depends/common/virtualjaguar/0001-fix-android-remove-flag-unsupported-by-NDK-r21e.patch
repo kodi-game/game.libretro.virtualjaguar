@@ -1,0 +1,39 @@
+From bd961b7c4d8f84d4bee33a5737b10663bb2d7d91 Mon Sep 17 00:00:00 2001
+From: Garrett Brown <themagnificentmrb@gmail.com>
+Date: Thu, 15 Oct 2026 16:23:35 +0200
+Subject: [PATCH] fix(android): remove flag unsupported by NDK r21e
+
+---
+ jni/Android.mk | 6 ++++--
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+
+diff --git a/jni/Android.mk b/jni/Android.mk
+index 7a67b68..7b15c8c 100644
+--- a/jni/Android.mk
++++ b/jni/Android.mk
+@@ -40,18 +40,20 @@ include $(CORE_DIR)/Makefile.common
+ # slower, so nothing would catch its absence at build time.
+ #
+ # -O3 -DNDEBUG -fvisibility=hidden -fno-stack-protector
+-# -fomit-frame-pointer -fno-semantic-interposition: the release
++# -fomit-frame-pointer: release
+ # optimisation/visibility flags from the desktop Makefile (issue #569),
+ # added by hand because ndk-build never includes Makefile -- only
+ # Makefile.common -- so without this line Android inherited none of
+ # them and built at whatever default APP_OPTIM/-O ndk-build picks.
++# Omit -fno-semantic-interposition: older NDKs (including r21e)
++# reject this optional optimisation flag.
+ # LOCAL_LDFLAGS below already pins the production link.T version
+ # script, same as every other ELF target; -fvisibility=hidden is safe
+ # alongside it because libretro.h declares every retro_* entry point
+ # RETRO_API (visibility("default")), so those symbols stay exported.
+ COREFLAGS := -DINLINE="inline" -D__LIBRETRO__ $(INCFLAGS) $(BLITTER_SIMD_DEFINE) \
+              -O3 -DNDEBUG -fvisibility=hidden -fno-stack-protector \
+-             -fomit-frame-pointer -fno-semantic-interposition
++             -fomit-frame-pointer
+ 
+ # libretro.c includes the generated src/core/version.h.  Generate it
+ # at parse time -- ndk-build doesn't go through the project Makefile,
+-- 
+2.54.0 (Apple Git-157)
+
