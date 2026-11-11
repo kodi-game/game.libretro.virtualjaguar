@@ -33,206 +33,6 @@ msgctxt "#30005"
 msgid "Enable Core Options Remapping"
 msgstr "Povolit přemapování voleb jádra"
 
-msgctxt "#30006"
-msgid "Port 1 > Numpad Buttons to Keyboard Keys"
-msgstr "Port 1 > Tlačítka numerické klávesnice na klávesy klávesnice"
-
-msgctxt "#30007"
-msgid "Port 1 > RetroPad Up"
-msgstr "Port 1 > RetroPad nahoru"
-
-msgctxt "#30008"
-msgid "Port 1 > RetroPad Down"
-msgstr "Port 1 > RetroPad dolů"
-
-msgctxt "#30009"
-msgid "Port 1 > RetroPad Left"
-msgstr "Port 1 > RetroPad doleva"
-
-msgctxt "#30010"
-msgid "Port 1 > RetroPad Right"
-msgstr "Port 1 > RetroPad doprava"
-
-msgctxt "#30011"
-msgid "Port 1 > RetroPad A"
-msgstr "Port 1 > RetroPad A"
-
-msgctxt "#30012"
-msgid "Port 1 > RetroPad B"
-msgstr "Port 1 > RetroPad B"
-
-msgctxt "#30013"
-msgid "Port 1 > RetroPad X"
-msgstr "Port 1 > RetroPad X"
-
-msgctxt "#30014"
-msgid "Port 1 > RetroPad Y"
-msgstr "Port 1 > RetroPad Y"
-
-msgctxt "#30015"
-msgid "Port 1 > RetroPad Select"
-msgstr "Port 1 > RetroPad Select"
-
-msgctxt "#30016"
-msgid "Port 1 > RetroPad Start"
-msgstr "Port 1 > RetroPad Start"
-
-msgctxt "#30017"
-msgid "Port 1 > RetroPad L1"
-msgstr "Port 1 > RetroPad L1"
-
-msgctxt "#30018"
-msgid "Port 1 > RetroPad R1"
-msgstr "Port 1 > RetroPad R1"
-
-msgctxt "#30019"
-msgid "Port 1 > RetroPad L2"
-msgstr "Port 1 > RetroPad L2"
-
-msgctxt "#30020"
-msgid "Port 1 > RetroPad R2"
-msgstr "Port 1 > RetroPad R2"
-
-msgctxt "#30021"
-msgid "Port 1 > RetroPad L3"
-msgstr "Port 1 > RetroPad L3"
-
-msgctxt "#30022"
-msgid "Port 1 > RetroPad R3"
-msgstr "Port 1 > RetroPad R3"
-
-msgctxt "#30023"
-msgid "Port 1 > RetroPad Left Analog Up"
-msgstr "Port 1 > RetroPad levá analogová páčka nahoru"
-
-msgctxt "#30024"
-msgid "Port 1 > RetroPad Left Analog Down"
-msgstr "Port 1 > RetroPad levá analogová páčka dolů"
-
-msgctxt "#30025"
-msgid "Port 1 > RetroPad Left Analog Left"
-msgstr "Port 1 > RetroPad levá analogová páčka doleva"
-
-msgctxt "#30026"
-msgid "Port 1 > RetroPad Left Analog Right"
-msgstr "Port 1 > RetroPad levá analogová páčka doprava"
-
-msgctxt "#30027"
-msgid "Port 1 > RetroPad Right Analog Up"
-msgstr "Port 1 > RetroPad pravá analogová páčka nahoru"
-
-msgctxt "#30028"
-msgid "Port 1 > RetroPad Right Analog Down"
-msgstr "Port 1 > RetroPad pravá analogová páčka dolů"
-
-msgctxt "#30029"
-msgid "Port 1 > RetroPad Right Analog Left"
-msgstr "Port 1 > RetroPad pravá analogová páčka doleva"
-
-msgctxt "#30030"
-msgid "Port 1 > RetroPad Right Analog Right"
-msgstr "Port 1 > RetroPad pravá analogová páčka doprava"
-
-msgctxt "#30031"
-msgid "Port 2 > Numpad Buttons to Keyboard Keys"
-msgstr "Port 2 > Tlačítka numerické klávesnice na klávesy klávesnice"
-
-msgctxt "#30032"
-msgid "Port 2 > RetroPad Up"
-msgstr "Port 2 > RetroPad nahoru"
-
-msgctxt "#30033"
-msgid "Port 2 > RetroPad Down"
-msgstr "Port 2 > RetroPad dolů"
-
-msgctxt "#30034"
-msgid "Port 2 > RetroPad Left"
-msgstr "Port 2 > RetroPad doleva"
-
-msgctxt "#30035"
-msgid "Port 2 > RetroPad Right"
-msgstr "Port 2 > RetroPad doprava"
-
-msgctxt "#30036"
-msgid "Port 2 > RetroPad A"
-msgstr "Port 2 > RetroPad A"
-
-msgctxt "#30037"
-msgid "Port 2 > RetroPad B"
-msgstr "Port 2 > RetroPad B"
-
-msgctxt "#30038"
-msgid "Port 2 > RetroPad X"
-msgstr "Port 2 > RetroPad X"
-
-msgctxt "#30039"
-msgid "Port 2 > RetroPad Y"
-msgstr "Port 2 > RetroPad Y"
-
-msgctxt "#30040"
-msgid "Port 2 > RetroPad Select"
-msgstr "Port 2 > RetroPad Select"
-
-msgctxt "#30041"
-msgid "Port 2 > RetroPad Start"
-msgstr "Port 2 > RetroPad Start"
-
-msgctxt "#30042"
-msgid "Port 2 > RetroPad L1"
-msgstr "Port 2 > RetroPad L1"
-
-msgctxt "#30043"
-msgid "Port 2 > RetroPad R1"
-msgstr "Port 2 > RetroPad R1"
-
-msgctxt "#30044"
-msgid "Port 2 > RetroPad L2"
-msgstr "Port 2 > RetroPad L2"
-
-msgctxt "#30045"
-msgid "Port 2 > RetroPad R2"
-msgstr "Port 2 > RetroPad R2"
-
-msgctxt "#30046"
-msgid "Port 2 > RetroPad L3"
-msgstr "Port 2 > RetroPad L3"
-
-msgctxt "#30047"
-msgid "Port 2 > RetroPad R3"
-msgstr "Port 2 > RetroPad R3"
-
-msgctxt "#30048"
-msgid "Port 2 > RetroPad Left Analog Up"
-msgstr "Port 2 > RetroPad levá analogová páčka nahoru"
-
-msgctxt "#30049"
-msgid "Port 2 > RetroPad Left Analog Down"
-msgstr "Port 2 > RetroPad levá analogová páčka dolů"
-
-msgctxt "#30050"
-msgid "Port 2 > RetroPad Left Analog Left"
-msgstr "Port 2 > RetroPad levá analogová páčka doleva"
-
-msgctxt "#30051"
-msgid "Port 2 > RetroPad Left Analog Right"
-msgstr "Port 2 > RetroPad levá analogová páčka doprava"
-
-msgctxt "#30052"
-msgid "Port 2 > RetroPad Right Analog Up"
-msgstr "Port 2 > RetroPad pravá analogová páčka nahoru"
-
-msgctxt "#30053"
-msgid "Port 2 > RetroPad Right Analog Down"
-msgstr "Port 2 > RetroPad pravá analogová páčka dolů"
-
-msgctxt "#30054"
-msgid "Port 2 > RetroPad Right Analog Left"
-msgstr "Port 2 > RetroPad pravá analogová páčka doleva"
-
-msgctxt "#30055"
-msgid "Port 2 > RetroPad Right Analog Right"
-msgstr "Port 2 > RetroPad pravá analogová páčka doprava"
-
 msgctxt "#30056"
 msgid "Crash Detect"
 msgstr "Detekce pádu"
@@ -689,10 +489,6 @@ msgctxt "#30186"
 msgid "3.00"
 msgstr "3.00"
 
-msgctxt "#30187"
-msgid "Analog Controller Dead Zone (X)"
-msgstr "Mrtvá zóna analogového ovladače (X)"
-
 msgctxt "#30188"
 msgid "Stick positions within this many ADC counts of centre (127 = full deflection) read as exactly centred. The rest of the travel is rescaled so the response is smooth at the edge and full deflection still reads full scale."
 msgstr "Poloha páčky v rozsahu tohoto počtu jednotek ADC od středu (127 = plné vychýlení) se načte přesně jako středová. Zbytek dráhy se přepočítá tak, aby byla odezva u okraje plynulá a plné vychýlení se stále načítalo jako plný rozsah."
@@ -721,17 +517,9 @@ msgctxt "#30194"
 msgid "32 counts (~25%)"
 msgstr "32 jednotek (~25 %)"
 
-msgctxt "#30195"
-msgid "Analog Controller Dead Zone (Y)"
-msgstr "Mrtvá zóna analogového ovladače (Y)"
-
 msgctxt "#30196"
 msgid "As Analog Controller Dead Zone (X), for the Y axis (pitch, or accelerator/brake on the driving controller)."
 msgstr "Stejně jako Mrtvá zóna analogového ovladače (X), pro osu Y (náklon nebo plyn/brzda na ovladači pro řízení)."
-
-msgctxt "#30197"
-msgid "Analog Controller Offset (X)"
-msgstr "Posun analogového ovladače (X)"
 
 msgctxt "#30198"
 msgid "Subtracts a constant (in ADC counts) from every X sample, in host orientation before any device convention. Cancels a stick that rests off-centre; a centred stick is moved by it, which is the point."
@@ -753,25 +541,13 @@ msgctxt "#30202"
 msgid "+16"
 msgstr "+16"
 
-msgctxt "#30203"
-msgid "Analog Controller Offset (Y)"
-msgstr "Posun analogového ovladače (Y)"
-
 msgctxt "#30204"
 msgid "As Analog Controller Offset (X), for the Y axis."
 msgstr "Stejně jako Posun analogového ovladače (X), pro osu Y."
 
-msgctxt "#30205"
-msgid "Analog Controller Response Curve (X)"
-msgstr "Křivka odezvy analogového ovladače (X)"
-
 msgctxt "#30206"
 msgid "Response exponent for the X axis, anchored at full deflection: an exponent above 1.00 gives finer control near centre while full deflection still reads full scale. Unlike the mouse/rotary curves this costs no top speed, so there is no paired sensitivity control."
 msgstr "Exponent odezvy pro osu X, ukotvený na plném vychýlení: exponent nad 1.00 poskytuje jemnější ovládání u středu, přičemž plné vychýlení se stále načte jako plný rozsah. Na rozdíl od křivek myši/spinneru se tím nesnižuje maximální rychlost, takže není potřeba spárované ovládání citlivosti."
-
-msgctxt "#30207"
-msgid "Analog Controller Response Curve (Y)"
-msgstr "Křivka odezvy analogového ovladače (Y)"
 
 msgctxt "#30208"
 msgid "As Analog Controller Response Curve (X), for the Y axis."
@@ -784,10 +560,6 @@ msgstr "Vstupní port 1"
 msgctxt "#30210"
 msgid "Change input mappings for port 1."
 msgstr "Změnit mapování vstupu pro port 1."
-
-msgctxt "#30211"
-msgid "Port 1 > Controller Type"
-msgstr "Port 1 > Typ ovladače"
 
 msgctxt "#30213"
 msgid "Auto (per-title default)"
@@ -917,10 +689,6 @@ msgctxt "#30244"
 msgid "Change input mappings for port 2."
 msgstr "Změnit mapování vstupu pro port 2."
 
-msgctxt "#30245"
-msgid "Port 2 > Controller Type"
-msgstr "Port 2 > Typ ovladače"
-
 msgctxt "#30247"
 msgid "Atari ST / PS2 Mouse"
 msgstr "Myš Atari ST / PS2"
@@ -933,57 +701,29 @@ msgctxt "#30249"
 msgid "Amiga Mouse (Amiga adapter)"
 msgstr "Myš Amiga (adaptér Amiga)"
 
-msgctxt "#30250"
-msgid "Port 2 > Mouse Sensitivity"
-msgstr "Port 2 > Citlivost myši"
-
 msgctxt "#30251"
 msgid "Scales mouse movement before it is converted to quadrature pulses. The emulated device can only emit one pulse per controller poll, so raising this past what the game's poll rate can carry adds lag rather than speed."
 msgstr "Škáluje pohyb myši před jeho převodem na kvadraturní impulzy. Emulované zařízení může vyslat pouze jeden impulz při každém dotazu ovladače, takže zvýšení nad hodnotu, kterou zvládne vzorkovací frekvence hry, přidá latenci namísto rychlosti."
-
-msgctxt "#30252"
-msgid "Port 2 > Mouse Dead Zone (X)"
-msgstr "Port 2 > Mrtvá zóna myši (X)"
 
 msgctxt "#30253"
 msgid "Discards horizontal mouse movement at or below this many host units per poll. A noise gate for a jittery source (or an analog stick mapped to the mouse); a real mouse reports nothing at rest and needs none. Movement above the threshold passes at full size -- the dead zone drops samples, it does not shrink them."
 msgstr "Zahazuje vodorovný pohyb myši o hodnotě rovné nebo menší než tento počet jednotek hostitele na jedno vzorkování. Jde o šumovou bránu pro roztřesený zdroj (nebo analogovou páčku namapovanou na myš); skutečná myš v klidu nic nehlásí a žádnou bránu nepotřebuje. Pohyb nad prahem projde v plné velikosti – mrtvá zóna zahazuje vzorky, nezmenšuje je."
 
-msgctxt "#30254"
-msgid "Port 2 > Mouse Dead Zone (Y)"
-msgstr "Port 2 > Mrtvá zóna myši (Y)"
-
 msgctxt "#30255"
 msgid "As Mouse Dead Zone (X), for vertical movement."
 msgstr "Stejně jako Mrtvá zóna myši (X), pro svislý pohyb."
-
-msgctxt "#30256"
-msgid "Port 2 > Mouse Offset (X)"
-msgstr "Port 2 > Posun myši (X)"
 
 msgctxt "#30257"
 msgid "Subtracts a constant from every horizontal sample. Cancels a source that reports a small non-zero movement while at rest -- typically an analog stick mapped to the mouse, which otherwise drifts forever. A real mouse reports exactly zero at rest and is unaffected."
 msgstr "Od každého vodorovného vzorku odečte konstantu. Ruší zdroj, který v klidu hlásí malý nenulový pohyb – obvykle analogovou páčku namapovanou na myš, která by jinak neustále ujížděla. Skutečná myš v klidu hlásí přesně nulu a není ovlivněna."
 
-msgctxt "#30258"
-msgid "Port 2 > Mouse Offset (Y)"
-msgstr "Port 2 > Posun myši (Y)"
-
 msgctxt "#30259"
 msgid "As Mouse Offset (X), for vertical movement."
 msgstr "Stejně jako Posun myši (X), pro svislý pohyb."
 
-msgctxt "#30260"
-msgid "Port 2 > Mouse Response Curve (X)"
-msgstr "Port 2 > Křivka odezvy myši (X)"
-
 msgctxt "#30261"
 msgid "Response exponent for horizontal movement, giving finer control at low speed. The curve is anchored at 64 units per poll: below that an exponent above 1.00 attenuates, at and above it movement passes through unchanged. Because ordinary movement is well below 64 units, a higher exponent makes the mouse SLOWER overall -- raise Mouse Sensitivity to get the top speed back. These are two different controls."
 msgstr "Exponent odezvy pro vodorovný pohyb pro jemnější ovládání při nízké rychlosti. Křivka je ukotvena na 64 jednotkách za jedno vzorkování: pod touto hodnotou exponent nad 1.00 odezvu zeslabuje, při této hodnotě a nad ní prochází pohyb beze změny. Protože běžný pohyb je hluboko pod 64 jednotkami, vyšší exponent myš celkově ZPOMALUJE – chcete-li obnovit maximální rychlost, zvyšte citlivost myši. Jde o dvě různá ovládání."
-
-msgctxt "#30262"
-msgid "Port 2 > Mouse Response Curve (Y)"
-msgstr "Port 2 > Křivka odezvy myši (Y)"
 
 msgctxt "#30263"
 msgid "As Mouse Response Curve (X), for vertical movement."
@@ -1277,10 +1017,6 @@ msgctxt "#30356"
 msgid "RISC Idle-Loop Fast-Forward (GPU + DSP)"
 msgstr "Rychlý průchod nečinnými smyčkami RISC (GPU + DSP)"
 
-msgctxt "#30358"
-msgid "Skip blits whose inputs are provably unchanged since an identical earlier blit (some titles re-render the same scene every engine cycle while the player is idle). Output is bit-identical by construction. Enabled per title via the enhancement database; not available for CD content. 'Verify' never skips -- it runs every would-be skip and logs any divergence, for validating new titles. Switches off DSP Idle-Loop Fast-Forward while enabled."
-msgstr "Přeskakovat blity, jejichž vstupy se od předchozího totožného blitu prokazatelně nezměnily (některé tituly vykreslují stejnou scénu v každém cyklu enginu znovu, i když hráč nic nedělá). Výstup je z principu bitově totožný. Zapíná se podle titulu v databázi vylepšení; pro obsah CD není k dispozici. „Ověřit“ nic nepřeskakuje – provede každý blit, který by se jinak přeskočil, a zaznamená každou odchylku pro ověřování nových titulů. Při zapnutí vypíná rychlý průchod nečinnými smyčkami DSP."
-
 msgctxt "#30359"
 msgid "Frameskip"
 msgstr "Přeskakování snímků"
@@ -1441,37 +1177,33 @@ msgctxt "#30401"
 msgid "68000 only"
 msgstr "Pouze 68000"
 
+msgctxt "#30402"
+msgid "Analog Dead Zone (X)"
+msgstr ""
+
+msgctxt "#30403"
+msgid "Analog Dead Zone (Y)"
+msgstr ""
+
+msgctxt "#30404"
+msgid "Analog Offset (X)"
+msgstr ""
+
+msgctxt "#30405"
+msgid "Analog Offset (Y)"
+msgstr ""
+
+msgctxt "#30406"
+msgid "Analog Response Curve (X)"
+msgstr ""
+
+msgctxt "#30407"
+msgid "Analog Response Curve (Y)"
+msgstr ""
+
 msgctxt "#30408"
 msgid "Controller Type"
 msgstr "Typ ovladače"
-
-msgctxt "#30434"
-msgid "Mouse Sensitivity"
-msgstr "Citlivost myši"
-
-msgctxt "#30435"
-msgid "Mouse Dead Zone (X)"
-msgstr "Mrtvá zóna myši (X)"
-
-msgctxt "#30436"
-msgid "Mouse Dead Zone (Y)"
-msgstr "Mrtvá zóna myši (Y)"
-
-msgctxt "#30437"
-msgid "Mouse Offset (X)"
-msgstr "Posun myši (X)"
-
-msgctxt "#30438"
-msgid "Mouse Offset (Y)"
-msgstr "Posun myši (Y)"
-
-msgctxt "#30439"
-msgid "Mouse Response Curve (X)"
-msgstr "Křivka odezvy myši (X)"
-
-msgctxt "#30440"
-msgid "Mouse Response Curve (Y)"
-msgstr "Křivka odezvy myši (Y)"
 
 msgctxt "#30409"
 msgid "Numpad Buttons to Keyboard Keys"
@@ -1573,6 +1305,238 @@ msgctxt "#30433"
 msgid "RetroPad Right Analog Right"
 msgstr "RetroPad pravá analogová páčka doprava"
 
+msgctxt "#30434"
+msgid "Mouse Sensitivity"
+msgstr "Citlivost myši"
+
+msgctxt "#30435"
+msgid "Mouse Dead Zone (X)"
+msgstr "Mrtvá zóna myši (X)"
+
+msgctxt "#30436"
+msgid "Mouse Dead Zone (Y)"
+msgstr "Mrtvá zóna myši (Y)"
+
+msgctxt "#30437"
+msgid "Mouse Offset (X)"
+msgstr "Posun myši (X)"
+
+msgctxt "#30438"
+msgid "Mouse Offset (Y)"
+msgstr "Posun myši (Y)"
+
+msgctxt "#30439"
+msgid "Mouse Response Curve (X)"
+msgstr "Křivka odezvy myši (X)"
+
+msgctxt "#30440"
+msgid "Mouse Response Curve (Y)"
+msgstr "Křivka odezvy myši (Y)"
+
+msgctxt "#30441"
+msgid "Skip blits whose inputs are provably unchanged since an identical earlier blit (some titles re-render the same scene every engine cycle while the player is idle). Output is bit-identical by construction. Enabled per title via the enhancement database; not available for CD content. 'Verify' never skips -- it runs every would-be skip and logs any divergence, for validating new titles."
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Port 1 > Numpad Buttons to Keyboard Keys"
+#~ msgstr "Port 1 > Tlačítka numerické klávesnice na klávesy klávesnice"
+
+#~ msgctxt "#30007"
+#~ msgid "Port 1 > RetroPad Up"
+#~ msgstr "Port 1 > RetroPad nahoru"
+
+#~ msgctxt "#30008"
+#~ msgid "Port 1 > RetroPad Down"
+#~ msgstr "Port 1 > RetroPad dolů"
+
+#~ msgctxt "#30009"
+#~ msgid "Port 1 > RetroPad Left"
+#~ msgstr "Port 1 > RetroPad doleva"
+
+#~ msgctxt "#30010"
+#~ msgid "Port 1 > RetroPad Right"
+#~ msgstr "Port 1 > RetroPad doprava"
+
+#~ msgctxt "#30011"
+#~ msgid "Port 1 > RetroPad A"
+#~ msgstr "Port 1 > RetroPad A"
+
+#~ msgctxt "#30012"
+#~ msgid "Port 1 > RetroPad B"
+#~ msgstr "Port 1 > RetroPad B"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1 > RetroPad X"
+#~ msgstr "Port 1 > RetroPad X"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 1 > RetroPad Y"
+#~ msgstr "Port 1 > RetroPad Y"
+
+#~ msgctxt "#30015"
+#~ msgid "Port 1 > RetroPad Select"
+#~ msgstr "Port 1 > RetroPad Select"
+
+#~ msgctxt "#30016"
+#~ msgid "Port 1 > RetroPad Start"
+#~ msgstr "Port 1 > RetroPad Start"
+
+#~ msgctxt "#30017"
+#~ msgid "Port 1 > RetroPad L1"
+#~ msgstr "Port 1 > RetroPad L1"
+
+#~ msgctxt "#30018"
+#~ msgid "Port 1 > RetroPad R1"
+#~ msgstr "Port 1 > RetroPad R1"
+
+#~ msgctxt "#30019"
+#~ msgid "Port 1 > RetroPad L2"
+#~ msgstr "Port 1 > RetroPad L2"
+
+#~ msgctxt "#30020"
+#~ msgid "Port 1 > RetroPad R2"
+#~ msgstr "Port 1 > RetroPad R2"
+
+#~ msgctxt "#30021"
+#~ msgid "Port 1 > RetroPad L3"
+#~ msgstr "Port 1 > RetroPad L3"
+
+#~ msgctxt "#30022"
+#~ msgid "Port 1 > RetroPad R3"
+#~ msgstr "Port 1 > RetroPad R3"
+
+#~ msgctxt "#30023"
+#~ msgid "Port 1 > RetroPad Left Analog Up"
+#~ msgstr "Port 1 > RetroPad levá analogová páčka nahoru"
+
+#~ msgctxt "#30024"
+#~ msgid "Port 1 > RetroPad Left Analog Down"
+#~ msgstr "Port 1 > RetroPad levá analogová páčka dolů"
+
+#~ msgctxt "#30025"
+#~ msgid "Port 1 > RetroPad Left Analog Left"
+#~ msgstr "Port 1 > RetroPad levá analogová páčka doleva"
+
+#~ msgctxt "#30026"
+#~ msgid "Port 1 > RetroPad Left Analog Right"
+#~ msgstr "Port 1 > RetroPad levá analogová páčka doprava"
+
+#~ msgctxt "#30027"
+#~ msgid "Port 1 > RetroPad Right Analog Up"
+#~ msgstr "Port 1 > RetroPad pravá analogová páčka nahoru"
+
+#~ msgctxt "#30028"
+#~ msgid "Port 1 > RetroPad Right Analog Down"
+#~ msgstr "Port 1 > RetroPad pravá analogová páčka dolů"
+
+#~ msgctxt "#30029"
+#~ msgid "Port 1 > RetroPad Right Analog Left"
+#~ msgstr "Port 1 > RetroPad pravá analogová páčka doleva"
+
+#~ msgctxt "#30030"
+#~ msgid "Port 1 > RetroPad Right Analog Right"
+#~ msgstr "Port 1 > RetroPad pravá analogová páčka doprava"
+
+#~ msgctxt "#30031"
+#~ msgid "Port 2 > Numpad Buttons to Keyboard Keys"
+#~ msgstr "Port 2 > Tlačítka numerické klávesnice na klávesy klávesnice"
+
+#~ msgctxt "#30032"
+#~ msgid "Port 2 > RetroPad Up"
+#~ msgstr "Port 2 > RetroPad nahoru"
+
+#~ msgctxt "#30033"
+#~ msgid "Port 2 > RetroPad Down"
+#~ msgstr "Port 2 > RetroPad dolů"
+
+#~ msgctxt "#30034"
+#~ msgid "Port 2 > RetroPad Left"
+#~ msgstr "Port 2 > RetroPad doleva"
+
+#~ msgctxt "#30035"
+#~ msgid "Port 2 > RetroPad Right"
+#~ msgstr "Port 2 > RetroPad doprava"
+
+#~ msgctxt "#30036"
+#~ msgid "Port 2 > RetroPad A"
+#~ msgstr "Port 2 > RetroPad A"
+
+#~ msgctxt "#30037"
+#~ msgid "Port 2 > RetroPad B"
+#~ msgstr "Port 2 > RetroPad B"
+
+#~ msgctxt "#30038"
+#~ msgid "Port 2 > RetroPad X"
+#~ msgstr "Port 2 > RetroPad X"
+
+#~ msgctxt "#30039"
+#~ msgid "Port 2 > RetroPad Y"
+#~ msgstr "Port 2 > RetroPad Y"
+
+#~ msgctxt "#30040"
+#~ msgid "Port 2 > RetroPad Select"
+#~ msgstr "Port 2 > RetroPad Select"
+
+#~ msgctxt "#30041"
+#~ msgid "Port 2 > RetroPad Start"
+#~ msgstr "Port 2 > RetroPad Start"
+
+#~ msgctxt "#30042"
+#~ msgid "Port 2 > RetroPad L1"
+#~ msgstr "Port 2 > RetroPad L1"
+
+#~ msgctxt "#30043"
+#~ msgid "Port 2 > RetroPad R1"
+#~ msgstr "Port 2 > RetroPad R1"
+
+#~ msgctxt "#30044"
+#~ msgid "Port 2 > RetroPad L2"
+#~ msgstr "Port 2 > RetroPad L2"
+
+#~ msgctxt "#30045"
+#~ msgid "Port 2 > RetroPad R2"
+#~ msgstr "Port 2 > RetroPad R2"
+
+#~ msgctxt "#30046"
+#~ msgid "Port 2 > RetroPad L3"
+#~ msgstr "Port 2 > RetroPad L3"
+
+#~ msgctxt "#30047"
+#~ msgid "Port 2 > RetroPad R3"
+#~ msgstr "Port 2 > RetroPad R3"
+
+#~ msgctxt "#30048"
+#~ msgid "Port 2 > RetroPad Left Analog Up"
+#~ msgstr "Port 2 > RetroPad levá analogová páčka nahoru"
+
+#~ msgctxt "#30049"
+#~ msgid "Port 2 > RetroPad Left Analog Down"
+#~ msgstr "Port 2 > RetroPad levá analogová páčka dolů"
+
+#~ msgctxt "#30050"
+#~ msgid "Port 2 > RetroPad Left Analog Left"
+#~ msgstr "Port 2 > RetroPad levá analogová páčka doleva"
+
+#~ msgctxt "#30051"
+#~ msgid "Port 2 > RetroPad Left Analog Right"
+#~ msgstr "Port 2 > RetroPad levá analogová páčka doprava"
+
+#~ msgctxt "#30052"
+#~ msgid "Port 2 > RetroPad Right Analog Up"
+#~ msgstr "Port 2 > RetroPad pravá analogová páčka nahoru"
+
+#~ msgctxt "#30053"
+#~ msgid "Port 2 > RetroPad Right Analog Down"
+#~ msgstr "Port 2 > RetroPad pravá analogová páčka dolů"
+
+#~ msgctxt "#30054"
+#~ msgid "Port 2 > RetroPad Right Analog Left"
+#~ msgstr "Port 2 > RetroPad pravá analogová páčka doleva"
+
+#~ msgctxt "#30055"
+#~ msgid "Port 2 > RetroPad Right Analog Right"
+#~ msgstr "Port 2 > RetroPad pravá analogová páčka doprava"
+
 #~ msgctxt "#30061"
 #~ msgid "Network Link (JagLink / CatBox)"
 #~ msgstr "Síťové propojení (JagLink / CatBox)"
@@ -1645,13 +1609,73 @@ msgstr "RetroPad pravá analogová páčka doprava"
 #~ msgid "What is plugged into the serial port. 'JagLink / CatBox' is the raw cable used by BattleSphere, AirCars and Doom. 'Voice Modem' emulates the Jaguar Voice Modem for Ultra Vortek's phone-line versus mode: type 911 on the numpad at the title screen, then one player dials (any number) and the other answers -- the 'call' is carried over the Network Link transport selected above."
 #~ msgstr "Co je připojeno k sériovému portu. „JagLink / CatBox“ je přímý kabel používaný hrami BattleSphere, AirCars a Doom. „Hlasový modem“ emuluje Jaguar Voice Modem pro režim souboje Ultra Vortek po telefonní lince: na titulní obrazovce zadejte na numerické klávesnici 911, poté jeden hráč vytočí (libovolné číslo) a druhý odpoví – „volání“ se přenáší prostřednictvím výše vybraného transportu síťového propojení."
 
+#~ msgctxt "#30187"
+#~ msgid "Analog Controller Dead Zone (X)"
+#~ msgstr "Mrtvá zóna analogového ovladače (X)"
+
+#~ msgctxt "#30195"
+#~ msgid "Analog Controller Dead Zone (Y)"
+#~ msgstr "Mrtvá zóna analogového ovladače (Y)"
+
+#~ msgctxt "#30197"
+#~ msgid "Analog Controller Offset (X)"
+#~ msgstr "Posun analogového ovladače (X)"
+
+#~ msgctxt "#30203"
+#~ msgid "Analog Controller Offset (Y)"
+#~ msgstr "Posun analogového ovladače (Y)"
+
+#~ msgctxt "#30205"
+#~ msgid "Analog Controller Response Curve (X)"
+#~ msgstr "Křivka odezvy analogového ovladače (X)"
+
+#~ msgctxt "#30207"
+#~ msgid "Analog Controller Response Curve (Y)"
+#~ msgstr "Křivka odezvy analogového ovladače (Y)"
+
+#~ msgctxt "#30211"
+#~ msgid "Port 1 > Controller Type"
+#~ msgstr "Port 1 > Typ ovladače"
+
 #~ msgctxt "#30212"
 #~ msgid "Which peripheral is plugged into controller port 1. 'Rotary (Tempest)' is the Tempest spinner: it removes Up and Down and reports wheel rotation on Left/Right instead, and is driven by relative mouse X. Its buttons (A, B, C, Option, Pause and the keypad) stay on the RetroPad, which is what a real rotary has. 'Light Gun' is the port-1 light gun: the Jaguar wires its LP pin to port 1 only, so it is not offered on port 2. Aim with whatever your frontend maps to the light gun (mouse or Wiimote); the trigger reports as the Jaguar's B button, which is what Balloons reads, and Aux A / Aux B / Start / Select reach A / C / Option / Pause. Aiming off-screen stops the aim updating, exactly as a real gun stops seeing the beam. 'Analog Joystick' and 'Driving Controller' are Atari's bank-switching analog device (one protocol, two skins) -- NO RELEASED TITLE reads it, so these exist for homebrew. Driven by the left analog stick (the driving skin also takes the L2/R2 triggers as brake/accelerator); the port stays a RetroPad until the stick actually moves, so a game that probes controller types at boot only sees the analog device if the stick is deflected first. There is no per-title default for any of these and there never will be -- selecting a rotary removes Up and Down and a gun repurposes B, so either would break the controls of anyone using a pad. Tempest 2000 hides its rotary support behind an unlock -- from SELECT GAME TYPE TO PLAY press Option on controller 1, then press Pause on BOTH controllers at once to reveal CONTROLLER TYPE. The unlock is saved to the game's EEPROM, so it is only needed once."
 #~ msgstr "Jaké periferní zařízení je připojeno k portu ovladače 1. „Otočný ovladač (Tempest)“ je spinner Tempest: odstraňuje Nahoru a Dolů a místo toho hlásí otáčení kolečka vlevo/vpravo; ovládá se relativní osou X myši. Jeho tlačítka (A, B, C, Option, Pause a numerická klávesnice) zůstávají na RetroPadu, stejně jako u skutečného otočného ovladače. „Světelná pistole“ je pistole na portu 1: Jaguar připojuje svůj pin LP pouze k portu 1, proto není nabízena na portu 2. Miřte pomocí toho, co frontend mapuje na světelnou pistoli (myš nebo Wiimote); spoušť se hlásí jako tlačítko B Jaguaru, což čte hra Balloons, a Aux A / Aux B / Start / Select se dostanou na A / C / Option / Pause. Míření mimo obrazovku zastaví aktualizaci míření, přesně jako skutečná pistole přestane vidět paprsek. „Analogový joystick“ a „Ovladač pro řízení“ jsou analogové zařízení Atari s přepínáním bank (jeden protokol, dvě varianty) – ŽÁDNÝ VYDANÝ TITUL je nečte, proto jsou určeny pro homebrew. Ovládají se levou analogovou páčkou (varianta ovladače pro řízení používá také spouště L2/R2 jako brzdu/plyn); port zůstává RetroPadem, dokud se páčka skutečně nepohne, takže hra, která zjišťuje typy ovladačů při spuštění, uvidí analogové zařízení jen tehdy, když se páčka nejprve vychýlí. Pro žádné z těchto zařízení neexistuje výchozí nastavení pro jednotlivé tituly a nikdy existovat nebude – výběr otočného ovladače odstraní Nahoru a Dolů a pistole změní funkci B, takže kterákoli z těchto voleb by rozbila ovládání každému, kdo používá gamepad. Tempest 2000 skrývá podporu otočného ovladače za odemknutím – v nabídce SELECT GAME TYPE TO PLAY stiskněte na ovladači 1 tlačítko Option a poté současně stiskněte Pause na OBOU ovladačích, aby se zobrazil CONTROLLER TYPE. Odemknutí se uloží do EEPROM hry, takže je potřeba jen jednou."
 
+#~ msgctxt "#30245"
+#~ msgid "Port 2 > Controller Type"
+#~ msgstr "Port 2 > Typ ovladače"
+
 #~ msgctxt "#30246"
 #~ msgid "Which peripheral is plugged into controller port 2. 'Atari ST / PS2 Mouse' is the wiring used by the AtariAge and Brewing Academy ST adapters and by PS/2 mouse adapters. 'Amiga Mouse (ST adapter)' is an Amiga mouse plugged into an ST-wired adapter -- this is what an in-game 'Atari / Amiga' selector normally chooses between. 'Amiga Mouse (Amiga adapter)' is the rarer dedicated adapter. A mouse asserts its state in every row scan, exactly as the real row-blind adapter does, so the port-2 RetroPad is disconnected while one is selected. 'Rotary (Tempest)' is the Tempest spinner: it removes Up and Down and reports wheel rotation on Left/Right instead, and is driven by relative mouse X. Its buttons stay on the RetroPad. Tempest 2000 hides its rotary support behind an unlock -- from SELECT GAME TYPE TO PLAY press Option on controller 1, then press Pause on BOTH controllers at once to reveal CONTROLLER TYPE. The unlock is saved to the game's EEPROM, so it is only needed once. 'Analog Joystick' and 'Driving Controller' are Atari's bank-switching analog device (one protocol, two skins) -- NO RELEASED TITLE reads it, so these exist for homebrew. Driven by the left analog stick (the driving skin also takes the L2/R2 triggers as brake/accelerator); the port stays a RetroPad until the stick actually moves, so a game that probes controller types at boot only sees the analog device if the stick is deflected first."
 #~ msgstr "Jaké periferní zařízení je připojeno k portu ovladače 2. „Myš Atari ST / PS2“ je zapojení používané adaptéry ST od AtariAge a Brewing Academy a adaptéry pro myši PS/2. „Myš Amiga (adaptér ST)“ je myš Amiga připojená k adaptéru zapojenému jako ST – to je volba, mezi kterou herní přepínač „Atari / Amiga“ obvykle vybírá. „Myš Amiga (adaptér Amiga)“ je vzácnější vyhrazený adaptér. Myš hlásí svůj stav při každém skenování řádku, přesně jako skutečný adaptér necitlivý na řádky, takže port 2 RetroPadu se po jejím výběru odpojí. „Otočný ovladač (Tempest)“ je spinner Tempest: odstraňuje Nahoru a Dolů a místo toho hlásí otáčení kolečka vlevo/vpravo; ovládá se relativní osou X myši. Jeho tlačítka zůstávají na RetroPadu. Tempest 2000 skrývá podporu otočného ovladače za odemknutím – v nabídce SELECT GAME TYPE TO PLAY stiskněte na ovladači 1 tlačítko Option a poté současně stiskněte Pause na OBOU ovladačích, aby se zobrazil CONTROLLER TYPE. Odemknutí se uloží do EEPROM hry, takže je potřeba jen jednou. „Analogový joystick“ a „Ovladač pro řízení“ jsou analogové zařízení Atari s přepínáním bank (jeden protokol, dvě varianty) – ŽÁDNÝ VYDANÝ TITUL je nečte, proto existují pro homebrew. Ovládají se levou analogovou páčkou (varianta ovladače pro řízení používá také spouště L2/R2 jako brzdu/plyn); port zůstává RetroPadem, dokud se páčka skutečně nepohne, takže hra, která zjišťuje typy ovladačů při spuštění, uvidí analogové zařízení jen tehdy, když se páčka nejprve vychýlí."
+
+#~ msgctxt "#30250"
+#~ msgid "Port 2 > Mouse Sensitivity"
+#~ msgstr "Port 2 > Citlivost myši"
+
+#~ msgctxt "#30252"
+#~ msgid "Port 2 > Mouse Dead Zone (X)"
+#~ msgstr "Port 2 > Mrtvá zóna myši (X)"
+
+#~ msgctxt "#30254"
+#~ msgid "Port 2 > Mouse Dead Zone (Y)"
+#~ msgstr "Port 2 > Mrtvá zóna myši (Y)"
+
+#~ msgctxt "#30256"
+#~ msgid "Port 2 > Mouse Offset (X)"
+#~ msgstr "Port 2 > Posun myši (X)"
+
+#~ msgctxt "#30258"
+#~ msgid "Port 2 > Mouse Offset (Y)"
+#~ msgstr "Port 2 > Posun myši (Y)"
+
+#~ msgctxt "#30260"
+#~ msgid "Port 2 > Mouse Response Curve (X)"
+#~ msgstr "Port 2 > Křivka odezvy myši (X)"
+
+#~ msgctxt "#30262"
+#~ msgid "Port 2 > Mouse Response Curve (Y)"
+#~ msgstr "Port 2 > Křivka odezvy myši (Y)"
 
 #~ msgctxt "#30268"
 #~ msgid "Records DSA command/response traffic and seek/FIFO transitions to a bounded ring buffer, dumped to the RetroArch log when the cd_seek_wedge watchdog fires (or on request by test harnesses). Diagnostic only -- intended for troubleshooting Jaguar CD boot/data-transfer bugs, not for normal play. Can also be forced on headlessly via the VJ_CD_TRACE=1 environment variable."
@@ -1740,6 +1764,10 @@ msgstr "RetroPad pravá analogová páčka doprava"
 #~ msgctxt "#30357"
 #~ msgid "Fast-forward the GPU and DSP through provably redundant iterations of a wait loop -- the largest single speed-up the core offers (66-87% less DSP interpretation and 60%+ less GPU interpretation on the titles measured). Bit-exact by construction: registers, flags, cycles and instruction count land exactly where interpreting would have left them, so save states, run-ahead and netplay are unaffected. On by default: the corpus sweep behind #708 ran 148 cart images plus 6 CD spot-checks off-vs-on and every single one was byte-identical (framebuffer, audio and savestate hash streams). If a title looks or sounds wrong with it on, turn it off and please report it. IMPORTANT: a non-stock RISC Clock Scale, DRAM Timing, GPU Pipeline Timing or Blit Memoization switches this off entirely, so turning one of those on costs you this speed-up on top of its own cost. The M68K clock scale and Blitter Bus Timing do not affect it."
 #~ msgstr "Rychle projít prokazatelně nadbytečnými opakováními čekací smyčky GPU a DSP – jde o největší jednotlivé zrychlení, které jádro nabízí (u měřených titulů o 66–87 % méně interpretace DSP a o 60 % či více méně interpretace GPU). Výsledek je z principu přesný na úroveň bitů: registry, příznaky, cykly i počet instrukcí skončí přesně tam, kde by je ponechala běžná interpretace, takže uložené stavy, run-ahead a netplay zůstávají beze změny. Ve výchozím nastavení zapnuto: testovací sada pro #708 porovnala vypnutý a zapnutý stav u 148 obrazů kazet a šesti namátkových kontrol CD; všechny proudy hashů framebufferu, zvuku i uložených stavů byly shodné na úroveň bajtů. Pokud hra při zapnuté volbě vypadá nebo zní špatně, vypněte ji a problém prosím nahlaste. DŮLEŽITÉ: nestandardní násobič taktu RISC, časování DRAM, časování pipeline GPU nebo memoizace blitování tuto optimalizaci zcela vypnou. Zapnutím některé z těchto voleb tedy přijdete i o toto zrychlení, nad rámec její vlastní režie. Násobič taktu M68K a časování sběrnice blitteru je neovlivňují."
+
+#~ msgctxt "#30358"
+#~ msgid "Skip blits whose inputs are provably unchanged since an identical earlier blit (some titles re-render the same scene every engine cycle while the player is idle). Output is bit-identical by construction. Enabled per title via the enhancement database; not available for CD content. 'Verify' never skips -- it runs every would-be skip and logs any divergence, for validating new titles. Switches off DSP Idle-Loop Fast-Forward while enabled."
+#~ msgstr "Přeskakovat blity, jejichž vstupy se od předchozího totožného blitu prokazatelně nezměnily (některé tituly vykreslují stejnou scénu v každém cyklu enginu znovu, i když hráč nic nedělá). Výstup je z principu bitově totožný. Zapíná se podle titulu v databázi vylepšení; pro obsah CD není k dispozici. „Ověřit“ nic nepřeskakuje – provede každý blit, který by se jinak přeskočil, a zaznamená každou odchylku pro ověřování nových titulů. Při zapnutí vypíná rychlý průchod nečinnými smyčkami DSP."
 
 #~ msgctxt "#30371"
 #~ msgid "Run the 68000 at a multiple of its stock ~13.3 MHz. An enhancement, not an accuracy fix, and it helps less often than you would think: AvP and Checkered Flag were both measured and neither gained anything (AvP is locked to one frame per 5 fields; Checkered Flag caps itself in software), because most Jaguar games are paced by a field lock or their own frame cap rather than by CPU speed. It may also break titles that depend on stock CPU timing. Timers and bus costs stay at stock speed. Overclocking the 68000 is the safer of the two scales: it does NOT cost you DSP Idle-Loop Fast-Forward. If an overclocked game misbehaves, try the Hardware Timing options in their own category. Report bugs only at 1x."

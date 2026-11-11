@@ -33,206 +33,6 @@ msgctxt "#30005"
 msgid "Enable Core Options Remapping"
 msgstr "Включить переназначение параметров ядра"
 
-msgctxt "#30006"
-msgid "Port 1 > Numpad Buttons to Keyboard Keys"
-msgstr "Порт 1 > Кнопки цифровой клавиатуры на клавиши клавиатуры"
-
-msgctxt "#30007"
-msgid "Port 1 > RetroPad Up"
-msgstr "Порт 1 > RetroPad Вверх"
-
-msgctxt "#30008"
-msgid "Port 1 > RetroPad Down"
-msgstr "Порт 1 > RetroPad Вниз"
-
-msgctxt "#30009"
-msgid "Port 1 > RetroPad Left"
-msgstr "Порт 1 > RetroPad Влево"
-
-msgctxt "#30010"
-msgid "Port 1 > RetroPad Right"
-msgstr "Порт 1 > RetroPad Вправо"
-
-msgctxt "#30011"
-msgid "Port 1 > RetroPad A"
-msgstr "Порт 1 > RetroPad A"
-
-msgctxt "#30012"
-msgid "Port 1 > RetroPad B"
-msgstr "Порт 1 > RetroPad B"
-
-msgctxt "#30013"
-msgid "Port 1 > RetroPad X"
-msgstr "Порт 1 > RetroPad X"
-
-msgctxt "#30014"
-msgid "Port 1 > RetroPad Y"
-msgstr "Порт 1 > RetroPad Y"
-
-msgctxt "#30015"
-msgid "Port 1 > RetroPad Select"
-msgstr "Порт 1 > RetroPad Select"
-
-msgctxt "#30016"
-msgid "Port 1 > RetroPad Start"
-msgstr "Порт 1 > RetroPad Start"
-
-msgctxt "#30017"
-msgid "Port 1 > RetroPad L1"
-msgstr "Порт 1 > RetroPad L1"
-
-msgctxt "#30018"
-msgid "Port 1 > RetroPad R1"
-msgstr "Порт 1 > RetroPad R1"
-
-msgctxt "#30019"
-msgid "Port 1 > RetroPad L2"
-msgstr "Порт 1 > RetroPad L2"
-
-msgctxt "#30020"
-msgid "Port 1 > RetroPad R2"
-msgstr "Порт 1 > RetroPad R2"
-
-msgctxt "#30021"
-msgid "Port 1 > RetroPad L3"
-msgstr "Порт 1 > RetroPad L3"
-
-msgctxt "#30022"
-msgid "Port 1 > RetroPad R3"
-msgstr "Порт 1 > RetroPad R3"
-
-msgctxt "#30023"
-msgid "Port 1 > RetroPad Left Analog Up"
-msgstr "Порт 1 > Левый аналог RetroPad Вверх"
-
-msgctxt "#30024"
-msgid "Port 1 > RetroPad Left Analog Down"
-msgstr "Порт 1 > Левый аналог RetroPad Вниз"
-
-msgctxt "#30025"
-msgid "Port 1 > RetroPad Left Analog Left"
-msgstr "Порт 1 > Левый аналог RetroPad Влево"
-
-msgctxt "#30026"
-msgid "Port 1 > RetroPad Left Analog Right"
-msgstr "Порт 1 > Левый аналог RetroPad Вправо"
-
-msgctxt "#30027"
-msgid "Port 1 > RetroPad Right Analog Up"
-msgstr "Порт 1 > Правый аналог RetroPad Вверх"
-
-msgctxt "#30028"
-msgid "Port 1 > RetroPad Right Analog Down"
-msgstr "Порт 1 > Правый аналог RetroPad Вниз"
-
-msgctxt "#30029"
-msgid "Port 1 > RetroPad Right Analog Left"
-msgstr "Порт 1 > Правый аналог RetroPad Влево"
-
-msgctxt "#30030"
-msgid "Port 1 > RetroPad Right Analog Right"
-msgstr "Порт 1 > Правый аналог RetroPad Вправо"
-
-msgctxt "#30031"
-msgid "Port 2 > Numpad Buttons to Keyboard Keys"
-msgstr "Порт 2 > Кнопки цифровой клавиатуры на клавиши клавиатуры"
-
-msgctxt "#30032"
-msgid "Port 2 > RetroPad Up"
-msgstr "Порт 2 > RetroPad Вверх"
-
-msgctxt "#30033"
-msgid "Port 2 > RetroPad Down"
-msgstr "Порт 2 > RetroPad Вниз"
-
-msgctxt "#30034"
-msgid "Port 2 > RetroPad Left"
-msgstr "Порт 2 > RetroPad Влево"
-
-msgctxt "#30035"
-msgid "Port 2 > RetroPad Right"
-msgstr "Порт 2 > RetroPad Вправо"
-
-msgctxt "#30036"
-msgid "Port 2 > RetroPad A"
-msgstr "Порт 2 > RetroPad A"
-
-msgctxt "#30037"
-msgid "Port 2 > RetroPad B"
-msgstr "Порт 2 > RetroPad B"
-
-msgctxt "#30038"
-msgid "Port 2 > RetroPad X"
-msgstr "Порт 2 > RetroPad X"
-
-msgctxt "#30039"
-msgid "Port 2 > RetroPad Y"
-msgstr "Порт 2 > RetroPad Y"
-
-msgctxt "#30040"
-msgid "Port 2 > RetroPad Select"
-msgstr "Порт 2 > RetroPad Select"
-
-msgctxt "#30041"
-msgid "Port 2 > RetroPad Start"
-msgstr "Порт 2 > RetroPad Start"
-
-msgctxt "#30042"
-msgid "Port 2 > RetroPad L1"
-msgstr "Порт 2 > RetroPad L1"
-
-msgctxt "#30043"
-msgid "Port 2 > RetroPad R1"
-msgstr "Порт 2 > RetroPad R1"
-
-msgctxt "#30044"
-msgid "Port 2 > RetroPad L2"
-msgstr "Порт 2 > RetroPad L2"
-
-msgctxt "#30045"
-msgid "Port 2 > RetroPad R2"
-msgstr "Порт 2 > RetroPad R2"
-
-msgctxt "#30046"
-msgid "Port 2 > RetroPad L3"
-msgstr "Порт 2 > RetroPad L3"
-
-msgctxt "#30047"
-msgid "Port 2 > RetroPad R3"
-msgstr "Порт 2 > RetroPad R3"
-
-msgctxt "#30048"
-msgid "Port 2 > RetroPad Left Analog Up"
-msgstr "Порт 2 > Левый аналог RetroPad Вверх"
-
-msgctxt "#30049"
-msgid "Port 2 > RetroPad Left Analog Down"
-msgstr "Порт 2 > Левый аналог RetroPad Вниз"
-
-msgctxt "#30050"
-msgid "Port 2 > RetroPad Left Analog Left"
-msgstr "Порт 2 > Левый аналог RetroPad Влево"
-
-msgctxt "#30051"
-msgid "Port 2 > RetroPad Left Analog Right"
-msgstr "Порт 2 > Левый аналог RetroPad Вправо"
-
-msgctxt "#30052"
-msgid "Port 2 > RetroPad Right Analog Up"
-msgstr "Порт 2 > Правый аналог RetroPad Вверх"
-
-msgctxt "#30053"
-msgid "Port 2 > RetroPad Right Analog Down"
-msgstr "Порт 2 > Правый аналог RetroPad Вниз"
-
-msgctxt "#30054"
-msgid "Port 2 > RetroPad Right Analog Left"
-msgstr "Порт 2 > Правый аналог RetroPad Влево"
-
-msgctxt "#30055"
-msgid "Port 2 > RetroPad Right Analog Right"
-msgstr "Порт 2 > Правый аналог RetroPad Вправо"
-
 msgctxt "#30056"
 msgid "Crash Detect"
 msgstr "Обнаружение сбоев"
@@ -689,10 +489,6 @@ msgctxt "#30186"
 msgid "3.00"
 msgstr "3,00"
 
-msgctxt "#30187"
-msgid "Analog Controller Dead Zone (X)"
-msgstr "Мёртвая зона аналогового контроллера (X)"
-
 msgctxt "#30188"
 msgid "Stick positions within this many ADC counts of centre (127 = full deflection) read as exactly centred. The rest of the travel is rescaled so the response is smooth at the edge and full deflection still reads full scale."
 msgstr "Позиции стика в пределах этого количества отсчётов АЦП от центра (127 = полное отклонение) читаются как ровно центрированные. Остальной ход перемасштабируется, чтобы отклик был плавным на краю, а полное отклонение по-прежнему читалось как полная шкала."
@@ -721,17 +517,9 @@ msgctxt "#30194"
 msgid "32 counts (~25%)"
 msgstr "32 отсчёта (~25 %)"
 
-msgctxt "#30195"
-msgid "Analog Controller Dead Zone (Y)"
-msgstr "Мёртвая зона аналогового контроллера (Y)"
-
 msgctxt "#30196"
 msgid "As Analog Controller Dead Zone (X), for the Y axis (pitch, or accelerator/brake on the driving controller)."
 msgstr "Как «Мёртвая зона аналогового контроллера (X)», для оси Y (тангаж или акселератор/тормоз на рулевом контроллере)."
-
-msgctxt "#30197"
-msgid "Analog Controller Offset (X)"
-msgstr "Смещение аналогового контроллера (X)"
 
 msgctxt "#30198"
 msgid "Subtracts a constant (in ADC counts) from every X sample, in host orientation before any device convention. Cancels a stick that rests off-centre; a centred stick is moved by it, which is the point."
@@ -753,25 +541,13 @@ msgctxt "#30202"
 msgid "+16"
 msgstr "+16"
 
-msgctxt "#30203"
-msgid "Analog Controller Offset (Y)"
-msgstr "Смещение аналогового контроллера (Y)"
-
 msgctxt "#30204"
 msgid "As Analog Controller Offset (X), for the Y axis."
 msgstr "Как «Смещение аналогового контроллера (X)», для оси Y."
 
-msgctxt "#30205"
-msgid "Analog Controller Response Curve (X)"
-msgstr "Кривая отклика аналогового контроллера (X)"
-
 msgctxt "#30206"
 msgid "Response exponent for the X axis, anchored at full deflection: an exponent above 1.00 gives finer control near centre while full deflection still reads full scale. Unlike the mouse/rotary curves this costs no top speed, so there is no paired sensitivity control."
 msgstr "Показатель отклика для оси X, привязанный к полному отклонению: показатель выше 1,00 даёт более тонкое управление около центра, при этом полное отклонение по-прежнему читается как полная шкала. В отличие от кривых мыши/спиннера это не снижает максимальную скорость, поэтому нет парного регулятора чувствительности."
-
-msgctxt "#30207"
-msgid "Analog Controller Response Curve (Y)"
-msgstr "Кривая отклика аналогового контроллера (Y)"
 
 msgctxt "#30208"
 msgid "As Analog Controller Response Curve (X), for the Y axis."
@@ -784,10 +560,6 @@ msgstr "Порт ввода 1"
 msgctxt "#30210"
 msgid "Change input mappings for port 1."
 msgstr "Изменить сопоставления ввода для порта 1."
-
-msgctxt "#30211"
-msgid "Port 1 > Controller Type"
-msgstr "Порт 1 > тип контроллера"
 
 msgctxt "#30213"
 msgid "Auto (per-title default)"
@@ -917,10 +689,6 @@ msgctxt "#30244"
 msgid "Change input mappings for port 2."
 msgstr "Изменить сопоставления ввода для порта 2."
 
-msgctxt "#30245"
-msgid "Port 2 > Controller Type"
-msgstr "Порт 2 > тип контроллера"
-
 msgctxt "#30247"
 msgid "Atari ST / PS2 Mouse"
 msgstr "Мышь Atari ST / PS2"
@@ -933,57 +701,29 @@ msgctxt "#30249"
 msgid "Amiga Mouse (Amiga adapter)"
 msgstr "Мышь Amiga (адаптер Amiga)"
 
-msgctxt "#30250"
-msgid "Port 2 > Mouse Sensitivity"
-msgstr "Порт 2 > чувствительность мыши"
-
 msgctxt "#30251"
 msgid "Scales mouse movement before it is converted to quadrature pulses. The emulated device can only emit one pulse per controller poll, so raising this past what the game's poll rate can carry adds lag rather than speed."
 msgstr "Масштабирует движение мыши до его преобразования в квадратурные импульсы. Эмулируемое устройство может выдавать только один импульс за опрос контроллера, поэтому повышение этого значения сверх того, что может пропустить частота опроса игры, добавляет задержку, а не скорость."
-
-msgctxt "#30252"
-msgid "Port 2 > Mouse Dead Zone (X)"
-msgstr "Порт 2 > мёртвая зона мыши (X)"
 
 msgctxt "#30253"
 msgid "Discards horizontal mouse movement at or below this many host units per poll. A noise gate for a jittery source (or an analog stick mapped to the mouse); a real mouse reports nothing at rest and needs none. Movement above the threshold passes at full size -- the dead zone drops samples, it does not shrink them."
 msgstr "Отбрасывает горизонтальное движение мыши на этом количестве или ниже host-единиц за опрос. Шумовой порог для дрожащего источника (или аналогового стика, сопоставленного с мышью); настоящая мышь в покое ничего не сообщает и не нуждается в нём. Движение выше порога проходит в полном размере — мёртвая зона отбрасывает сэмплы, а не уменьшает их."
 
-msgctxt "#30254"
-msgid "Port 2 > Mouse Dead Zone (Y)"
-msgstr "Порт 2 > мёртвая зона мыши (Y)"
-
 msgctxt "#30255"
 msgid "As Mouse Dead Zone (X), for vertical movement."
 msgstr "Как «Мёртвая зона мыши (X)», для вертикального движения."
-
-msgctxt "#30256"
-msgid "Port 2 > Mouse Offset (X)"
-msgstr "Порт 2 > смещение мыши (X)"
 
 msgctxt "#30257"
 msgid "Subtracts a constant from every horizontal sample. Cancels a source that reports a small non-zero movement while at rest -- typically an analog stick mapped to the mouse, which otherwise drifts forever. A real mouse reports exactly zero at rest and is unaffected."
 msgstr "Вычитает константу из каждого горизонтального сэмпла. Отменяет источник, который сообщает небольшое ненулевое движение в покое — обычно аналоговый стик, сопоставленный с мышью, который иначе дрейфует бесконечно. Настоящая мышь в покое сообщает ровно ноль и не затрагивается."
 
-msgctxt "#30258"
-msgid "Port 2 > Mouse Offset (Y)"
-msgstr "Порт 2 > смещение мыши (Y)"
-
 msgctxt "#30259"
 msgid "As Mouse Offset (X), for vertical movement."
 msgstr "Как «Смещение мыши (X)», для вертикального движения."
 
-msgctxt "#30260"
-msgid "Port 2 > Mouse Response Curve (X)"
-msgstr "Порт 2 > кривая отклика мыши (X)"
-
 msgctxt "#30261"
 msgid "Response exponent for horizontal movement, giving finer control at low speed. The curve is anchored at 64 units per poll: below that an exponent above 1.00 attenuates, at and above it movement passes through unchanged. Because ordinary movement is well below 64 units, a higher exponent makes the mouse SLOWER overall -- raise Mouse Sensitivity to get the top speed back. These are two different controls."
 msgstr "Показатель отклика для горизонтального движения, обеспечивающий более тонкое управление на низкой скорости. Кривая привязана к 64 единицам за опрос: ниже этого показатель выше 1,00 ослабляет, на этом значении и выше движение проходит без изменений. Поскольку обычное движение значительно ниже 64 единиц, более высокий показатель делает мышь в целом МЕДЛЕННЕЕ — повысьте «Чувствительность мыши», чтобы вернуть максимальную скорость. Это два разных регулятора."
-
-msgctxt "#30262"
-msgid "Port 2 > Mouse Response Curve (Y)"
-msgstr "Порт 2 > кривая отклика мыши (Y)"
 
 msgctxt "#30263"
 msgid "As Mouse Response Curve (X), for vertical movement."
@@ -1277,10 +1017,6 @@ msgctxt "#30356"
 msgid "RISC Idle-Loop Fast-Forward (GPU + DSP)"
 msgstr "Ускоренная перемотка циклов ожидания RISC (ГП + DSP)"
 
-msgctxt "#30358"
-msgid "Skip blits whose inputs are provably unchanged since an identical earlier blit (some titles re-render the same scene every engine cycle while the player is idle). Output is bit-identical by construction. Enabled per title via the enhancement database; not available for CD content. 'Verify' never skips -- it runs every would-be skip and logs any divergence, for validating new titles. Switches off DSP Idle-Loop Fast-Forward while enabled."
-msgstr "Пропускать blit-операции, входные данные которых доказуемо не изменились с момента идентичной более ранней операции (некоторые игры повторно отрисовывают одну и ту же сцену каждый цикл движка, пока игрок бездействует). Вывод по построению побитово идентичен. Включается для каждой игры через базу улучшений; недоступно для содержимого CD. «Проверка» никогда не пропускает — она выполняет каждый потенциальный пропуск и регистрирует любое расхождение, для проверки новых игр. Отключает ускоренную перемотку циклов ожидания DSP, пока включено."
-
 msgctxt "#30359"
 msgid "Frameskip"
 msgstr "Пропуск кадров"
@@ -1441,37 +1177,33 @@ msgctxt "#30401"
 msgid "68000 only"
 msgstr "Только 68000"
 
+msgctxt "#30402"
+msgid "Analog Dead Zone (X)"
+msgstr ""
+
+msgctxt "#30403"
+msgid "Analog Dead Zone (Y)"
+msgstr ""
+
+msgctxt "#30404"
+msgid "Analog Offset (X)"
+msgstr ""
+
+msgctxt "#30405"
+msgid "Analog Offset (Y)"
+msgstr ""
+
+msgctxt "#30406"
+msgid "Analog Response Curve (X)"
+msgstr ""
+
+msgctxt "#30407"
+msgid "Analog Response Curve (Y)"
+msgstr ""
+
 msgctxt "#30408"
 msgid "Controller Type"
 msgstr "Тип контроллера"
-
-msgctxt "#30434"
-msgid "Mouse Sensitivity"
-msgstr "Чувствительность мыши"
-
-msgctxt "#30435"
-msgid "Mouse Dead Zone (X)"
-msgstr "Мёртвая зона мыши (X)"
-
-msgctxt "#30436"
-msgid "Mouse Dead Zone (Y)"
-msgstr "Мёртвая зона мыши (Y)"
-
-msgctxt "#30437"
-msgid "Mouse Offset (X)"
-msgstr "Смещение мыши (X)"
-
-msgctxt "#30438"
-msgid "Mouse Offset (Y)"
-msgstr "Смещение мыши (Y)"
-
-msgctxt "#30439"
-msgid "Mouse Response Curve (X)"
-msgstr "Кривая отклика мыши (X)"
-
-msgctxt "#30440"
-msgid "Mouse Response Curve (Y)"
-msgstr "Кривая отклика мыши (Y)"
 
 msgctxt "#30409"
 msgid "Numpad Buttons to Keyboard Keys"
@@ -1573,6 +1305,238 @@ msgctxt "#30433"
 msgid "RetroPad Right Analog Right"
 msgstr "Правый аналог RetroPad Вправо"
 
+msgctxt "#30434"
+msgid "Mouse Sensitivity"
+msgstr "Чувствительность мыши"
+
+msgctxt "#30435"
+msgid "Mouse Dead Zone (X)"
+msgstr "Мёртвая зона мыши (X)"
+
+msgctxt "#30436"
+msgid "Mouse Dead Zone (Y)"
+msgstr "Мёртвая зона мыши (Y)"
+
+msgctxt "#30437"
+msgid "Mouse Offset (X)"
+msgstr "Смещение мыши (X)"
+
+msgctxt "#30438"
+msgid "Mouse Offset (Y)"
+msgstr "Смещение мыши (Y)"
+
+msgctxt "#30439"
+msgid "Mouse Response Curve (X)"
+msgstr "Кривая отклика мыши (X)"
+
+msgctxt "#30440"
+msgid "Mouse Response Curve (Y)"
+msgstr "Кривая отклика мыши (Y)"
+
+msgctxt "#30441"
+msgid "Skip blits whose inputs are provably unchanged since an identical earlier blit (some titles re-render the same scene every engine cycle while the player is idle). Output is bit-identical by construction. Enabled per title via the enhancement database; not available for CD content. 'Verify' never skips -- it runs every would-be skip and logs any divergence, for validating new titles."
+msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Port 1 > Numpad Buttons to Keyboard Keys"
+#~ msgstr "Порт 1 > Кнопки цифровой клавиатуры на клавиши клавиатуры"
+
+#~ msgctxt "#30007"
+#~ msgid "Port 1 > RetroPad Up"
+#~ msgstr "Порт 1 > RetroPad Вверх"
+
+#~ msgctxt "#30008"
+#~ msgid "Port 1 > RetroPad Down"
+#~ msgstr "Порт 1 > RetroPad Вниз"
+
+#~ msgctxt "#30009"
+#~ msgid "Port 1 > RetroPad Left"
+#~ msgstr "Порт 1 > RetroPad Влево"
+
+#~ msgctxt "#30010"
+#~ msgid "Port 1 > RetroPad Right"
+#~ msgstr "Порт 1 > RetroPad Вправо"
+
+#~ msgctxt "#30011"
+#~ msgid "Port 1 > RetroPad A"
+#~ msgstr "Порт 1 > RetroPad A"
+
+#~ msgctxt "#30012"
+#~ msgid "Port 1 > RetroPad B"
+#~ msgstr "Порт 1 > RetroPad B"
+
+#~ msgctxt "#30013"
+#~ msgid "Port 1 > RetroPad X"
+#~ msgstr "Порт 1 > RetroPad X"
+
+#~ msgctxt "#30014"
+#~ msgid "Port 1 > RetroPad Y"
+#~ msgstr "Порт 1 > RetroPad Y"
+
+#~ msgctxt "#30015"
+#~ msgid "Port 1 > RetroPad Select"
+#~ msgstr "Порт 1 > RetroPad Select"
+
+#~ msgctxt "#30016"
+#~ msgid "Port 1 > RetroPad Start"
+#~ msgstr "Порт 1 > RetroPad Start"
+
+#~ msgctxt "#30017"
+#~ msgid "Port 1 > RetroPad L1"
+#~ msgstr "Порт 1 > RetroPad L1"
+
+#~ msgctxt "#30018"
+#~ msgid "Port 1 > RetroPad R1"
+#~ msgstr "Порт 1 > RetroPad R1"
+
+#~ msgctxt "#30019"
+#~ msgid "Port 1 > RetroPad L2"
+#~ msgstr "Порт 1 > RetroPad L2"
+
+#~ msgctxt "#30020"
+#~ msgid "Port 1 > RetroPad R2"
+#~ msgstr "Порт 1 > RetroPad R2"
+
+#~ msgctxt "#30021"
+#~ msgid "Port 1 > RetroPad L3"
+#~ msgstr "Порт 1 > RetroPad L3"
+
+#~ msgctxt "#30022"
+#~ msgid "Port 1 > RetroPad R3"
+#~ msgstr "Порт 1 > RetroPad R3"
+
+#~ msgctxt "#30023"
+#~ msgid "Port 1 > RetroPad Left Analog Up"
+#~ msgstr "Порт 1 > Левый аналог RetroPad Вверх"
+
+#~ msgctxt "#30024"
+#~ msgid "Port 1 > RetroPad Left Analog Down"
+#~ msgstr "Порт 1 > Левый аналог RetroPad Вниз"
+
+#~ msgctxt "#30025"
+#~ msgid "Port 1 > RetroPad Left Analog Left"
+#~ msgstr "Порт 1 > Левый аналог RetroPad Влево"
+
+#~ msgctxt "#30026"
+#~ msgid "Port 1 > RetroPad Left Analog Right"
+#~ msgstr "Порт 1 > Левый аналог RetroPad Вправо"
+
+#~ msgctxt "#30027"
+#~ msgid "Port 1 > RetroPad Right Analog Up"
+#~ msgstr "Порт 1 > Правый аналог RetroPad Вверх"
+
+#~ msgctxt "#30028"
+#~ msgid "Port 1 > RetroPad Right Analog Down"
+#~ msgstr "Порт 1 > Правый аналог RetroPad Вниз"
+
+#~ msgctxt "#30029"
+#~ msgid "Port 1 > RetroPad Right Analog Left"
+#~ msgstr "Порт 1 > Правый аналог RetroPad Влево"
+
+#~ msgctxt "#30030"
+#~ msgid "Port 1 > RetroPad Right Analog Right"
+#~ msgstr "Порт 1 > Правый аналог RetroPad Вправо"
+
+#~ msgctxt "#30031"
+#~ msgid "Port 2 > Numpad Buttons to Keyboard Keys"
+#~ msgstr "Порт 2 > Кнопки цифровой клавиатуры на клавиши клавиатуры"
+
+#~ msgctxt "#30032"
+#~ msgid "Port 2 > RetroPad Up"
+#~ msgstr "Порт 2 > RetroPad Вверх"
+
+#~ msgctxt "#30033"
+#~ msgid "Port 2 > RetroPad Down"
+#~ msgstr "Порт 2 > RetroPad Вниз"
+
+#~ msgctxt "#30034"
+#~ msgid "Port 2 > RetroPad Left"
+#~ msgstr "Порт 2 > RetroPad Влево"
+
+#~ msgctxt "#30035"
+#~ msgid "Port 2 > RetroPad Right"
+#~ msgstr "Порт 2 > RetroPad Вправо"
+
+#~ msgctxt "#30036"
+#~ msgid "Port 2 > RetroPad A"
+#~ msgstr "Порт 2 > RetroPad A"
+
+#~ msgctxt "#30037"
+#~ msgid "Port 2 > RetroPad B"
+#~ msgstr "Порт 2 > RetroPad B"
+
+#~ msgctxt "#30038"
+#~ msgid "Port 2 > RetroPad X"
+#~ msgstr "Порт 2 > RetroPad X"
+
+#~ msgctxt "#30039"
+#~ msgid "Port 2 > RetroPad Y"
+#~ msgstr "Порт 2 > RetroPad Y"
+
+#~ msgctxt "#30040"
+#~ msgid "Port 2 > RetroPad Select"
+#~ msgstr "Порт 2 > RetroPad Select"
+
+#~ msgctxt "#30041"
+#~ msgid "Port 2 > RetroPad Start"
+#~ msgstr "Порт 2 > RetroPad Start"
+
+#~ msgctxt "#30042"
+#~ msgid "Port 2 > RetroPad L1"
+#~ msgstr "Порт 2 > RetroPad L1"
+
+#~ msgctxt "#30043"
+#~ msgid "Port 2 > RetroPad R1"
+#~ msgstr "Порт 2 > RetroPad R1"
+
+#~ msgctxt "#30044"
+#~ msgid "Port 2 > RetroPad L2"
+#~ msgstr "Порт 2 > RetroPad L2"
+
+#~ msgctxt "#30045"
+#~ msgid "Port 2 > RetroPad R2"
+#~ msgstr "Порт 2 > RetroPad R2"
+
+#~ msgctxt "#30046"
+#~ msgid "Port 2 > RetroPad L3"
+#~ msgstr "Порт 2 > RetroPad L3"
+
+#~ msgctxt "#30047"
+#~ msgid "Port 2 > RetroPad R3"
+#~ msgstr "Порт 2 > RetroPad R3"
+
+#~ msgctxt "#30048"
+#~ msgid "Port 2 > RetroPad Left Analog Up"
+#~ msgstr "Порт 2 > Левый аналог RetroPad Вверх"
+
+#~ msgctxt "#30049"
+#~ msgid "Port 2 > RetroPad Left Analog Down"
+#~ msgstr "Порт 2 > Левый аналог RetroPad Вниз"
+
+#~ msgctxt "#30050"
+#~ msgid "Port 2 > RetroPad Left Analog Left"
+#~ msgstr "Порт 2 > Левый аналог RetroPad Влево"
+
+#~ msgctxt "#30051"
+#~ msgid "Port 2 > RetroPad Left Analog Right"
+#~ msgstr "Порт 2 > Левый аналог RetroPad Вправо"
+
+#~ msgctxt "#30052"
+#~ msgid "Port 2 > RetroPad Right Analog Up"
+#~ msgstr "Порт 2 > Правый аналог RetroPad Вверх"
+
+#~ msgctxt "#30053"
+#~ msgid "Port 2 > RetroPad Right Analog Down"
+#~ msgstr "Порт 2 > Правый аналог RetroPad Вниз"
+
+#~ msgctxt "#30054"
+#~ msgid "Port 2 > RetroPad Right Analog Left"
+#~ msgstr "Порт 2 > Правый аналог RetroPad Влево"
+
+#~ msgctxt "#30055"
+#~ msgid "Port 2 > RetroPad Right Analog Right"
+#~ msgstr "Порт 2 > Правый аналог RetroPad Вправо"
+
 #~ msgctxt "#30061"
 #~ msgid "Network Link (JagLink / CatBox)"
 #~ msgstr "Сетевое соединение (JagLink / CatBox)"
@@ -1645,13 +1609,73 @@ msgstr "Правый аналог RetroPad Вправо"
 #~ msgid "What is plugged into the serial port. 'JagLink / CatBox' is the raw cable used by BattleSphere, AirCars and Doom. 'Voice Modem' emulates the Jaguar Voice Modem for Ultra Vortek's phone-line versus mode: type 911 on the numpad at the title screen, then one player dials (any number) and the other answers -- the 'call' is carried over the Network Link transport selected above."
 #~ msgstr "Что подключено к последовательному порту. «JagLink / CatBox» — это голый кабель, используемый BattleSphere, AirCars и Doom. «Голосовой модем» эмулирует Jaguar Voice Modem для режима игры по телефонной линии в Ultra Vortek: наберите 911 на цифровой клавиатуре на экране заголовка, затем один игрок звонит (на любой номер), а другой отвечает — «вызов» передаётся через транспорт сетевого соединения, выбранный выше."
 
+#~ msgctxt "#30187"
+#~ msgid "Analog Controller Dead Zone (X)"
+#~ msgstr "Мёртвая зона аналогового контроллера (X)"
+
+#~ msgctxt "#30195"
+#~ msgid "Analog Controller Dead Zone (Y)"
+#~ msgstr "Мёртвая зона аналогового контроллера (Y)"
+
+#~ msgctxt "#30197"
+#~ msgid "Analog Controller Offset (X)"
+#~ msgstr "Смещение аналогового контроллера (X)"
+
+#~ msgctxt "#30203"
+#~ msgid "Analog Controller Offset (Y)"
+#~ msgstr "Смещение аналогового контроллера (Y)"
+
+#~ msgctxt "#30205"
+#~ msgid "Analog Controller Response Curve (X)"
+#~ msgstr "Кривая отклика аналогового контроллера (X)"
+
+#~ msgctxt "#30207"
+#~ msgid "Analog Controller Response Curve (Y)"
+#~ msgstr "Кривая отклика аналогового контроллера (Y)"
+
+#~ msgctxt "#30211"
+#~ msgid "Port 1 > Controller Type"
+#~ msgstr "Порт 1 > тип контроллера"
+
 #~ msgctxt "#30212"
 #~ msgid "Which peripheral is plugged into controller port 1. 'Rotary (Tempest)' is the Tempest spinner: it removes Up and Down and reports wheel rotation on Left/Right instead, and is driven by relative mouse X. Its buttons (A, B, C, Option, Pause and the keypad) stay on the RetroPad, which is what a real rotary has. 'Light Gun' is the port-1 light gun: the Jaguar wires its LP pin to port 1 only, so it is not offered on port 2. Aim with whatever your frontend maps to the light gun (mouse or Wiimote); the trigger reports as the Jaguar's B button, which is what Balloons reads, and Aux A / Aux B / Start / Select reach A / C / Option / Pause. Aiming off-screen stops the aim updating, exactly as a real gun stops seeing the beam. 'Analog Joystick' and 'Driving Controller' are Atari's bank-switching analog device (one protocol, two skins) -- NO RELEASED TITLE reads it, so these exist for homebrew. Driven by the left analog stick (the driving skin also takes the L2/R2 triggers as brake/accelerator); the port stays a RetroPad until the stick actually moves, so a game that probes controller types at boot only sees the analog device if the stick is deflected first. There is no per-title default for any of these and there never will be -- selecting a rotary removes Up and Down and a gun repurposes B, so either would break the controls of anyone using a pad. Tempest 2000 hides its rotary support behind an unlock -- from SELECT GAME TYPE TO PLAY press Option on controller 1, then press Pause on BOTH controllers at once to reveal CONTROLLER TYPE. The unlock is saved to the game's EEPROM, so it is only needed once."
 #~ msgstr "Какое периферийное устройство подключено к порту 1 контроллера. «Спиннер (Tempest)» — спиннер Tempest: он убирает «Вверх» и «Вниз» и вместо этого сообщает вращение колеса на «Влево»/«Вправо», управляется относительным X мыши. Его кнопки (A, B, C, Option, Pause и цифровая клавиатура) остаются на RetroPad, как и у настоящего спиннера. «Световой пистолет» — световой пистолет порта 1: Jaguar подключает свой вывод LP только к порту 1, поэтому он не предлагается на порту 2. Прицеливайтесь тем, что ваш фронтенд сопоставляет со световым пистолетом (мышь или Wiimote); спуск сообщается как кнопка B Jaguar, которую читает Balloons, а Aux A / Aux B / Start / Select достигают A / C / Option / Pause. Прицеливание за пределами экрана останавливает обновление прицела, точно как настоящий пистолет перестаёт видеть луч. «Аналоговый джойстик» и «Рулевой контроллер» — аналоговое устройство Atari с переключением банков (один протокол, две оболочки) — НИ ОДНА ВЫПУЩЕННАЯ ИГРА его не читает, поэтому они существуют для homebrew. Управляется левым аналоговым стиком (рулевая оболочка также принимает триггеры L2/R2 как тормоз/акселератор); порт остаётся RetroPad, пока стик фактически не двинется, поэтому игра, которая опрашивает типы контроллеров при загрузке, увидит аналоговое устройство только если стик отклонён первым. Для любого из них нет и никогда не будет значения по умолчанию для конкретной игры — выбор спиннера убирает «Вверх» и «Вниз», а пистолет переназначает B, так что любой из них сломал бы управление у всех, кто использует геймпад. Tempest 2000 скрывает поддержку спиннера за разблокировкой — на экране SELECT GAME TYPE TO PLAY нажмите Option на контроллере 1, затем нажмите Pause на ОБОИХ контроллерах одновременно, чтобы открыть CONTROLLER TYPE. Разблокировка сохраняется в EEPROM игры, поэтому нужна только один раз."
 
+#~ msgctxt "#30245"
+#~ msgid "Port 2 > Controller Type"
+#~ msgstr "Порт 2 > тип контроллера"
+
 #~ msgctxt "#30246"
 #~ msgid "Which peripheral is plugged into controller port 2. 'Atari ST / PS2 Mouse' is the wiring used by the AtariAge and Brewing Academy ST adapters and by PS/2 mouse adapters. 'Amiga Mouse (ST adapter)' is an Amiga mouse plugged into an ST-wired adapter -- this is what an in-game 'Atari / Amiga' selector normally chooses between. 'Amiga Mouse (Amiga adapter)' is the rarer dedicated adapter. A mouse asserts its state in every row scan, exactly as the real row-blind adapter does, so the port-2 RetroPad is disconnected while one is selected. 'Rotary (Tempest)' is the Tempest spinner: it removes Up and Down and reports wheel rotation on Left/Right instead, and is driven by relative mouse X. Its buttons stay on the RetroPad. Tempest 2000 hides its rotary support behind an unlock -- from SELECT GAME TYPE TO PLAY press Option on controller 1, then press Pause on BOTH controllers at once to reveal CONTROLLER TYPE. The unlock is saved to the game's EEPROM, so it is only needed once. 'Analog Joystick' and 'Driving Controller' are Atari's bank-switching analog device (one protocol, two skins) -- NO RELEASED TITLE reads it, so these exist for homebrew. Driven by the left analog stick (the driving skin also takes the L2/R2 triggers as brake/accelerator); the port stays a RetroPad until the stick actually moves, so a game that probes controller types at boot only sees the analog device if the stick is deflected first."
 #~ msgstr "Какое периферийное устройство подключено к порту 2 контроллера. «Мышь Atari ST / PS2» — это проводка, используемая адаптерами ST от AtariAge и Brewing Academy и адаптерами мыши PS/2. «Мышь Amiga (адаптер ST)» — это мышь Amiga, подключённая к адаптеру с проводкой ST — именно между этим обычно выбирает внутриигровой переключатель «Atari / Amiga». «Мышь Amiga (адаптер Amiga)» — более редкий специализированный адаптер. Мышь утверждает своё состояние в каждом сканировании строки, точно как настоящий нечувствительный к строкам адаптер, поэтому RetroPad порта 2 отключается, пока выбрана одна из них. «Спиннер (Tempest)» — спиннер Tempest: он убирает «Вверх» и «Вниз» и вместо этого сообщает вращение колеса на «Влево»/«Вправо», управляется относительным X мыши. Его кнопки остаются на RetroPad. Tempest 2000 скрывает поддержку спиннера за разблокировкой — на экране SELECT GAME TYPE TO PLAY нажмите Option на контроллере 1, затем нажмите Pause на ОБОИХ контроллерах одновременно, чтобы открыть CONTROLLER TYPE. Разблокировка сохраняется в EEPROM игры, поэтому нужна только один раз. «Аналоговый джойстик» и «Рулевой контроллер» — аналоговое устройство Atari с переключением банков (один протокол, две оболочки) — НИ ОДНА ВЫПУЩЕННАЯ ИГРА его не читает, поэтому они существуют для homebrew. Управляется левым аналоговым стиком (рулевая оболочка также принимает триггеры L2/R2 как тормоз/акселератор); порт остаётся RetroPad, пока стик фактически не двинется, поэтому игра, которая опрашивает типы контроллеров при загрузке, увидит аналоговое устройство только если стик отклонён первым."
+
+#~ msgctxt "#30250"
+#~ msgid "Port 2 > Mouse Sensitivity"
+#~ msgstr "Порт 2 > чувствительность мыши"
+
+#~ msgctxt "#30252"
+#~ msgid "Port 2 > Mouse Dead Zone (X)"
+#~ msgstr "Порт 2 > мёртвая зона мыши (X)"
+
+#~ msgctxt "#30254"
+#~ msgid "Port 2 > Mouse Dead Zone (Y)"
+#~ msgstr "Порт 2 > мёртвая зона мыши (Y)"
+
+#~ msgctxt "#30256"
+#~ msgid "Port 2 > Mouse Offset (X)"
+#~ msgstr "Порт 2 > смещение мыши (X)"
+
+#~ msgctxt "#30258"
+#~ msgid "Port 2 > Mouse Offset (Y)"
+#~ msgstr "Порт 2 > смещение мыши (Y)"
+
+#~ msgctxt "#30260"
+#~ msgid "Port 2 > Mouse Response Curve (X)"
+#~ msgstr "Порт 2 > кривая отклика мыши (X)"
+
+#~ msgctxt "#30262"
+#~ msgid "Port 2 > Mouse Response Curve (Y)"
+#~ msgstr "Порт 2 > кривая отклика мыши (Y)"
 
 #~ msgctxt "#30268"
 #~ msgid "Records DSA command/response traffic and seek/FIFO transitions to a bounded ring buffer, dumped to the RetroArch log when the cd_seek_wedge watchdog fires (or on request by test harnesses). Diagnostic only -- intended for troubleshooting Jaguar CD boot/data-transfer bugs, not for normal play. Can also be forced on headlessly via the VJ_CD_TRACE=1 environment variable."
@@ -1740,6 +1764,10 @@ msgstr "Правый аналог RetroPad Вправо"
 #~ msgctxt "#30357"
 #~ msgid "Fast-forward the GPU and DSP through provably redundant iterations of a wait loop -- the largest single speed-up the core offers (66-87% less DSP interpretation and 60%+ less GPU interpretation on the titles measured). Bit-exact by construction: registers, flags, cycles and instruction count land exactly where interpreting would have left them, so save states, run-ahead and netplay are unaffected. On by default: the corpus sweep behind #708 ran 148 cart images plus 6 CD spot-checks off-vs-on and every single one was byte-identical (framebuffer, audio and savestate hash streams). If a title looks or sounds wrong with it on, turn it off and please report it. IMPORTANT: a non-stock RISC Clock Scale, DRAM Timing, GPU Pipeline Timing or Blit Memoization switches this off entirely, so turning one of those on costs you this speed-up on top of its own cost. The M68K clock scale and Blitter Bus Timing do not affect it."
 #~ msgstr "Ускоренно перематывать ГП и DSP через доказуемо избыточные итерации цикла ожидания — наибольшее единичное ускорение, предлагаемое ядром (на 66–87 % меньше интерпретации DSP и на 60 %+ меньше интерпретации ГП на измеренных играх). По построению побитово точно: регистры, флаги, циклы и количество инструкций оказываются ровно там, где их оставила бы интерпретация, поэтому сохранения, опережение и сетевая игра не затрагиваются. Включено по умолчанию: прогон по корпусу в #708 обработал 148 образов картриджей плюс 6 проверок CD выключено-против-включено, и каждый до единого был побайтово идентичен (потоки хешей кадрового буфера, аудио и сохранений). Если игра выглядит или звучит неправильно с включённым параметром, отключите его и, пожалуйста, сообщите об этом. ВАЖНО: нештатный масштаб тактовой частоты RISC, тайминги DRAM, тайминг конвейера ГП или мемоизация Blit полностью отключают это, поэтому включение одного из них стоит вам этого ускорения сверх его собственной стоимости. Масштаб тактовой частоты M68K и тайминг шины Blitter на это не влияют."
+
+#~ msgctxt "#30358"
+#~ msgid "Skip blits whose inputs are provably unchanged since an identical earlier blit (some titles re-render the same scene every engine cycle while the player is idle). Output is bit-identical by construction. Enabled per title via the enhancement database; not available for CD content. 'Verify' never skips -- it runs every would-be skip and logs any divergence, for validating new titles. Switches off DSP Idle-Loop Fast-Forward while enabled."
+#~ msgstr "Пропускать blit-операции, входные данные которых доказуемо не изменились с момента идентичной более ранней операции (некоторые игры повторно отрисовывают одну и ту же сцену каждый цикл движка, пока игрок бездействует). Вывод по построению побитово идентичен. Включается для каждой игры через базу улучшений; недоступно для содержимого CD. «Проверка» никогда не пропускает — она выполняет каждый потенциальный пропуск и регистрирует любое расхождение, для проверки новых игр. Отключает ускоренную перемотку циклов ожидания DSP, пока включено."
 
 #~ msgctxt "#30371"
 #~ msgid "Run the 68000 at a multiple of its stock ~13.3 MHz. An enhancement, not an accuracy fix, and it helps less often than you would think: AvP and Checkered Flag were both measured and neither gained anything (AvP is locked to one frame per 5 fields; Checkered Flag caps itself in software), because most Jaguar games are paced by a field lock or their own frame cap rather than by CPU speed. It may also break titles that depend on stock CPU timing. Timers and bus costs stay at stock speed. Overclocking the 68000 is the safer of the two scales: it does NOT cost you DSP Idle-Loop Fast-Forward. If an overclocked game misbehaves, try the Hardware Timing options in their own category. Report bugs only at 1x."
