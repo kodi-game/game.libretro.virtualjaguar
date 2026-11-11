@@ -1535,6 +1535,106 @@ msgctxt "#30401"
 msgid "68000 only"
 msgstr ""
 
+msgctxt "#30409"
+msgid "Numpad Buttons to Keyboard Keys"
+msgstr "Botones Pad Numérico a Teclas de Teclado"
+
+msgctxt "#30410"
+msgid "RetroPad Up"
+msgstr "RetroPad Arriba"
+
+msgctxt "#30411"
+msgid "RetroPad Down"
+msgstr "RetroPad Abajo"
+
+msgctxt "#30412"
+msgid "RetroPad Left"
+msgstr "RetroPad Izquierda"
+
+msgctxt "#30413"
+msgid "RetroPad Right"
+msgstr "RetroPad Derecha"
+
+msgctxt "#30414"
+msgid "RetroPad A"
+msgstr "RetroPad A"
+
+msgctxt "#30415"
+msgid "RetroPad B"
+msgstr "RetroPad B"
+
+msgctxt "#30416"
+msgid "RetroPad X"
+msgstr "RetroPad X"
+
+msgctxt "#30417"
+msgid "RetroPad Y"
+msgstr "RetroPad Y"
+
+msgctxt "#30418"
+msgid "RetroPad Select"
+msgstr "RetroPad Select"
+
+msgctxt "#30419"
+msgid "RetroPad Start"
+msgstr "RetroPad Start"
+
+msgctxt "#30420"
+msgid "RetroPad L1"
+msgstr "RetroPad L1"
+
+msgctxt "#30421"
+msgid "RetroPad R1"
+msgstr "RetroPad R1"
+
+msgctxt "#30422"
+msgid "RetroPad L2"
+msgstr "RetroPad L2"
+
+msgctxt "#30423"
+msgid "RetroPad R2"
+msgstr "RetroPad R2"
+
+msgctxt "#30424"
+msgid "RetroPad L3"
+msgstr "RetroPad L3"
+
+msgctxt "#30425"
+msgid "RetroPad R3"
+msgstr "RetroPad R3"
+
+msgctxt "#30426"
+msgid "RetroPad Left Analog Up"
+msgstr "RetroPad Analógico Izquierdo Arriba"
+
+msgctxt "#30427"
+msgid "RetroPad Left Analog Down"
+msgstr "RetroPad Analógico Izquierdo Abajo"
+
+msgctxt "#30428"
+msgid "RetroPad Left Analog Left"
+msgstr "RetroPad Analógico Izquierdo Izquierda"
+
+msgctxt "#30429"
+msgid "RetroPad Left Analog Right"
+msgstr "RetroPad Analógico Izquierdo Derecha"
+
+msgctxt "#30430"
+msgid "RetroPad Right Analog Up"
+msgstr "RetroPad Analógico Derecho Arriba"
+
+msgctxt "#30431"
+msgid "RetroPad Right Analog Down"
+msgstr "RetroPad Analógico Derecho Abajo"
+
+msgctxt "#30432"
+msgid "RetroPad Right Analog Left"
+msgstr "RetroPad Analógico Derecho Izquierda"
+
+msgctxt "#30433"
+msgid "RetroPad Right Analog Right"
+msgstr "RetroPad Analógico Derecho Derecha"
+
 #~ msgctxt "#30061"
 #~ msgid "Network Link (JagLink / CatBox)"
 #~ msgstr "Enlace de Red (JagLink / Catbox)"

@@ -1539,6 +1539,106 @@ msgctxt "#30401"
 msgid "68000 only"
 msgstr ""
 
+msgctxt "#30409"
+msgid "Numpad Buttons to Keyboard Keys"
+msgstr "小键盘按钮映射到键盘按键"
+
+msgctxt "#30410"
+msgid "RetroPad Up"
+msgstr "复古手柄 上"
+
+msgctxt "#30411"
+msgid "RetroPad Down"
+msgstr "复古手柄 下"
+
+msgctxt "#30412"
+msgid "RetroPad Left"
+msgstr "复古手柄 左"
+
+msgctxt "#30413"
+msgid "RetroPad Right"
+msgstr "复古手柄 右"
+
+msgctxt "#30414"
+msgid "RetroPad A"
+msgstr "复古手柄 A"
+
+msgctxt "#30415"
+msgid "RetroPad B"
+msgstr "复古手柄 B"
+
+msgctxt "#30416"
+msgid "RetroPad X"
+msgstr "复古手柄 X"
+
+msgctxt "#30417"
+msgid "RetroPad Y"
+msgstr "复古手柄 Y"
+
+msgctxt "#30418"
+msgid "RetroPad Select"
+msgstr "复古手柄 选择"
+
+msgctxt "#30419"
+msgid "RetroPad Start"
+msgstr "复古手柄 开始"
+
+msgctxt "#30420"
+msgid "RetroPad L1"
+msgstr "复古手柄 L1"
+
+msgctxt "#30421"
+msgid "RetroPad R1"
+msgstr "复古手柄 R1"
+
+msgctxt "#30422"
+msgid "RetroPad L2"
+msgstr "复古手柄 L2"
+
+msgctxt "#30423"
+msgid "RetroPad R2"
+msgstr "复古手柄 R2"
+
+msgctxt "#30424"
+msgid "RetroPad L3"
+msgstr "复古手柄 L3"
+
+msgctxt "#30425"
+msgid "RetroPad R3"
+msgstr "复古手柄 R3"
+
+msgctxt "#30426"
+msgid "RetroPad Left Analog Up"
+msgstr "复古手柄 左摇杆 上"
+
+msgctxt "#30427"
+msgid "RetroPad Left Analog Down"
+msgstr "复古手柄 左摇杆 下"
+
+msgctxt "#30428"
+msgid "RetroPad Left Analog Left"
+msgstr "复古手柄 左摇杆 左"
+
+msgctxt "#30429"
+msgid "RetroPad Left Analog Right"
+msgstr "复古手柄 左摇杆 右"
+
+msgctxt "#30430"
+msgid "RetroPad Right Analog Up"
+msgstr "复古手柄 右摇杆 上"
+
+msgctxt "#30431"
+msgid "RetroPad Right Analog Down"
+msgstr "复古手柄 右摇杆 下"
+
+msgctxt "#30432"
+msgid "RetroPad Right Analog Left"
+msgstr "复古手柄 右摇杆 左"
+
+msgctxt "#30433"
+msgid "RetroPad Right Analog Right"
+msgstr "复古手柄 右摇杆 右"
+
 #~ msgctxt "#30001"
 #~ msgid "Fast Blitter"
 #~ msgstr "快速位块传输器"

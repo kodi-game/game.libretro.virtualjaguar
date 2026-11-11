@@ -437,7 +437,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_analog_deadzone_x" type="string" label="30187" help="30188">
+				<setting id="virtualjaguar_analog_deadzone_x" type="string" label="30402" help="30188">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -453,7 +453,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_analog_deadzone_y" type="string" label="30195" help="30196">
+				<setting id="virtualjaguar_analog_deadzone_y" type="string" label="30403" help="30196">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -469,7 +469,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_analog_offset_x" type="string" label="30197" help="30198">
+				<setting id="virtualjaguar_analog_offset_x" type="string" label="30404" help="30198">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -487,7 +487,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_analog_offset_y" type="string" label="30203" help="30204">
+				<setting id="virtualjaguar_analog_offset_y" type="string" label="30405" help="30204">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -505,7 +505,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_analog_exponent_x" type="string" label="30205" help="30206">
+				<setting id="virtualjaguar_analog_exponent_x" type="string" label="30406" help="30206">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -521,7 +521,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_analog_exponent_y" type="string" label="30207" help="30208">
+				<setting id="virtualjaguar_analog_exponent_y" type="string" label="30407" help="30208">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -541,7 +541,7 @@
 		</category>
 		<category id="input_p1" label="30209" help="30210">
 			<group id="1">
-				<setting id="virtualjaguar_p1_device" type="string" label="30211" help="30331">
+				<setting id="virtualjaguar_p1_device" type="string" label="30408" help="30331">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -560,7 +560,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_numpad_to_kb" type="string" label="30006" help="30219">
+				<setting id="virtualjaguar_p1_numpad_to_kb" type="string" label="30409" help="30219">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -572,7 +572,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_up" type="string" label="30007">
+				<setting id="virtualjaguar_p1_retropad_up" type="string" label="30410">
 					<level>0</level>
 					<default>up</default>
 					<constraints>
@@ -603,7 +603,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_down" type="string" label="30008">
+				<setting id="virtualjaguar_p1_retropad_down" type="string" label="30411">
 					<level>0</level>
 					<default>down</default>
 					<constraints>
@@ -634,7 +634,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_left" type="string" label="30009">
+				<setting id="virtualjaguar_p1_retropad_left" type="string" label="30412">
 					<level>0</level>
 					<default>left</default>
 					<constraints>
@@ -665,7 +665,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_right" type="string" label="30010">
+				<setting id="virtualjaguar_p1_retropad_right" type="string" label="30413">
 					<level>0</level>
 					<default>right</default>
 					<constraints>
@@ -696,7 +696,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_a" type="string" label="30011">
+				<setting id="virtualjaguar_p1_retropad_a" type="string" label="30414">
 					<level>0</level>
 					<default>btn_a</default>
 					<constraints>
@@ -727,7 +727,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_b" type="string" label="30012">
+				<setting id="virtualjaguar_p1_retropad_b" type="string" label="30415">
 					<level>0</level>
 					<default>btn_b</default>
 					<constraints>
@@ -758,7 +758,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_x" type="string" label="30013">
+				<setting id="virtualjaguar_p1_retropad_x" type="string" label="30416">
 					<level>0</level>
 					<default>num_0</default>
 					<constraints>
@@ -789,7 +789,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_y" type="string" label="30014">
+				<setting id="virtualjaguar_p1_retropad_y" type="string" label="30417">
 					<level>0</level>
 					<default>btn_c</default>
 					<constraints>
@@ -820,7 +820,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_select" type="string" label="30015">
+				<setting id="virtualjaguar_p1_retropad_select" type="string" label="30418">
 					<level>0</level>
 					<default>pause</default>
 					<constraints>
@@ -851,7 +851,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_start" type="string" label="30016">
+				<setting id="virtualjaguar_p1_retropad_start" type="string" label="30419">
 					<level>0</level>
 					<default>option</default>
 					<constraints>
@@ -882,7 +882,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_l1" type="string" label="30017">
+				<setting id="virtualjaguar_p1_retropad_l1" type="string" label="30420">
 					<level>0</level>
 					<default>num_1</default>
 					<constraints>
@@ -913,7 +913,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_r1" type="string" label="30018">
+				<setting id="virtualjaguar_p1_retropad_r1" type="string" label="30421">
 					<level>0</level>
 					<default>num_2</default>
 					<constraints>
@@ -944,7 +944,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_l2" type="string" label="30019">
+				<setting id="virtualjaguar_p1_retropad_l2" type="string" label="30422">
 					<level>0</level>
 					<default>num_3</default>
 					<constraints>
@@ -975,7 +975,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_r2" type="string" label="30020">
+				<setting id="virtualjaguar_p1_retropad_r2" type="string" label="30423">
 					<level>0</level>
 					<default>num_4</default>
 					<constraints>
@@ -1006,7 +1006,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_l3" type="string" label="30021">
+				<setting id="virtualjaguar_p1_retropad_l3" type="string" label="30424">
 					<level>0</level>
 					<default>num_5</default>
 					<constraints>
@@ -1037,7 +1037,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_r3" type="string" label="30022">
+				<setting id="virtualjaguar_p1_retropad_r3" type="string" label="30425">
 					<level>0</level>
 					<default>num_6</default>
 					<constraints>
@@ -1068,7 +1068,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_lu" type="string" label="30023">
+				<setting id="virtualjaguar_p1_retropad_analog_lu" type="string" label="30426">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1099,7 +1099,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_ld" type="string" label="30024">
+				<setting id="virtualjaguar_p1_retropad_analog_ld" type="string" label="30427">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1130,7 +1130,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_ll" type="string" label="30025">
+				<setting id="virtualjaguar_p1_retropad_analog_ll" type="string" label="30428">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1161,7 +1161,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_lr" type="string" label="30026">
+				<setting id="virtualjaguar_p1_retropad_analog_lr" type="string" label="30429">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1192,7 +1192,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_ru" type="string" label="30027">
+				<setting id="virtualjaguar_p1_retropad_analog_ru" type="string" label="30430">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1223,7 +1223,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_rd" type="string" label="30028">
+				<setting id="virtualjaguar_p1_retropad_analog_rd" type="string" label="30431">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1254,7 +1254,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_rl" type="string" label="30029">
+				<setting id="virtualjaguar_p1_retropad_analog_rl" type="string" label="30432">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1285,7 +1285,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p1_retropad_analog_rr" type="string" label="30030">
+				<setting id="virtualjaguar_p1_retropad_analog_rr" type="string" label="30433">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1320,7 +1320,7 @@
 		</category>
 		<category id="input_p2" label="30243" help="30244">
 			<group id="1">
-				<setting id="virtualjaguar_p2_device" type="string" label="30245" help="30336">
+				<setting id="virtualjaguar_p2_device" type="string" label="30408" help="30336">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -1341,7 +1341,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_mouse_sensitivity" type="string" label="30250" help="30251">
+				<setting id="virtualjaguar_mouse_sensitivity" type="string" label="30434" help="30251">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -1358,7 +1358,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_mouse_deadzone_x" type="string" label="30252" help="30253">
+				<setting id="virtualjaguar_mouse_deadzone_x" type="string" label="30435" help="30253">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -1374,7 +1374,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_mouse_deadzone_y" type="string" label="30254" help="30255">
+				<setting id="virtualjaguar_mouse_deadzone_y" type="string" label="30436" help="30255">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -1390,7 +1390,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_mouse_offset_x" type="string" label="30256" help="30257">
+				<setting id="virtualjaguar_mouse_offset_x" type="string" label="30437" help="30257">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -1408,7 +1408,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_mouse_offset_y" type="string" label="30258" help="30259">
+				<setting id="virtualjaguar_mouse_offset_y" type="string" label="30438" help="30259">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -1426,7 +1426,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_mouse_exponent_x" type="string" label="30260" help="30261">
+				<setting id="virtualjaguar_mouse_exponent_x" type="string" label="30439" help="30261">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -1442,7 +1442,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_mouse_exponent_y" type="string" label="30262" help="30263">
+				<setting id="virtualjaguar_mouse_exponent_y" type="string" label="30440" help="30263">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -1458,7 +1458,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_numpad_to_kb" type="string" label="30031" help="30219">
+				<setting id="virtualjaguar_p2_numpad_to_kb" type="string" label="30409" help="30219">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1470,7 +1470,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_up" type="string" label="30032">
+				<setting id="virtualjaguar_p2_retropad_up" type="string" label="30410">
 					<level>0</level>
 					<default>up</default>
 					<constraints>
@@ -1501,7 +1501,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_down" type="string" label="30033">
+				<setting id="virtualjaguar_p2_retropad_down" type="string" label="30411">
 					<level>0</level>
 					<default>down</default>
 					<constraints>
@@ -1532,7 +1532,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_left" type="string" label="30034">
+				<setting id="virtualjaguar_p2_retropad_left" type="string" label="30412">
 					<level>0</level>
 					<default>left</default>
 					<constraints>
@@ -1563,7 +1563,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_right" type="string" label="30035">
+				<setting id="virtualjaguar_p2_retropad_right" type="string" label="30413">
 					<level>0</level>
 					<default>right</default>
 					<constraints>
@@ -1594,7 +1594,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_a" type="string" label="30036">
+				<setting id="virtualjaguar_p2_retropad_a" type="string" label="30414">
 					<level>0</level>
 					<default>btn_a</default>
 					<constraints>
@@ -1625,7 +1625,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_b" type="string" label="30037">
+				<setting id="virtualjaguar_p2_retropad_b" type="string" label="30415">
 					<level>0</level>
 					<default>btn_b</default>
 					<constraints>
@@ -1656,7 +1656,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_x" type="string" label="30038">
+				<setting id="virtualjaguar_p2_retropad_x" type="string" label="30416">
 					<level>0</level>
 					<default>num_0</default>
 					<constraints>
@@ -1687,7 +1687,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_y" type="string" label="30039">
+				<setting id="virtualjaguar_p2_retropad_y" type="string" label="30417">
 					<level>0</level>
 					<default>btn_c</default>
 					<constraints>
@@ -1718,7 +1718,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_select" type="string" label="30040">
+				<setting id="virtualjaguar_p2_retropad_select" type="string" label="30418">
 					<level>0</level>
 					<default>pause</default>
 					<constraints>
@@ -1749,7 +1749,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_start" type="string" label="30041">
+				<setting id="virtualjaguar_p2_retropad_start" type="string" label="30419">
 					<level>0</level>
 					<default>option</default>
 					<constraints>
@@ -1780,7 +1780,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_l1" type="string" label="30042">
+				<setting id="virtualjaguar_p2_retropad_l1" type="string" label="30420">
 					<level>0</level>
 					<default>num_1</default>
 					<constraints>
@@ -1811,7 +1811,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_r1" type="string" label="30043">
+				<setting id="virtualjaguar_p2_retropad_r1" type="string" label="30421">
 					<level>0</level>
 					<default>num_2</default>
 					<constraints>
@@ -1842,7 +1842,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_l2" type="string" label="30044">
+				<setting id="virtualjaguar_p2_retropad_l2" type="string" label="30422">
 					<level>0</level>
 					<default>num_3</default>
 					<constraints>
@@ -1873,7 +1873,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_r2" type="string" label="30045">
+				<setting id="virtualjaguar_p2_retropad_r2" type="string" label="30423">
 					<level>0</level>
 					<default>num_4</default>
 					<constraints>
@@ -1904,7 +1904,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_l3" type="string" label="30046">
+				<setting id="virtualjaguar_p2_retropad_l3" type="string" label="30424">
 					<level>0</level>
 					<default>num_5</default>
 					<constraints>
@@ -1935,7 +1935,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_r3" type="string" label="30047">
+				<setting id="virtualjaguar_p2_retropad_r3" type="string" label="30425">
 					<level>0</level>
 					<default>num_6</default>
 					<constraints>
@@ -1966,7 +1966,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_lu" type="string" label="30048">
+				<setting id="virtualjaguar_p2_retropad_analog_lu" type="string" label="30426">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1997,7 +1997,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_ld" type="string" label="30049">
+				<setting id="virtualjaguar_p2_retropad_analog_ld" type="string" label="30427">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2028,7 +2028,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_ll" type="string" label="30050">
+				<setting id="virtualjaguar_p2_retropad_analog_ll" type="string" label="30428">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2059,7 +2059,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_lr" type="string" label="30051">
+				<setting id="virtualjaguar_p2_retropad_analog_lr" type="string" label="30429">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2090,7 +2090,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_ru" type="string" label="30052">
+				<setting id="virtualjaguar_p2_retropad_analog_ru" type="string" label="30430">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2121,7 +2121,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_rd" type="string" label="30053">
+				<setting id="virtualjaguar_p2_retropad_analog_rd" type="string" label="30431">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2152,7 +2152,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_rl" type="string" label="30054">
+				<setting id="virtualjaguar_p2_retropad_analog_rl" type="string" label="30432">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2183,7 +2183,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_p2_retropad_analog_rr" type="string" label="30055">
+				<setting id="virtualjaguar_p2_retropad_analog_rr" type="string" label="30433">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2338,7 +2338,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="virtualjaguar_blit_memo" type="string" label="30075" help="30358">
+				<setting id="virtualjaguar_blit_memo" type="string" label="30075" help="30441">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>

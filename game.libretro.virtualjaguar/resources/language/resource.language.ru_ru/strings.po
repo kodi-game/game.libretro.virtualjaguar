@@ -1441,6 +1441,138 @@ msgctxt "#30401"
 msgid "68000 only"
 msgstr "Только 68000"
 
+msgctxt "#30408"
+msgid "Controller Type"
+msgstr "Тип контроллера"
+
+msgctxt "#30434"
+msgid "Mouse Sensitivity"
+msgstr "Чувствительность мыши"
+
+msgctxt "#30435"
+msgid "Mouse Dead Zone (X)"
+msgstr "Мёртвая зона мыши (X)"
+
+msgctxt "#30436"
+msgid "Mouse Dead Zone (Y)"
+msgstr "Мёртвая зона мыши (Y)"
+
+msgctxt "#30437"
+msgid "Mouse Offset (X)"
+msgstr "Смещение мыши (X)"
+
+msgctxt "#30438"
+msgid "Mouse Offset (Y)"
+msgstr "Смещение мыши (Y)"
+
+msgctxt "#30439"
+msgid "Mouse Response Curve (X)"
+msgstr "Кривая отклика мыши (X)"
+
+msgctxt "#30440"
+msgid "Mouse Response Curve (Y)"
+msgstr "Кривая отклика мыши (Y)"
+
+msgctxt "#30409"
+msgid "Numpad Buttons to Keyboard Keys"
+msgstr "Кнопки цифровой клавиатуры на клавиши клавиатуры"
+
+msgctxt "#30410"
+msgid "RetroPad Up"
+msgstr "RetroPad Вверх"
+
+msgctxt "#30411"
+msgid "RetroPad Down"
+msgstr "RetroPad Вниз"
+
+msgctxt "#30412"
+msgid "RetroPad Left"
+msgstr "RetroPad Влево"
+
+msgctxt "#30413"
+msgid "RetroPad Right"
+msgstr "RetroPad Вправо"
+
+msgctxt "#30414"
+msgid "RetroPad A"
+msgstr "RetroPad A"
+
+msgctxt "#30415"
+msgid "RetroPad B"
+msgstr "RetroPad B"
+
+msgctxt "#30416"
+msgid "RetroPad X"
+msgstr "RetroPad X"
+
+msgctxt "#30417"
+msgid "RetroPad Y"
+msgstr "RetroPad Y"
+
+msgctxt "#30418"
+msgid "RetroPad Select"
+msgstr "RetroPad Select"
+
+msgctxt "#30419"
+msgid "RetroPad Start"
+msgstr "RetroPad Start"
+
+msgctxt "#30420"
+msgid "RetroPad L1"
+msgstr "RetroPad L1"
+
+msgctxt "#30421"
+msgid "RetroPad R1"
+msgstr "RetroPad R1"
+
+msgctxt "#30422"
+msgid "RetroPad L2"
+msgstr "RetroPad L2"
+
+msgctxt "#30423"
+msgid "RetroPad R2"
+msgstr "RetroPad R2"
+
+msgctxt "#30424"
+msgid "RetroPad L3"
+msgstr "RetroPad L3"
+
+msgctxt "#30425"
+msgid "RetroPad R3"
+msgstr "RetroPad R3"
+
+msgctxt "#30426"
+msgid "RetroPad Left Analog Up"
+msgstr "Левый аналог RetroPad Вверх"
+
+msgctxt "#30427"
+msgid "RetroPad Left Analog Down"
+msgstr "Левый аналог RetroPad Вниз"
+
+msgctxt "#30428"
+msgid "RetroPad Left Analog Left"
+msgstr "Левый аналог RetroPad Влево"
+
+msgctxt "#30429"
+msgid "RetroPad Left Analog Right"
+msgstr "Левый аналог RetroPad Вправо"
+
+msgctxt "#30430"
+msgid "RetroPad Right Analog Up"
+msgstr "Правый аналог RetroPad Вверх"
+
+msgctxt "#30431"
+msgid "RetroPad Right Analog Down"
+msgstr "Правый аналог RetroPad Вниз"
+
+msgctxt "#30432"
+msgid "RetroPad Right Analog Left"
+msgstr "Правый аналог RetroPad Влево"
+
+msgctxt "#30433"
+msgid "RetroPad Right Analog Right"
+msgstr "Правый аналог RetroPad Вправо"
+
 #~ msgctxt "#30061"
 #~ msgid "Network Link (JagLink / CatBox)"
 #~ msgstr "Сетевое соединение (JagLink / CatBox)"
